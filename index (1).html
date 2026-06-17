@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Frontier Watch — Daily Company Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy-900:#0A1F44;
+    --navy-700:#15336B;
+    --navy-500:#2E5AAC;
+    --azure:#3B7DED;
+    --paper:#FFFFFF;
+    --panel:#F5F8FC;
+    --line:#E2E9F2;
+    --ink:#0A1F44;
+    --muted:#5E6E8C;
+    --up:#0E9F6E;
+    --down:#D64545;
+    --display:'Space Grotesk',sans-serif;
+    --body:'Inter',sans-serif;
+    --mono:'IBM Plex Mono',monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:var(--body);
+    color:var(--ink);
+    background:var(--paper);
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+  /* Header */
+  header{
+    background:var(--navy-900);
+    color:#fff;
+    border-bottom:3px solid var(--azure);
+  }
+  .head-inner{
+    display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;
+    gap:12px;padding:26px 0 24px;
+  }
+  .brand{display:flex;flex-direction:column;gap:4px}
+  .eyebrow{
+    font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--azure);font-weight:500;
+  }
+  h1{font-family:var(--display);font-weight:700;font-size:30px;letter-spacing:-.01em;line-height:1.05}
+  .stamp{font-family:var(--mono);font-size:12.5px;color:#A9BBD8;text-align:right}
+  .stamp b{color:#fff;font-weight:500}
+
+  /* Section labels */
+  .section{padding:34px 0 8px}
+  .label{
+    display:flex;align-items:center;gap:12px;margin-bottom:18px;
+  }
+  .label h2{
+    font-family:var(--display);font-weight:600;font-size:15px;letter-spacing:.04em;
+    text-transform:uppercase;color:var(--navy-900);white-space:nowrap;
+  }
+  .label .rule{height:1px;background:var(--line);flex:1}
+  .label .count{
+    font-family:var(--mono);font-size:11px;color:var(--muted);
+    border:1px solid var(--line);border-radius:20px;padding:2px 10px;
+  }
+
+  /* Public / market card */
+  .market{
+    background:var(--navy-900);
+    color:#fff;
+    border-radius:14px;
+    padding:24px 26px;
+    display:flex;flex-wrap:wrap;gap:28px;align-items:center;
+  }
+  .market .id{min-width:170px}
+  .market .tkr{font-family:var(--mono);font-size:12px;letter-spacing:.12em;color:var(--azure)}
+  .market .nm{font-family:var(--display);font-size:24px;font-weight:600;margin-top:2px}
+  .market .badge{
+    display:inline-block;margin-top:8px;font-family:var(--mono);font-size:10.5px;
+    letter-spacing:.12em;text-transform:uppercase;background:rgba(59,125,237,.18);
+    color:#9CC0FF;border:1px solid rgba(59,125,237,.4);padding:3px 9px;border-radius:5px;
+  }
+  .market .price{font-family:var(--mono);font-size:38px;font-weight:600;letter-spacing:-.02em}
+  .metrics{display:flex;flex-wrap:wrap;gap:22px 34px;margin-left:auto}
+  .metric{display:flex;flex-direction:column;gap:3px}
+  .metric .k{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:#8FA3C7}
+  .metric .v{font-family:var(--mono);font-size:17px;font-weight:500}
+  .up{color:#36D6A0}.down{color:#FF7A7A}
+
+  /* Private grid */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px}
+  .card{
+    background:var(--paper);border:1px solid var(--line);border-radius:12px;
+    padding:18px 18px 16px;display:flex;flex-direction:column;gap:12px;
+    transition:border-color .15s,box-shadow .15s;
+  }
+  .card:hover{border-color:var(--navy-500);box-shadow:0 4px 18px rgba(10,31,68,.07)}
+  .card-top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+  .card h3{font-family:var(--display);font-size:18px;font-weight:600;letter-spacing:-.01em}
+  .pill{
+    font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+    padding:4px 9px;border-radius:20px;white-space:nowrap;font-weight:500;
+    background:var(--panel);color:var(--navy-700);border:1px solid var(--line);
+  }
+  .pill.filed{background:#FFF3DB;color:#9A6A00;border-color:#F0DCAE}
+  .rowset{display:flex;flex-direction:column;gap:9px}
+  .row .k{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .row .v{font-size:14px;color:var(--ink);font-weight:500}
+  .row .v.big{font-family:var(--mono);font-size:16px;color:var(--navy-700);font-weight:600}
+  .news{border-top:1px solid var(--line);padding-top:11px;margin-top:2px;display:flex;flex-direction:column;gap:8px}
+  .news .nhead{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  .nitem{font-size:13px;line-height:1.4}
+  .nitem a{color:var(--navy-700);text-decoration:none;font-weight:500}
+  .nitem a:hover{color:var(--azure);text-decoration:underline}
+  .nmeta{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-top:1px}
+  .nitem.empty{font-size:12.5px;color:var(--muted)}
+  .srclink{font-family:var(--mono);font-size:10.5px;color:var(--azure);text-decoration:none}
+  .srclink:hover{text-decoration:underline}
+
+  /* Footer */
+  footer{margin-top:42px;border-top:1px solid var(--line);background:var(--panel)}
+  .foot-inner{padding:22px 0 30px;font-size:12px;color:var(--muted);line-height:1.6}
+  .foot-inner b{color:var(--navy-700)}
+
+  @media(max-width:640px){
+    h1{font-size:24px}
+    .market{flex-direction:column;align-items:flex-start;gap:18px}
+    .market .price{font-size:32px}
+    .metrics{margin-left:0}
+    .stamp{text-align:left}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap head-inner">
+    <div class="brand">
+      <span class="eyebrow">Daily Company Briefing</span>
+      <h1>Frontier Watch</h1>
+    </div>
+    <div class="stamp">
+      Updated <b id="stamp">—</b><br>public market data + private-company intel
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="section" id="public">
+    <div class="label"><h2>Public Markets</h2><span class="rule"></span><span class="count" id="pub-count">—</span></div>
+    <div id="public-list"></div>
+  </section>
+
+  <section class="section" id="private">
+    <div class="label"><h2>Private Companies</h2><span class="rule"></span><span class="count" id="priv-count">—</span></div>
+    <div class="grid" id="private-list"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap foot-inner">
+    <b>Not investment advice.</b> A personal briefing assembled from public sources for information only.
+    Private companies have no share price, ticker, or trading volume — for them this tracks the latest reported
+    valuation, funding rounds, and dated news, each linked to its original source. Figures marked "verify" or
+    "seed" need confirmation. Always check the source before acting on any number.
+  </div>
+</footer>
+
+<script>
+// Embedded seed so the page renders even when opened locally (file://).
+// The daily fetch overwrites data.json, and this loader prefers that file when available.
+const SEED = {"updated":"2026-06-17T08:00:00Z","public":[{"ticker":"SPCX","name":"SpaceX","exchange":"Nasdaq","price":135.00,"previousClose":135.00,"change":0.00,"changePct":0.00,"volume":0,"note":"Seed from IPO price","news":[{"date":"2026-06-12","headline":"SpaceX debuts on Nasdaq under ticker SPCX after $135 IPO price","source":"Reuters","url":"https://www.reuters.com/"}]}],"private":[{"name":"OpenAI","status":"Filed confidential S-1","valuation":"~$852B (private, mid-2026)","lastRound":"IPO targeted Q4 2026 / 2027","source":"https://www.reuters.com/","news":[]},{"name":"Anthropic","status":"Filed confidential S-1","valuation":"~$900B target","lastRound":"Raising ~$30B+; IPO as early as Oct 2026","source":"https://www.ft.com/","news":[]},{"name":"Databricks","status":"Private","valuation":"~$134B","lastRound":"No S-1 filed yet","source":"https://www.reuters.com/","news":[]},{"name":"Safe Superintelligence (SSI)","status":"Private","valuation":"Verify latest","lastRound":"Verify latest","source":"https://www.google.com/search?q=Safe+Superintelligence+funding","news":[]},{"name":"Binance","status":"Private (crypto exchange)","valuation":"Not publicly listed","lastRound":"No public equity","source":"https://www.google.com/search?q=Binance+news","news":[]},{"name":"TikTok / ByteDance","status":"Private","valuation":"Verify latest","lastRound":"Watch US-ownership developments","source":"https://www.google.com/search?q=ByteDance+valuation","news":[]},{"name":"Altera","status":"Private","valuation":"$8.75B (2025 deal)","lastRound":"Silver Lake 51% / Intel 49%, Sep 2025","source":"https://www.intc.com/","news":[]},{"name":"Vantage Data Centers (N. America)","status":"Private","valuation":"Verify latest","lastRound":"$10B+ incremental funding (2023)","source":"https://www.google.com/search?q=Vantage+Data+Centers","news":[]},{"name":"Khazna Data Centers","status":"Private","valuation":"Verify latest (G42-backed)","lastRound":"$2.62B financing facility (2025)","source":"https://www.datacenterdynamics.com/en/news/khazna-data-centers-bags-26bn-bank-financing/","news":[]},{"name":"Campus AI","status":"Private","valuation":"Verify latest","lastRound":"Verify latest","source":"https://www.google.com/search?q=Campus+AI+startup","news":[]}]};
+
+const fmtNum = n => (n === null || n === undefined || isNaN(n)) ? "n/a" : Number(n).toLocaleString("en-US");
+const fmtPrice = n => (n === null || n === undefined || isNaN(n)) ? "n/a" : "$" + Number(n).toFixed(2);
+const fmtPct = n => (n === null || n === undefined || isNaN(n)) ? "n/a" : (n>0?"+":"") + Number(n).toFixed(2) + "%";
+const fmtVol = n => { if(n===null||n===undefined||isNaN(n)) return "n/a"; if(n===0) return "—"; if(n>=1e6) return (n/1e6).toFixed(2)+"M"; if(n>=1e3) return (n/1e3).toFixed(1)+"K"; return fmtNum(n); };
+
+function renderPublic(arr){
+  document.getElementById("pub-count").textContent = arr.length + (arr.length===1?" company":" companies");
+  document.getElementById("public-list").innerHTML = arr.map(c=>{
+    const dir = c.change>0?"up":(c.change<0?"down":"");
+    return `<div class="market">
+      <div class="id">
+        <div class="tkr">${c.exchange||""}: ${c.ticker||""}</div>
+        <div class="nm">${c.name}</div>
+        <span class="badge">Publicly traded</span>
+      </div>
+      <div class="price ${dir}">${fmtPrice(c.price)}</div>
+      <div class="metrics">
+        <div class="metric"><span class="k">Change</span><span class="v ${dir}">${fmtPrice(c.change)} (${fmtPct(c.changePct)})</span></div>
+        <div class="metric"><span class="k">Prev Close</span><span class="v">${fmtPrice(c.previousClose)}</span></div>
+        <div class="metric"><span class="k">Volume</span><span class="v">${fmtVol(c.volume)}</span></div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function renderPrivate(arr){
+  document.getElementById("priv-count").textContent = arr.length + " companies";
+  document.getElementById("private-list").innerHTML = arr.map(c=>{
+    const filed = (c.status||"").toLowerCase().includes("filed");
+    const news = (c.news&&c.news.length)
+      ? c.news.slice(0,3).map(n=>`<div class="nitem"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a><div class="nmeta">${n.date||""} · ${n.source||""}</div></div>`).join("")
+      : `<div class="nitem empty">No recent items in feed — see source link above.</div>`;
+    return `<div class="card">
+      <div class="card-top">
+        <h3>${c.name}</h3>
+        <span class="pill ${filed?"filed":""}">${c.status}</span>
+      </div>
+      <div class="rowset">
+        <div class="row"><div class="k">Latest valuation</div><div class="v big">${c.valuation||"n/a"}</div></div>
+        <div class="row"><div class="k">Last round / status</div><div class="v">${c.lastRound||"n/a"}</div></div>
+        ${c.source?`<a class="srclink" href="${c.source}" target="_blank" rel="noopener">↗ verify source</a>`:""}
+      </div>
+      <div class="news"><div class="nhead">Recent news</div>${news}</div>
+    </div>`;
+  }).join("");
+}
+
+function render(data){
+  const d = new Date(data.updated);
+  document.getElementById("stamp").textContent = isNaN(d) ? data.updated :
+    d.toLocaleString("en-GB",{day:"2-digit",month:"short",year:"numeric",hour:"2-digit",minute:"2-digit"});
+  renderPublic(data.public||[]);
+  renderPrivate(data.private||[]);
+}
+
+fetch("data.json",{cache:"no-store"})
+  .then(r=>{ if(!r.ok) throw new Error("no file"); return r.json(); })
+  .then(render)
+  .catch(()=>render(SEED));
+</script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+{
+  "updated": "2026-06-17T08:00:00Z",
+  "public": [
+    {
+      "ticker": "SPCX",
+      "name": "SpaceX",
+      "exchange": "Nasdaq",
+      "price": 135.00,
+      "previousClose": 135.00,
+      "change": 0.00,
+      "changePct": 0.00,
+      "volume": 0,
+      "note": "Seed values from IPO price ($135, priced Jun 11 2026). Replaced automatically by the daily fetch.",
+      "news": [
+        {
+          "date": "2026-06-12",
+          "headline": "SpaceX debuts on Nasdaq under ticker SPCX after $135 IPO price",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/"
+        }
+      ]
+    }
+  ],
+  "private": [
+    {
+      "name": "OpenAI",
+      "status": "Filed confidential S-1",
+      "valuation": "~$852B (private, mid-2026)",
+      "lastRound": "Confidential S-1 submitted Jun 2026; IPO targeted Q4 2026 / 2027",
+      "source": "https://www.reuters.com/",
+      "news": []
+    },
+    {
+      "name": "Anthropic",
+      "status": "Filed confidential S-1",
+      "valuation": "~$900B target (round in progress)",
+      "lastRound": "Raising ~$30B+; IPO discussed as early as Oct 2026",
+      "source": "https://www.ft.com/",
+      "news": []
+    },
+    {
+      "name": "Databricks",
+      "status": "Private",
+      "valuation": "~$134B",
+      "lastRound": "No S-1 filed; future IPO candidate",
+      "source": "https://www.reuters.com/",
+      "news": []
+    },
+    {
+      "name": "Safe Superintelligence (SSI)",
+      "status": "Private",
+      "valuation": "Verify latest",
+      "lastRound": "Verify latest",
+      "source": "https://www.google.com/search?q=Safe+Superintelligence+funding",
+      "news": []
+    },
+    {
+      "name": "Binance",
+      "status": "Private (crypto exchange)",
+      "valuation": "Not publicly listed",
+      "lastRound": "Not applicable — no public equity",
+      "source": "https://www.google.com/search?q=Binance+news",
+      "news": []
+    },
+    {
+      "name": "TikTok / ByteDance",
+      "status": "Private",
+      "valuation": "Verify latest (ByteDance)",
+      "lastRound": "Watch US-ownership developments",
+      "source": "https://www.google.com/search?q=ByteDance+TikTok+valuation",
+      "news": []
+    },
+    {
+      "name": "Altera",
+      "status": "Private",
+      "valuation": "$8.75B (2025 deal)",
+      "lastRound": "Silver Lake bought 51% from Intel, Sep 2025; Intel holds 49%",
+      "source": "https://www.intc.com/news-events/press-releases/detail/1736/intel-announces-strategic-investment-by-silver-lake-in",
+      "news": []
+    },
+    {
+      "name": "Vantage Data Centers (N. America)",
+      "status": "Private",
+      "valuation": "Verify latest",
+      "lastRound": "Raised $10B+ incremental funding (2023); ongoing raises",
+      "source": "https://www.google.com/search?q=Vantage+Data+Centers+funding",
+      "news": []
+    },
+    {
+      "name": "Khazna Data Centers",
+      "status": "Private",
+      "valuation": "Verify latest (G42-backed)",
+      "lastRound": "$2.62B financing facility (2025); MGX & Silver Lake minority holders",
+      "source": "https://www.datacenterdynamics.com/en/news/khazna-data-centers-bags-26bn-bank-financing/",
+      "news": []
+    },
+    {
+      "name": "Campus AI",
+      "status": "Private",
+      "valuation": "Verify latest",
+      "lastRound": "Verify latest",
+      "source": "https://www.google.com/search?q=Campus+AI+startup+funding",
+      "news": []
+    }
+  ]
+}

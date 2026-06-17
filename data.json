@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-17T12:27:32Z",
+  "updated": "2026-06-17T13:53:48Z",
   "public": [
     {
       "ticker": "SPCX",
       "name": "SpaceX",
       "exchange": "Nasdaq",
-      "price": 201.8,
-      "previousClose": 192.5,
-      "change": 9.3,
-      "changePct": 4.8312,
+      "price": 203.92,
+      "previousClose": 201.8,
+      "change": 2.12,
+      "changePct": 1.0505,
       "volume": null,
       "news": [
         {
-          "date": "2026-06-16",
-          "headline": "SpaceX Overtakes Amazon in Value as Post-IPO Rally Reaches 49%",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmRMRzNrTVAxU2xRODNoVUFEOXo5YldkUnVPamd1bWFqd3ZKUUg5R0p3bHRIR3FSZnBVSHk0enFsMnJIMzNRaVN0b0d2TzlZLU5sYVBqVzB4cmdqR1pFWXVFSWg4T0owUGo1QWh3MzMyeXhuNUxLVzJVUUR0TjRPN0R5ZVFCVkk0WUU0N1VTREswNVZDRHNzWDVlTVprTkQ5UFh1TjZxRTFWZ0FnTXBqSXBkTTFPZU5R?oc=5"
+          "date": "2026-06-17",
+          "headline": "SpaceX gains 3% after surpassing Amazon in market cap",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQzFWNzFyQktlaWpGdUIzRmk4dTBoYnR5cGNsSjlDTEJEYnlUUlhPTlczMFZRS3B4S3B5blRLNnA1QWwwVlhjc1BraTVia2JhbFpITUxGU3ZrampDUFktdkhVV19DTWJUSWdNRFl5OThXVDJ5MkYtWTNn0gF_QVVfeXFMTW5xQy1tbGNrT2pTMVc1a20wSElvUGFHYmNhMHN4U1Y0SjEzT1B4a2ZUZXhtczhfWkd1T2V2OFRFRUI3cjBIOGwwc2ZoMlVwelZFN1FfNXp5MGNwdkRDaHNSajFuaUR3UXNXTXc5VkZrVFdNaEgtR2M0c0Y2UERrUQ?oc=5"
         },
         {
           "date": "2026-06-16",
@@ -36,21 +36,21 @@
       "news": [
         {
           "date": "2026-06-16",
-          "headline": "OpenAI Financials Leaked Ahead Of IPO? ChatGPT Maker Said To Have Lost $39B Last Year: Here's How That Compares To Anthropic, SpaceX",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSllmVXJ0Q2FIZXZXanhEMTJ6UENuMFpKa3pOaGhFd0RwTTRlMUd6NGF3RjZXLWo0dkdjVnd6LW4zTmI2VU9xbGhtUjVGSTd1YnBMdG1hN0ZTZUxPZ2ZQWmR4R08wS0g2ZjFTS2RXWHdXSU9GSWZGeVBpX3Azc09adkRwWXRzb01rdEhoZVMwS2tma1UxUXRzOU9ZUThfYVdj?oc=5"
-        },
-        {
-          "date": "2026-06-16",
           "headline": "OpenAI spending hit $34bn last year ahead of planned IPO",
           "source": "Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5"
         },
         {
           "date": "2026-06-17",
-          "headline": "Anthropic IPO 2026 Guide: Price Predictions, Dates, and Everything You Need to Know",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bllBd3prYkpmNUxPajN5d09EV2ZQWGFxU2pvbUd1QXFaMVUzTTlpSWJGVGx6ZXhESFVSajJXSko5enhQa19YVHhPRWRzY09ESUowVzRLd1Mycmc5N0xIWTkwVzlxdGY2?oc=5"
+          "headline": "Anthropic, OpenAI IPO Watch: AI Chiefs Sam Altman, Dario Amodei, Others Reportedly Join Trump At G7 Summit",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQXExbEtROTRlTE9raXY0bTFJYl9tczN6cE5idVpscEZ5N3BGLTVLeC0wMVkwNmF1Q3dPY1ZHZE5XRENQNnZ0NThWVk5GSDBvZTlHNTExamQ2cDQ5UlVBRnJkbHlzdHRSUlpoTS1yUVYxSUptb2lhRVN3MkFOVnE2WmNmMnJ6dUtERkNzVVFyUHIwWTlEdlVKcmxLTFhjWm5OZmtSdHl1M3pDN2FfUm5WeEJ0eE9qWlZLWFNrX2RvY21GdTQ3enpObWxXMWgzLVJVUGtwZUVjdHI0bEp6ak5iclg3NHF5cFVFZW5DRzYybzFqMnl4M3AtNFpGMA?oc=5"
+        },
+        {
+          "date": "2026-06-17",
+          "headline": "AI researcher Gary Marcus sees problems ahead for tech stocks with ties to OpenAI",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1V4dXFFX0piT3VDMGZ3bmN0RW5RMUpERFp1djdKbDNLZExxZ2Jwcm5EcVFvdy1oX0xQVEZYdGRmM09uS0R2YlFlaVo1OFFYLXI0QzNlVzRuYTh4cmxXdnZ6THRqZHJoNzJyQUpMUzNUeG9RbVBrTDZJS0ota2dGc0J5alBwMGF3S2Zmc0NOajY?oc=5"
         }
       ]
     },
@@ -141,26 +141,7 @@
       "valuation": "Not publicly listed",
       "lastRound": "No public equity",
       "source": "https://www.google.com/search?q=Binance+news",
-      "news": [
-        {
-          "date": "2026-06-17",
-          "headline": "Crypto Market News: Bitcoin's On-Chain Signals Are Flashing Every Historical Bottom Indicator — But the Floor Forms Months Before the Launch",
-          "source": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pUFVBa3U4ODFUSHJkQk0ybXByNDg0UG9VeFdlLXpWSjh3ZE5kSEF0MVZLWS04OXFVeDI1SjNuNVNHZFJFUHNtTFRiSUhySzg4Qlo1S3JDdEVVdHZUd0M1SzBJdGk?oc=5"
-        },
-        {
-          "date": "2026-06-16",
-          "headline": "Exclusive: Binance set to lose permission to operate in EU, sources say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE?oc=5"
-        },
-        {
-          "date": "2026-06-16",
-          "headline": "Binance says its European regulatory application is compliant despite report of Greek rejection",
-          "source": "CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN2U1Qm5Ha1d4bnF4X1BrU1BPMll4MS1sVFg3dDRXeDRnaWIwX25rTkZ2MGVFWEJyMGx1Q3hRUDhlTHhtNzQ3cGF2Z2JjV0cwLWV6WjVhR01iWG03cEt2TjVBTnl2N1g2azczQk5iTkt3bzNacDd1QXVLUHV0NXJUZ0lCUzZoYlMzcjV6VWVUT2YtM3FzYjVQa0prX1BxZ3hPZVhxempIcGl1MkdBelRoREg2M0VSYUtfTndDcVJWaDl5SlM0QTdGYVFDcTIzVDhGOHZ4V0l1eFRBcDBG?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "TikTok / ByteDance",
@@ -238,7 +219,7 @@
         {
           "date": "2026-02-10",
           "headline": "Ares Lands $2.4 Billion Loan Deal for Vantage Data Centers",
-          "source": "Bloomberg.com",
+          "source": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlF2ZGY3bmlrZHo1VnZaX0tBeU9Kcnl0MHUxdU1Cc3c5aDJLYU01QjNpRUNCZkhVeDdYTUpTZlVRQ09WS2Zoa0k1ZmtkYkhBdkI0b0ZBNTNGa3NXQWI2S2ZLWjhEMHZ4RFE4bkJKX1pIOHM4MkNZZ3FtZEx1SWV0elkwWjM5TXNfQnFONDNKcUNveUlCb2Y5WTFlNk1Fb2pGMUphbTR2VHZBX0Rj?oc=5"
         }
       ]

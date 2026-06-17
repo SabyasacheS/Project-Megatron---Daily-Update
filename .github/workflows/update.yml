@@ -1,1 +1,141 @@
+#!/usr/bin/env python3
+"""
+fetch_data.py — builds data.json for the Frontier Watch dashboard.
+
+What it does each run:
+  1. Pulls a live quote for the one PUBLIC name (SpaceX / SPCX) from Finnhub.
+  2. Pulls recent dated news for every company from Google News RSS
+     (free, no key, and every item links to its original source = verifiable).
+  3. Writes data.json, which index.html reads.
+
+Set your Finnhub key as an environment variable named FINNHUB_KEY.
+Get a free key at https://finnhub.io  (free tier is fine for one ticker).
+"""
+
+import os, json, datetime, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+
+FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "")
+
+# --- One public company: ticker the live-quote card reads ---
+PUBLIC = [{"ticker": "SPCX", "name": "SpaceX", "exchange": "Nasdaq"}]
+
+# --- Private companies: name + a precise news query + a manual valuation/source ---
+# Update the "valuation" / "lastRound" / "source" fields by hand when a new round is reported.
+PRIVATE = [
+    {"name": "OpenAI", "query": "OpenAI IPO OR funding OR valuation",
+     "status": "Filed confidential S-1", "valuation": "~$852B (private, mid-2026)",
+     "lastRound": "IPO targeted Q4 2026 / 2027", "source": "https://www.reuters.com/"},
+    {"name": "Anthropic", "query": "Anthropic IPO OR funding OR valuation",
+     "status": "Filed confidential S-1", "valuation": "~$900B target",
+     "lastRound": "Raising ~$30B+; IPO as early as Oct 2026", "source": "https://www.ft.com/"},
+    {"name": "Databricks", "query": "Databricks funding OR valuation OR IPO",
+     "status": "Private", "valuation": "~$134B", "lastRound": "No S-1 filed yet",
+     "source": "https://www.reuters.com/"},
+    {"name": "Safe Superintelligence (SSI)", "query": "Safe Superintelligence Ilya Sutskever funding",
+     "status": "Private", "valuation": "Verify latest", "lastRound": "Verify latest",
+     "source": "https://www.google.com/search?q=Safe+Superintelligence+funding"},
+    {"name": "Binance", "query": "Binance exchange news",
+     "status": "Private (crypto exchange)", "valuation": "Not publicly listed",
+     "lastRound": "No public equity", "source": "https://www.google.com/search?q=Binance+news"},
+    {"name": "TikTok / ByteDance", "query": "ByteDance TikTok valuation OR ownership",
+     "status": "Private", "valuation": "Verify latest", "lastRound": "Watch US-ownership developments",
+     "source": "https://www.google.com/search?q=ByteDance+valuation"},
+    {"name": "Altera", "query": "Altera FPGA Silver Lake Intel",
+     "status": "Private", "valuation": "$8.75B (2025 deal)",
+     "lastRound": "Silver Lake 51% / Intel 49%, Sep 2025", "source": "https://www.intc.com/"},
+    {"name": "Vantage Data Centers (N. America)", "query": "Vantage Data Centers funding North America",
+     "status": "Private", "valuation": "Verify latest", "lastRound": "$10B+ incremental funding (2023)",
+     "source": "https://www.google.com/search?q=Vantage+Data+Centers"},
+    {"name": "Khazna Data Centers", "query": "Khazna Data Centers funding G42",
+     "status": "Private", "valuation": "Verify latest (G42-backed)",
+     "lastRound": "$2.62B financing facility (2025)",
+     "source": "https://www.datacenterdynamics.com/en/news/khazna-data-centers-bags-26bn-bank-financing/"},
+    {"name": "Campus AI", "query": "Campus AI startup funding",
+     "status": "Private", "valuation": "Verify latest", "lastRound": "Verify latest",
+     "source": "https://www.google.com/search?q=Campus+AI+startup"},
+]
+
+UA = {"User-Agent": "Mozilla/5.0 (FrontierWatch/1.0)"}
+
+
+def get_quote(ticker):
+    """Live quote from Finnhub: current, previous close, change, % change."""
+    if not FINNHUB_KEY:
+        return None
+    url = f"https://finnhub.io/api/v1/quote?symbol={ticker}&token={FINNHUB_KEY}"
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
+            q = json.load(r)
+        if not q.get("c"):
+            return None
+        return {
+            "price": q.get("c"), "previousClose": q.get("pc"),
+            "change": q.get("d"), "changePct": q.get("dp"),
+            "volume": q.get("v", None),
+        }
+    except Exception as e:
+        print("quote error", ticker, e)
+        return None
+
+
+def get_news(query, limit=3):
+    """Recent dated news via Google News RSS. Each item links to the original publisher."""
+    q = urllib.parse.quote(query)
+    url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+    items = []
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
+            root = ET.fromstring(r.read())
+        for it in root.iter("item"):
+            title = (it.findtext("title") or "").strip()
+            link = (it.findtext("link") or "").strip()
+            pub = (it.findtext("pubDate") or "").strip()
+            src_el = it.find("{http://news.google.com}source") or it.find("source")
+            source = (src_el.text.strip() if src_el is not None and src_el.text else "Google News")
+            date = ""
+            try:
+                date = datetime.datetime.strptime(pub[:25], "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
+            except Exception:
+                date = pub[:16]
+            # strip trailing " - Source" that Google appends to titles
+            if " - " in title:
+                title = title.rsplit(" - ", 1)[0]
+            items.append({"date": date, "headline": title, "source": source, "url": link})
+            if len(items) >= limit:
+                break
+    except Exception as e:
+        print("news error", query, e)
+    return items
+
+
+def main():
+    data = {"updated": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "public": [], "private": []}
+
+    for c in PUBLIC:
+        entry = {"ticker": c["ticker"], "name": c["name"], "exchange": c["exchange"],
+                 "price": None, "previousClose": None, "change": None,
+                 "changePct": None, "volume": None}
+        q = get_quote(c["ticker"])
+        if q:
+            entry.update(q)
+        entry["news"] = get_news(c["name"] + " SpaceX stock", 2)
+        data["public"].append(entry)
+
+    for c in PRIVATE:
+        data["private"].append({
+            "name": c["name"], "status": c["status"], "valuation": c["valuation"],
+            "lastRound": c["lastRound"], "source": c["source"],
+            "news": get_news(c["query"], 3),
+        })
+
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    print("Wrote data.json with", len(data["public"]), "public and",
+          len(data["private"]), "private companies.")
+
+
+if __name__ == "__main__":
+    main()
+
 

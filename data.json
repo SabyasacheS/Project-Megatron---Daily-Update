@@ -1,22 +1,27 @@
 {
-  "updated": "2026-06-17T08:00:00Z",
+  "updated": "2026-06-17T12:27:32Z",
   "public": [
     {
       "ticker": "SPCX",
       "name": "SpaceX",
       "exchange": "Nasdaq",
-      "price": 135.00,
-      "previousClose": 135.00,
-      "change": 0.00,
-      "changePct": 0.00,
-      "volume": 0,
-      "note": "Seed values from IPO price ($135, priced Jun 11 2026). Replaced automatically by the daily fetch.",
+      "price": 201.8,
+      "previousClose": 192.5,
+      "change": 9.3,
+      "changePct": 4.8312,
+      "volume": null,
       "news": [
         {
-          "date": "2026-06-12",
-          "headline": "SpaceX debuts on Nasdaq under ticker SPCX after $135 IPO price",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/"
+          "date": "2026-06-16",
+          "headline": "SpaceX Overtakes Amazon in Value as Post-IPO Rally Reaches 49%",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmRMRzNrTVAxU2xRODNoVUFEOXo5YldkUnVPamd1bWFqd3ZKUUg5R0p3bHRIR3FSZnBVSHk0enFsMnJIMzNRaVN0b0d2TzlZLU5sYVBqVzB4cmdqR1pFWXVFSWg4T0owUGo1QWh3MzMyeXhuNUxLVzJVUUR0TjRPN0R5ZVFCVkk0WUU0N1VTREswNVZDRHNzWDVlTVprTkQ5UFh1TjZxRTFWZ0FnTXBqSXBkTTFPZU5R?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "SpaceX Stock Has Climbed About 50%. The ‘Flippers’ Are Kicking Themselves.",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFlrNEMtVDZ2c0lqNE9hcFNWLUVreUFnSlNKRGxPdXVWYjVaQlRsdGtOWVRONjZJUHRTblA3NkJFeW05SjI5bDFRUU96bFlxZlNRQ05qOHBUd0dxalo0OUlyY0JZVG9BZjRpN3dZT2ZMLWp6QldpZlVwcGNZLWNBeXppZHVMVjNsN3VON1pFcHlpaEhGTGtjRnBPenpVOUoxTTVpVTVRY3g4WHhBWHZLQzJGRQ?oc=5"
         }
       ]
     }
@@ -26,25 +31,82 @@
       "name": "OpenAI",
       "status": "Filed confidential S-1",
       "valuation": "~$852B (private, mid-2026)",
-      "lastRound": "Confidential S-1 submitted Jun 2026; IPO targeted Q4 2026 / 2027",
+      "lastRound": "IPO targeted Q4 2026 / 2027",
       "source": "https://www.reuters.com/",
-      "news": []
+      "news": [
+        {
+          "date": "2026-06-16",
+          "headline": "OpenAI Financials Leaked Ahead Of IPO? ChatGPT Maker Said To Have Lost $39B Last Year: Here's How That Compares To Anthropic, SpaceX",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSllmVXJ0Q2FIZXZXanhEMTJ6UENuMFpKa3pOaGhFd0RwTTRlMUd6NGF3RjZXLWo0dkdjVnd6LW4zTmI2VU9xbGhtUjVGSTd1YnBMdG1hN0ZTZUxPZ2ZQWmR4R08wS0g2ZjFTS2RXWHdXSU9GSWZGeVBpX3Azc09adkRwWXRzb01rdEhoZVMwS2tma1UxUXRzOU9ZUThfYVdj?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "OpenAI spending hit $34bn last year ahead of planned IPO",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5"
+        },
+        {
+          "date": "2026-06-17",
+          "headline": "Anthropic IPO 2026 Guide: Price Predictions, Dates, and Everything You Need to Know",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bllBd3prYkpmNUxPajN5d09EV2ZQWGFxU2pvbUd1QXFaMVUzTTlpSWJGVGx6ZXhESFVSajJXSko5enhQa19YVHhPRWRzY09ESUowVzRLd1Mycmc5N0xIWTkwVzlxdGY2?oc=5"
+        }
+      ]
     },
     {
       "name": "Anthropic",
       "status": "Filed confidential S-1",
-      "valuation": "~$900B target (round in progress)",
-      "lastRound": "Raising ~$30B+; IPO discussed as early as Oct 2026",
+      "valuation": "~$900B target",
+      "lastRound": "Raising ~$30B+; IPO as early as Oct 2026",
       "source": "https://www.ft.com/",
-      "news": []
+      "news": [
+        {
+          "date": "2026-06-17",
+          "headline": "Anthropic IPO 2026 Guide: Price Predictions, Dates, and Everything You Need to Know",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bllBd3prYkpmNUxPajN5d09EV2ZQWGFxU2pvbUd1QXFaMVUzTTlpSWJGVGx6ZXhESFVSajJXSko5enhQa19YVHhPRWRzY09ESUowVzRLd1Mycmc5N0xIWTkwVzlxdGY2?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "Anthropic IPO: What to know before you buy the stock",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUm4tUU1EYW9YS3lLVTNhNWRkcHJIZmJ6STByXzU4SVU1V2R5Q3NvQUprWkJQSWdabGpVd0xzcTNfMlpwd0N0U0lGLXpMX1Nnd19LS0txYVhPSzEyTzB4cVBSMFgzZWZLWUZSMUpIWnUxeXpPMmFIZDdGczZnc2prOFBwdjJXMTFVYXVMUW1XcUVJa0hsSG1RTGpnQ0h2dmRWcnk1ZDF2MGNaRzdsRnVWVG5adXJkQ3ZDMWJTVlU3Nm1tY0VTMlE?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "Anthropic’s IPO pitch has a new problem: The government can shut it down",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PaW5QdGZWdlkydTRvMWNFWTFlY0JzN0JDWVZkN2dmZDR1VU4zZVFDbVhWRDJiLTd6QV83V3p1V3cyZ092Q1Bkb3pZbmlwN2hxNVR3S1hRenpKVTh4bVFRU3NhUGFWSVl0cWs3Ui1paWRhQzRibWcwWA?oc=5"
+        }
+      ]
     },
     {
       "name": "Databricks",
       "status": "Private",
       "valuation": "~$134B",
-      "lastRound": "No S-1 filed; future IPO candidate",
+      "lastRound": "No S-1 filed yet",
       "source": "https://www.reuters.com/",
-      "news": []
+      "news": [
+        {
+          "date": "2026-06-16",
+          "headline": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEpPNTBQMW5BMmlvZFl4ZGdLZ3ptNE9fejRGczVXeXgyZEVzamNYeHFsU2cyTUdXQm9vNEhzV0xBdmpLak1OVUplTmlsREw1VWdDaTdXVmdHTmVKaHR4YUY1My1ZTEdzeVhMUVBpdkxqQ3RLUUFSTGN3ZXRXTzU5Rll6RzJXUDhlUDJKT2g0c2cxUmlwMFYxeDRwalFxVGlMVExDSEQ5cEQ2UlHSAbABQVVfeXFMTmdNVlV2cFNDT0ZoV3YzQTNVd1R1YXp0YndHeFpqOXNuM1ZSdHZjYVhhSkZROXhKZ1JEejFMa1NyYjI3NVVvUlVMM2RqZVlOcW9oNHA5eUNWVnhQYnNXMWZySE8zR3NxZ1VFbzhtZ0NVODdoMlNTMWVBWGUtX3A1ZmxfalBmWTNodzRNOUpYTE5FV1E4d1V1RUdneGRRZXBMbEFrdEdIWTVETDZ0eVNuMlA?oc=5"
+        },
+        {
+          "date": "2026-06-15",
+          "headline": "Databricks Reportedly Eyes Staggering $175 Billion Valuation Ahead Of Potential 2027 IPO",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYndEekphOS02WmxZVzdldWQtcmhBYmZ2RG1UcmVsVmkxRXpnbFJoVXdqdFQ2RHpHci11NFFVRmpTSE84WGNlYnVlVGFnLU5kMWtuVmxTMTYzaTZmWGhncUJjS2NqSG04SUJVN3pVWHRFSG5jYmU2TnI0Q01SMHBrbU9lTlk1ODRUSUZTYkRpSXdic0ViaWtEdGpNN2ZMZmRSQWZBSS0ya2dUQQ?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "Databricks strikes deal to buy Panther Labs in cybersecurity push",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGNaZ3hMTUtLaHREempZTks1ZXhITFZYMldIODNpcm1mQWRoQkY4MGdET0JUYW5QX241THNNams3UnFiYVdMV0llMUNCbzFORWtwNkdDcHpkeEJmVDRkVVJTYWFTTldqc0JJRFZpX3JzdEtVeG5DcUZXRGVnSnN1bkRBV1JvaWsxSUNnemszLXBxOHJER3hTTURUUUJ4RDRHdmNLZUZQNXFuLUR4alJkR0xRdGFkdw?oc=5"
+        }
+      ]
     },
     {
       "name": "Safe Superintelligence (SSI)",
@@ -52,55 +114,188 @@
       "valuation": "Verify latest",
       "lastRound": "Verify latest",
       "source": "https://www.google.com/search?q=Safe+Superintelligence+funding",
-      "news": []
+      "news": [
+        {
+          "date": "2026-06-06",
+          "headline": "Ilya Sutskever's SSI: The $32B Bet on a Post-Scaling Future",
+          "source": "StartupHub.ai",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGVTbmp1TExwZlhSb0VoMGR1UGJld0U2dVplcWFYaGxsbnU3UENwX0NHSFpZZ1ZMUWsxUEdBYVE0LW5MTUlScnpROE5URGFuWTNMREFYZzlLUDYxZkNPMkhodFlweUxNV1dBVWc0TTc3SjlmVjZZb1JVVUstcWc5ZzQ2MUxfc2NES1NLYUY4V0tncW0zY0pmVmVIX0x2RF8yNTVnOTRib0h6QQ?oc=5"
+        },
+        {
+          "date": "2025-11-26",
+          "headline": "This OpenAI Co-Founder Has Raised Billions. He Has No Product Plans Yet",
+          "source": "inc.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGpQRjhFM0NTTENvWWJmc2wtSWJhSmpIZjN0RWM4WWRLVVBaM3BvTVpudWh0T3RPMWdrbF9pSTJCVWxETWc3QU5XdGxaelFKeDZfNDlaQnJnY3ZxNmVyVll1VmJFVXVQM2pId0pHSW5mVlZjdS1pR0ZtM2RTT2Z4MG5sV2w1RmdqRURPQ3hkS0xJNnMwcU82VkxQZnZrS3NoVC1fRm1OUkU3Y1BlOUlPcEFtZklscWc?oc=5"
+        },
+        {
+          "date": "2026-02-05",
+          "headline": "Ilya Sutskever’s Safe Superintelligence engineer walks away to fix what AI breaks",
+          "source": "CTech",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TRmpJQ3hyY0lONU9FX3M3dE1ROUxFS0wtY1NsMUI5bkFzMkFLVVgxZGV6d0VHOV83ZnNnc3EtNmJyeWVKdEtoZ2tWM3Q0dGNFb25KeUZPLXRSeXFVUlR3aXotMmc0bDBn?oc=5"
+        }
+      ]
     },
     {
       "name": "Binance",
       "status": "Private (crypto exchange)",
       "valuation": "Not publicly listed",
-      "lastRound": "Not applicable — no public equity",
+      "lastRound": "No public equity",
       "source": "https://www.google.com/search?q=Binance+news",
-      "news": []
+      "news": [
+        {
+          "date": "2026-06-17",
+          "headline": "Crypto Market News: Bitcoin's On-Chain Signals Are Flashing Every Historical Bottom Indicator — But the Floor Forms Months Before the Launch",
+          "source": "Binance",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pUFVBa3U4ODFUSHJkQk0ybXByNDg0UG9VeFdlLXpWSjh3ZE5kSEF0MVZLWS04OXFVeDI1SjNuNVNHZFJFUHNtTFRiSUhySzg4Qlo1S3JDdEVVdHZUd0M1SzBJdGk?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "Exclusive: Binance set to lose permission to operate in EU, sources say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "Binance says its European regulatory application is compliant despite report of Greek rejection",
+          "source": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN2U1Qm5Ha1d4bnF4X1BrU1BPMll4MS1sVFg3dDRXeDRnaWIwX25rTkZ2MGVFWEJyMGx1Q3hRUDhlTHhtNzQ3cGF2Z2JjV0cwLWV6WjVhR01iWG03cEt2TjVBTnl2N1g2azczQk5iTkt3bzNacDd1QXVLUHV0NXJUZ0lCUzZoYlMzcjV6VWVUT2YtM3FzYjVQa0prX1BxZ3hPZVhxempIcGl1MkdBelRoREg2M0VSYUtfTndDcVJWaDl5SlM0QTdGYVFDcTIzVDhGOHZ4V0l1eFRBcDBG?oc=5"
+        }
+      ]
     },
     {
       "name": "TikTok / ByteDance",
       "status": "Private",
-      "valuation": "Verify latest (ByteDance)",
+      "valuation": "Verify latest",
       "lastRound": "Watch US-ownership developments",
-      "source": "https://www.google.com/search?q=ByteDance+TikTok+valuation",
-      "news": []
+      "source": "https://www.google.com/search?q=ByteDance+valuation",
+      "news": [
+        {
+          "date": "2026-05-29",
+          "headline": "A spin-off deal saved TikTok’s US future. Sen. Ed Markey is questioning if it puts national security at risk",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWZTTmx6NzJEWGFqdkRudnBFaFR3Yy16RGdfOWJxS29hNlg3dV9CUzZzYktJTGdZNDJrYm1hOXlDZnlFZHJfMkNOQzdkN0lJeGEydXgxY2xxNGItekdleU9uVGpITVZIUnFFVDA1UkQ5bzJPQ1pna2ttZUZ4Q3pQTHo1SXNLNFkxc0ZUTnJwMTJnTFF3N0E?oc=5"
+        },
+        {
+          "date": "2025-12-22",
+          "headline": "TikTok owner ByteDance's valuation hits US$500 billion as US survival plan advances",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHhFYl9aM0NuamNhWk5Ecm9Yc0ZsY2kyRENQNzUxRlJMdFBZNE1pR3E1dVZpRzRxNE1pRmw4czVtYnpVeE9qTVphR0Z2dmNLYm9QTzJSR1F0NndXVm5HcDRJazVrVVFKS2tHem8tT1ZYVVF6VEdRWlNWTFJNcmFDcDQ2cVkxUnVhZGs4TA?oc=5"
+        },
+        {
+          "date": "2026-01-27",
+          "headline": "Why China’s ByteDance could be a big winner in its TikTok deal with Trump",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNHZGXzQ1Mm50eHpVblotR292RW9JS2dTN0RnZHJVRXNiSWlzVlFic1pxeS1CM3M5N2I3cUg0WWw4a0oyZDNGa1hENHVWRnlhVHIwdkRMekdYOGpTVTNCOEMwRlpWN2dsVGdTNG0ycE5KaEdvVEtVWFEwdUJhUEY1Ug?oc=5"
+        }
+      ]
     },
     {
       "name": "Altera",
       "status": "Private",
       "valuation": "$8.75B (2025 deal)",
-      "lastRound": "Silver Lake bought 51% from Intel, Sep 2025; Intel holds 49%",
-      "source": "https://www.intc.com/news-events/press-releases/detail/1736/intel-announces-strategic-investment-by-silver-lake-in",
-      "news": []
+      "lastRound": "Silver Lake 51% / Intel 49%, Sep 2025",
+      "source": "https://www.intc.com/",
+      "news": [
+        {
+          "date": "2025-09-15",
+          "headline": "Altera CEO Sees ‘Huge Opportunity’ To ‘Grab Share’ From AMD After Intel-Silver Lake Sale",
+          "source": "crn.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjMxRURPY3hDNkNFVjBGLXpwRWwxV1VqWVREZUxibmszNEhjWkpDRUhYeEJwV21DbE56MzBOMG5HWDhZc0FJY1pMTmJhZDF4elI2X09Zbk9jNVIwVW5YeXlBSE5ObGE2MzRpU2FKQU5mblpDWUpCSFBpRFpydkpXZThNWGVOdWNZRk9GUDNHazV6ZWdLRmxqTnkya0dkOTNYeGdIcHNhdjd2a3c2elNnMFRuYVBNaWJMdHdJdV85OXp6WjZTZUl4RzYtTmhtakE?oc=5"
+        },
+        {
+          "date": "2025-09-29",
+          "headline": "Altera Reborn: A Pure-Play FPGA Company",
+          "source": "More Than Moore",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblI4Zm5WcW5BT1VQTlBwTXozY3d5NG5FRnVRdk1ETWI4WE9JSFh1b19Xd0ZvQUNYd2Jwb1o5azU0R291OHNoZXJVZDVDdWJxRE9MeVRMeFJucHlqWXpYR01DQzNKcldSM0ZqcmZnTTlWYUE1bWpHUkgtVEZCVUYyNg?oc=5"
+        },
+        {
+          "date": "2025-09-17",
+          "headline": "MGX joins Silver Lake as co-investor in semiconductor company Altera",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPajBUWFpMZ3ljRDA0UVZWMG1ZMHJzYVdBSXdWeVNvWnMtYkl3VmlkTDBjZVRwR25HQl91Y2pHUmJ6SW1DMzVTTXk4M3JmS1RkT3JWNHAxTTZYcWI3a2tRTzU1eVZXX0toTUEwQWhoR2QyczdXR09UekRn?oc=5"
+        }
+      ]
     },
     {
       "name": "Vantage Data Centers (N. America)",
       "status": "Private",
       "valuation": "Verify latest",
-      "lastRound": "Raised $10B+ incremental funding (2023); ongoing raises",
-      "source": "https://www.google.com/search?q=Vantage+Data+Centers+funding",
-      "news": []
+      "lastRound": "$10B+ incremental funding (2023)",
+      "source": "https://www.google.com/search?q=Vantage+Data+Centers",
+      "news": [
+        {
+          "date": "2026-02-11",
+          "headline": "Ares arranges $2.4bn in funding for Vantage Data Centers",
+          "source": "Data Center Dynamics",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalY1R0JGY2lmRzRzUGV3X0wxZ3ZGdjlwNm9mZVgzaVM3RXZnUm0yRXA0MDFzSGZPMnhTaFFFMzVrY2RqVjkwNk9UeXZzM0xzbENZUXQ1eUJaMUVKS0pZQ0tFd1NON2lhcWNMTDhkNGRPYnpQUlpRUTdGN0pRQ20yTFIwaEhlLWl4YlVDWHVSN3BLa3VhLVVPeE5paFBsWFk?oc=5"
+        },
+        {
+          "date": "2025-10-09",
+          "headline": "Vantage Data Centers secures $5bn in green loans to fuel North American buildout",
+          "source": "capacityglobal.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmliMzZkNVNkRUFQaFo4MC0zNm9EUk1aY1JyTUhyVXBFRVVqS2ZSM25lLXVueXBPWmJTVWRzTVhzQ2JNVHFYcnZzWVd4UHVvRmVUY2ZCZDdUWVNKQUdqSjU2S19lZ3dXRXN5c2NvbGxMMW5McUwxZkFyckp2Z3JKYzAwQUlMVnZkalE2UW5lV0M0MzBETjFOMmxCRUNIUXhOWWxWOGRpRHk5ckxkZmZoWHZ3?oc=5"
+        },
+        {
+          "date": "2026-02-10",
+          "headline": "Ares Lands $2.4 Billion Loan Deal for Vantage Data Centers",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlF2ZGY3bmlrZHo1VnZaX0tBeU9Kcnl0MHUxdU1Cc3c5aDJLYU01QjNpRUNCZkhVeDdYTUpTZlVRQ09WS2Zoa0k1ZmtkYkhBdkI0b0ZBNTNGa3NXQWI2S2ZLWjhEMHZ4RFE4bkJKX1pIOHM4MkNZZ3FtZEx1SWV0elkwWjM5TXNfQnFONDNKcUNveUlCb2Y5WTFlNk1Fb2pGMUphbTR2VHZBX0Rj?oc=5"
+        }
+      ]
     },
     {
       "name": "Khazna Data Centers",
       "status": "Private",
       "valuation": "Verify latest (G42-backed)",
-      "lastRound": "$2.62B financing facility (2025); MGX & Silver Lake minority holders",
+      "lastRound": "$2.62B financing facility (2025)",
       "source": "https://www.datacenterdynamics.com/en/news/khazna-data-centers-bags-26bn-bank-financing/",
-      "news": []
+      "news": [
+        {
+          "date": "2026-05-27",
+          "headline": "Core42 secures $550 million financing to fuel AI build-out in Europe & US",
+          "source": "Data Center Dynamics",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlFITUxTT2s5dDlMbnQxeHc1S3JlYnJlOG9CTWh2aHBCSDZ0dnZvT3hGeVZ2RGJwYXo1dnNMSUdmOFR3WldpQWJKOHpFUmRNRjl4QlVIQlVWUXFMeEhEU2p2MjNFb2ZpY3d3ZTRLT3J5Z0tJT3dyTGgyMk02cGQ2TFhDOEM2TjhwUlpJelJhaXczd3RFckd3YkxmZExqckYwV3NKZWY0eDlhTWYydGRqZFBwbUQ?oc=5"
+        },
+        {
+          "date": "2025-11-05",
+          "headline": "Microsoft, G42 announce 200 MW data centre capacity expansion in the UAE",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTJrT3ZuTUtabWlpTzFHY1hack94S2JMXzJYSVViMW16OVRGOXpETFUtSWRMRjhXblUwWmt0SmZWak9scjlxVFo1SnE1M0kzM3A1MXhDNmVKaUYxUlZtS0wzQlFjY01TMHhQeXlfbG5JSkhpNjdINTVtZmsyaXpROTlsWkQyT1V3d2R3UEM1NlpjelQtV1BoSEdBTmMwYVdlbEowelhWVlowXzBzeWI1REVoLU15YVZnSmc?oc=5"
+        },
+        {
+          "date": "2025-10-16",
+          "headline": "G42 Provides Update on Construction of Stargate UAE AI Infrastructure Cluster",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3Z0eGhHMlF6UVZsZWZGNlM2N2FJQmZSdDNsMUV3cGNEcG9aZkVZNTIzYm9mRWNYdGVYYmp6dXp3aHpEZ2tvSW5VbTE5RFJaTklZdXk4cXc3US1iZVM3OU91cG56OGJzRk5BWE04Snh6cmF6czJWWXBxSEZac0xXN0E1cWc0bmVGWDRQTQ?oc=5"
+        }
+      ]
     },
     {
       "name": "Campus AI",
       "status": "Private",
       "valuation": "Verify latest",
       "lastRound": "Verify latest",
-      "source": "https://www.google.com/search?q=Campus+AI+startup+funding",
-      "news": []
+      "source": "https://www.google.com/search?q=Campus+AI+startup",
+      "news": [
+        {
+          "date": "2026-04-04",
+          "headline": "These AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPbHBQRXQ5eklENlRFTFJLcG5VUk5mRHRyRnZwSWVDTFdyRU1Kb0l4S3Q4OThkbVVoUHlGQkVqUnZYN1NQX0llZk1CQ2t5MThPMC1ZOXFja1p6WjVsb2dVN2FLOE95cFU?oc=5"
+        },
+        {
+          "date": "2025-10-10",
+          "headline": "Campus Acquires AI Startup Founded by Former Meta AI Chief",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnp1aHl5YWN6QTZQa0I2Mmdvbm52UVA2bERsaEpKMVEwY2pWa0tBNjdtZkxtaE1rbmpJajhfUnlRb3Bfc3plX2x2TUwyNS1RZUVseUlqWkY5ejJVb0h1ck1sTDNPVnVrbzVibWN2NXFWcHZKRzhSMHFwNHFBeThzTlBrWDVqTWtxT2FOc1BwWHNSbVcwcEtzRjJEWjZtZ25Nam44WXRqcVZBYUZleEVvOUNvX2c?oc=5"
+        },
+        {
+          "date": "2026-01-26",
+          "headline": "From first-year roommates to co-founders, Penn alums raise $10 million for AI startup",
+          "source": "The Daily Pennsylvanian",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGZNenpsVElwcnF2azdvc05UZUpaaW5BNkx5NGJLV0tCNlRKQnZMRWpUNU5nblRUbjRzUjVFUVNfTFF1Qndfb1Rib3M5cUxkSnZldHBBWFNoRU15SDA1WGxwZ3FIVnQ1MGxyNjVnZWxPVXZQZmx3RjBPS25SZUVpLVlsc1ZiZUV3eXdUUUNRTlFxOEM1WFlhLV9ySmNSTkpCSHZKTDJlRlg?oc=5"
+        }
+      ]
     }
   ]
 }

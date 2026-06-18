@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-17T13:53:48Z",
+  "updated": "2026-06-18T07:17:02Z",
   "public": [
     {
       "ticker": "SPCX",
       "name": "SpaceX",
       "exchange": "Nasdaq",
-      "price": 203.92,
+      "price": 191.82,
       "previousClose": 201.8,
-      "change": 2.12,
-      "changePct": 1.0505,
+      "change": -9.98,
+      "changePct": -4.9455,
       "volume": null,
       "news": [
         {
           "date": "2026-06-17",
-          "headline": "SpaceX gains 3% after surpassing Amazon in market cap",
+          "headline": "SpaceX posts first losing day as stock sinks 5%, losing momentum after a multiday rally",
           "source": "CNBC",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQzFWNzFyQktlaWpGdUIzRmk4dTBoYnR5cGNsSjlDTEJEYnlUUlhPTlczMFZRS3B4S3B5blRLNnA1QWwwVlhjc1BraTVia2JhbFpITUxGU3ZrampDUFktdkhVV19DTWJUSWdNRFl5OThXVDJ5MkYtWTNn0gF_QVVfeXFMTW5xQy1tbGNrT2pTMVc1a20wSElvUGFHYmNhMHN4U1Y0SjEzT1B4a2ZUZXhtczhfWkd1T2V2OFRFRUI3cjBIOGwwc2ZoMlVwelZFN1FfNXp5MGNwdkRDaHNSajFuaUR3UXNXTXc5VkZrVFdNaEgtR2M0c0Y2UERrUQ?oc=5"
         },
         {
-          "date": "2026-06-16",
-          "headline": "SpaceX Stock Has Climbed About 50%. The ‘Flippers’ Are Kicking Themselves.",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFlrNEMtVDZ2c0lqNE9hcFNWLUVreUFnSlNKRGxPdXVWYjVaQlRsdGtOWVRONjZJUHRTblA3NkJFeW05SjI5bDFRUU96bFlxZlNRQ05qOHBUd0dxalo0OUlyY0JZVG9BZjRpN3dZT2ZMLWp6QldpZlVwcGNZLWNBeXppZHVMVjNsN3VON1pFcHlpaEhGTGtjRnBPenpVOUoxTTVpVTVRY3g4WHhBWHZLQzJGRQ?oc=5"
+          "date": "2026-06-17",
+          "headline": "SpaceX Stock Is Coming to an Index Fund Near You Soon. Here’s What To Watch For—and When",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOExZdGF0UFBIQzUtSEtlbjlxU3FfQkwzdmRXR3F6TDU4S0Y4WWNGdENVemRNX0xRRG1RVHRqdERncllzczRJVm1kbDNXTWlfeWVITjUwV3hJZVFOMHhQdTJtNVNsN3FLajNUZEpYbmxaalVoQXBOMFkwbUV4Q1FVR0dMeVRTdGNGZk1JaDdaMHRoUnZXdEZOdnhrLXh2QkZmb2NNamFzU2hfZzdzbW5zNHhLbmM2RGxlRFppQWR1Y3FqR0hKMnZFNkRn?oc=5"
         }
       ]
     }
@@ -41,16 +41,16 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5"
         },
         {
-          "date": "2026-06-17",
-          "headline": "Anthropic, OpenAI IPO Watch: AI Chiefs Sam Altman, Dario Amodei, Others Reportedly Join Trump At G7 Summit",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQXExbEtROTRlTE9raXY0bTFJYl9tczN6cE5idVpscEZ5N3BGLTVLeC0wMVkwNmF1Q3dPY1ZHZE5XRENQNnZ0NThWVk5GSDBvZTlHNTExamQ2cDQ5UlVBRnJkbHlzdHRSUlpoTS1yUVYxSUptb2lhRVN3MkFOVnE2WmNmMnJ6dUtERkNzVVFyUHIwWTlEdlVKcmxLTFhjWm5OZmtSdHl1M3pDN2FfUm5WeEJ0eE9qWlZLWFNrX2RvY21GdTQ3enpObWxXMWgzLVJVUGtwZUVjdHI0bEp6ak5iclg3NHF5cFVFZW5DRzYybzFqMnl4M3AtNFpGMA?oc=5"
+          "date": "2026-06-18",
+          "headline": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5"
         },
         {
-          "date": "2026-06-17",
-          "headline": "AI researcher Gary Marcus sees problems ahead for tech stocks with ties to OpenAI",
-          "source": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1V4dXFFX0piT3VDMGZ3bmN0RW5RMUpERFp1djdKbDNLZExxZ2Jwcm5EcVFvdy1oX0xQVEZYdGRmM09uS0R2YlFlaVo1OFFYLXI0QzNlVzRuYTh4cmxXdnZ6THRqZHJoNzJyQUpMUzNUeG9RbVBrTDZJS0ota2dGc0J5alBwMGF3S2Zmc0NOajY?oc=5"
+          "date": "2026-06-08",
+          "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZ9IBrwFBVV95cUxNYmdiVHBYUUVMODVqaDh4ZjJmV3RyXzNJa1BtblRDRWRFbEIzb2tQNURabU1hSmEtQkZCSDhva3JCVWFIYV9leDVYaVFxWXBQeTNpeHoxbVQzRk5vMVdsa1dpZW0tLXVNRXhuVzZtLVBCSTU2U0pBRDE2NzFKOFRqT041anVxS0RfamwtcEpqeHhiTnNxZ3ZIZWotSzZsSHQ5eTRJcW8xRGdMRkdjWmxF?oc=5"
         }
       ]
     },
@@ -62,12 +62,6 @@
       "source": "https://www.ft.com/",
       "news": [
         {
-          "date": "2026-06-17",
-          "headline": "Anthropic IPO 2026 Guide: Price Predictions, Dates, and Everything You Need to Know",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bllBd3prYkpmNUxPajN5d09EV2ZQWGFxU2pvbUd1QXFaMVUzTTlpSWJGVGx6ZXhESFVSajJXSko5enhQa19YVHhPRWRzY09ESUowVzRLd1Mycmc5N0xIWTkwVzlxdGY2?oc=5"
-        },
-        {
           "date": "2026-06-16",
           "headline": "Anthropic IPO: What to know before you buy the stock",
           "source": "Yahoo Finance",
@@ -78,6 +72,12 @@
           "headline": "Anthropic’s IPO pitch has a new problem: The government can shut it down",
           "source": "Fortune",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PaW5QdGZWdlkydTRvMWNFWTFlY0JzN0JDWVZkN2dmZDR1VU4zZVFDbVhWRDJiLTd6QV83V3p1V3cyZ092Q1Bkb3pZbmlwN2hxNVR3S1hRenpKVTh4bVFRU3NhUGFWSVl0cWs3Ui1paWRhQzRibWcwWA?oc=5"
+        },
+        {
+          "date": "2026-06-16",
+          "headline": "Anthropic IPO 2026 Guide: Price Predictions, Dates, and Everything You Need to Know",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bllBd3prYkpmNUxPajN5d09EV2ZQWGFxU2pvbUd1QXFaMVUzTTlpSWJGVGx6ZXhESFVSajJXSko5enhQa19YVHhPRWRzY09ESUowVzRLd1Mycmc5N0xIWTkwVzlxdGY2?oc=5"
         }
       ]
     },
@@ -89,12 +89,6 @@
       "source": "https://www.reuters.com/",
       "news": [
         {
-          "date": "2026-06-16",
-          "headline": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEpPNTBQMW5BMmlvZFl4ZGdLZ3ptNE9fejRGczVXeXgyZEVzamNYeHFsU2cyTUdXQm9vNEhzV0xBdmpLak1OVUplTmlsREw1VWdDaTdXVmdHTmVKaHR4YUY1My1ZTEdzeVhMUVBpdkxqQ3RLUUFSTGN3ZXRXTzU5Rll6RzJXUDhlUDJKT2g0c2cxUmlwMFYxeDRwalFxVGlMVExDSEQ5cEQ2UlHSAbABQVVfeXFMTmdNVlV2cFNDT0ZoV3YzQTNVd1R1YXp0YndHeFpqOXNuM1ZSdHZjYVhhSkZROXhKZ1JEejFMa1NyYjI3NVVvUlVMM2RqZVlOcW9oNHA5eUNWVnhQYnNXMWZySE8zR3NxZ1VFbzhtZ0NVODdoMlNTMWVBWGUtX3A1ZmxfalBmWTNodzRNOUpYTE5FV1E4d1V1RUdneGRRZXBMbEFrdEdIWTVETDZ0eVNuMlA?oc=5"
-        },
-        {
           "date": "2026-06-15",
           "headline": "Databricks Reportedly Eyes Staggering $175 Billion Valuation Ahead Of Potential 2027 IPO",
           "source": "Yahoo Finance",
@@ -102,9 +96,15 @@
         },
         {
           "date": "2026-06-16",
-          "headline": "Databricks strikes deal to buy Panther Labs in cybersecurity push",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGNaZ3hMTUtLaHREempZTks1ZXhITFZYMldIODNpcm1mQWRoQkY4MGdET0JUYW5QX241THNNams3UnFiYVdMV0llMUNCbzFORWtwNkdDcHpkeEJmVDRkVVJTYWFTTldqc0JJRFZpX3JzdEtVeG5DcUZXRGVnSnN1bkRBV1JvaWsxSUNnemszLXBxOHJER3hTTURUUUJ4RDRHdmNLZUZQNXFuLUR4alJkR0xRdGFkdw?oc=5"
+          "headline": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEpPNTBQMW5BMmlvZFl4ZGdLZ3ptNE9fejRGczVXeXgyZEVzamNYeHFsU2cyTUdXQm9vNEhzV0xBdmpLak1OVUplTmlsREw1VWdDaTdXVmdHTmVKaHR4YUY1My1ZTEdzeVhMUVBpdkxqQ3RLUUFSTGN3ZXRXTzU5Rll6RzJXUDhlUDJKT2g0c2cxUmlwMFYxeDRwalFxVGlMVExDSEQ5cEQ2UlHSAbABQVVfeXFMTmdNVlV2cFNDT0ZoV3YzQTNVd1R1YXp0YndHeFpqOXNuM1ZSdHZjYVhhSkZROXhKZ1JEejFMa1NyYjI3NVVvUlVMM2RqZVlOcW9oNHA5eUNWVnhQYnNXMWZySE8zR3NxZ1VFbzhtZ0NVODdoMlNTMWVBWGUtX3A1ZmxfalBmWTNodzRNOUpYTE5FV1E4d1V1RUdneGRRZXBMbEFrdEdIWTVETDZ0eVNuMlA?oc=5"
+        },
+        {
+          "date": "2026-06-09",
+          "headline": "Databricks Is Eyeing a $175 Billion Valuation. Its CRO Says They're Building a Trillion-Dollar Company",
+          "source": "inc.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa29nMGVpWUlMbDhmSUhxTnpDaXpDT3NkODI3NFFLLW5Dbm5uU3J1bVFSaXNadFBvOHl6Y0QwcjBSZW1hVm1wc29UVU5VYXlUYlg4YnZLY2ZSUlBnU3FSX3hwbGFQNjE3YnRXc3BDSV9vN1IxYk1xbXRDbmJkRklNYmY0WFQ4alRiMnlaeTBzaGJXcF94TGFQQTcwekpSUG1KS0N1NVhGUWlwdW9TN3BnaHV5TVRrWF9LVDc3OWRlMkJuVXJsYzhPclkzaC13dElNbWc?oc=5"
         }
       ]
     },
@@ -141,7 +141,26 @@
       "valuation": "Not publicly listed",
       "lastRound": "No public equity",
       "source": "https://www.google.com/search?q=Binance+news",
-      "news": []
+      "news": [
+        {
+          "date": "2026-06-16",
+          "headline": "Exclusive: Binance set to lose permission to operate in EU, sources say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE?oc=5"
+        },
+        {
+          "date": "2026-06-18",
+          "headline": "CME to Sue CFTC Over Kalshi Bitcoin Perpetual Futures Approval, Outgoing CEO Duffy Says",
+          "source": "Binance",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDM0VNNXd6clQyWlM2YkdtTDd6aXplOTh2QUxWV0lHWEpuTXZXSXVWUEhnNUgzYUt6WHNXRGhJWWc1eElzTklNV3otTGpNaHg3LTR0QzNlZllYVXVuRzh0UkktLXA?oc=5"
+        },
+        {
+          "date": "2026-06-18",
+          "headline": "Pepeto Exchange Upgrade Reaches Binance Level While the Ethereum Price Prediction From Hayes Maps $10,000 and Solana Meme Coins Crash",
+          "source": "markets.businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWmhsckI4Mm92dlNybHdlb0xhUUlLdWJLTWEtMGx4SUNIVkFmd2ZTbnB4N1UxMXJEdGRPWjZyQlJLWW4zRk1XdEhocFFoV19iZjgyaHJmcGNKLWY4ZkxINDVWcHQ0UHJjZ2kxQlBLTF9EQVczX3B3Y2I5NGZqd1hkVlNjQVNRZmpXR1dndjhEUXJ4VGdHNkxfT2IzSDhIUURza2RXMFg0RHR6VU5aUlE4NTFkNTVaeTBPR1owb3ZZQlE0UDllc3ExSWZGYzh2NU4yM1hQWDhFbEhBaUtrWHhPdXVES0tVZWRJUFVtRzhHLTU5OExyT3RKWHN4azlONk8yX0FVa1RLSXVOc3hCTm5JM2NmQUNxTzVUS3dR?oc=5"
+        }
+      ]
     },
     {
       "name": "TikTok / ByteDance",
@@ -219,7 +238,7 @@
         {
           "date": "2026-02-10",
           "headline": "Ares Lands $2.4 Billion Loan Deal for Vantage Data Centers",
-          "source": "Bloomberg",
+          "source": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlF2ZGY3bmlrZHo1VnZaX0tBeU9Kcnl0MHUxdU1Cc3c5aDJLYU01QjNpRUNCZkhVeDdYTUpTZlVRQ09WS2Zoa0k1ZmtkYkhBdkI0b0ZBNTNGa3NXQWI2S2ZLWjhEMHZ4RFE4bkJKX1pIOHM4MkNZZ3FtZEx1SWV0elkwWjM5TXNfQnFONDNKcUNveUlCb2Y5WTFlNk1Fb2pGMUphbTR2VHZBX0Rj?oc=5"
         }
       ]

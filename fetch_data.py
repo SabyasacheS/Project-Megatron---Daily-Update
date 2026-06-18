@@ -60,10 +60,12 @@ PRIVATE = [
 # keeps only the last 72 hours, and shows the top items.
 MACRO_QUERIES = [
     "Federal Reserve interest rate decision",
-    "AI chip export controls Nvidia",
-    "AI regulation policy US",
-    "Nasdaq tech stocks IPO market",
-    "AI data center investment",
+    "AI chip export controls Nvidia China",
+    "AI regulation policy US EU",
+    "tech IPO market Nasdaq",
+    "AI data center power energy",
+    "cryptocurrency regulation SEC",
+    "semiconductor industry demand",
 ]
 
 UA = {"User-Agent": "Mozilla/5.0 (FrontierWatch/1.0)"}
@@ -95,17 +97,33 @@ def clean_title(t):
     return t
 
 
+def _fetch_page(url, timeout=8):
+    req = urllib.request.Request(url, headers=UA)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.geturl(), r.read(250000).decode("utf-8", "ignore")
+
+
 def get_summary(url, max_len=180):
-    """Best-effort one-line summary from the article's own meta description.
-    Returns '' if the page can't be fetched or has no description (fails quietly)."""
+    """Resolve the Google redirect to the real article, then read that page's own
+    meta description. Returns (summary, resolved_url). Fails quietly to ('', url)."""
     if not url:
-        return ""
+        return "", url
+    final, page = url, ""
     try:
-        req = urllib.request.Request(url, headers=UA)
-        with urllib.request.urlopen(req, timeout=6) as r:
-            page = r.read(250000).decode("utf-8", "ignore")
+        final, page = _fetch_page(url)
     except Exception:
-        return ""
+        return "", url
+
+    # If we're still on a Google page, dig the real publisher link out of the HTML.
+    if "google.com" in (final or ""):
+        m = re.search(r'href="(https?://(?!news\.google|www\.google|google|accounts\.google|policies\.google)[^"]+)"', page)
+        if m:
+            try:
+                final, page = _fetch_page(m.group(1))
+            except Exception:
+                pass
+
+    summary = ""
     patterns = [
         r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']',
         r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)["\']',
@@ -118,10 +136,9 @@ def get_summary(url, max_len=180):
             for a, b in [("&amp;", "&"), ("&#39;", "'"), ("&quot;", '"'),
                          ("&nbsp;", " "), ("&rsquo;", "’"), ("&ldquo;", "“"), ("&rdquo;", "”")]:
                 s = s.replace(a, b)
-            if len(s) > max_len:
-                s = s[:max_len].rsplit(" ", 1)[0] + "…"
-            return s
-    return ""
+            summary = (s[:max_len].rsplit(" ", 1)[0] + "…") if len(s) > max_len else s
+            break
+    return summary, (final if final and "google.com" not in final else url)
 
 
 def get_news(query, limit=3, with_summary=True):
@@ -147,9 +164,9 @@ def get_news(query, limit=3, with_summary=True):
             if not title or key in seen:
                 continue
             seen.add(key)
-            summary = get_summary(link) if with_summary else ""
+            summary, resolved = (get_summary(link) if with_summary else ("", link))
             items.append({"date": date, "headline": title, "source": source,
-                          "url": link, "summary": summary})
+                          "url": resolved or link, "summary": summary})
             if len(items) >= limit:
                 break
     except Exception as e:
@@ -157,16 +174,21 @@ def get_news(query, limit=3, with_summary=True):
     return items
 
 
-def get_macro(limit_each=4, total=12):
-    """Merge several macro feeds, dedupe by headline, newest-ish first."""
+def get_macro(per_topic=1, total=8):
+    """One story per topic so the band spans different subjects, not several takes
+    on the same event. Newest-first across topics."""
     seen, out = set(), []
     for q in MACRO_QUERIES:
-        for it in get_news(q, limit_each):
-            key = it["headline"].lower()[:60]
+        kept = 0
+        for it in get_news(q, per_topic + 2):   # pull a few, keep the freshest non-dupes
+            key = it["headline"].lower()[:55]
             if key in seen:
                 continue
             seen.add(key)
             out.append(it)
+            kept += 1
+            if kept >= per_topic:
+                break
     out.sort(key=lambda x: x.get("date", ""), reverse=True)
     return out[:total]
 

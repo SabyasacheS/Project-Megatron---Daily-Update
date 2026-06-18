@@ -12,7 +12,7 @@ Set your Finnhub key as an environment variable named FINNHUB_KEY.
 Get a free key at https://finnhub.io  (free tier is fine for one ticker).
 """
 
-import os, json, datetime, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+import os, re, json, datetime, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 
 FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "")
 
@@ -89,29 +89,67 @@ def get_quote(ticker):
         return None
 
 
-def get_news(query, limit=3):
-    """Recent dated news via Google News RSS. Each item links to the original publisher."""
+def clean_title(t):
+    """Remove a trailing ' - Source' / ' | Source' that Google appends to titles."""
+    t = re.sub(r"\s+[-–—|]\s+[^-–—|]{1,45}$", "", t).strip()
+    return t
+
+
+def get_summary(url, max_len=180):
+    """Best-effort one-line summary from the article's own meta description.
+    Returns '' if the page can't be fetched or has no description (fails quietly)."""
+    if not url:
+        return ""
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=6) as r:
+            page = r.read(250000).decode("utf-8", "ignore")
+    except Exception:
+        return ""
+    patterns = [
+        r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:description["\']',
+    ]
+    for p in patterns:
+        m = re.search(p, page, re.I)
+        if m:
+            s = re.sub(r"\s+", " ", m.group(1)).strip()
+            for a, b in [("&amp;", "&"), ("&#39;", "'"), ("&quot;", '"'),
+                         ("&nbsp;", " "), ("&rsquo;", "’"), ("&ldquo;", "“"), ("&rdquo;", "”")]:
+                s = s.replace(a, b)
+            if len(s) > max_len:
+                s = s[:max_len].rsplit(" ", 1)[0] + "…"
+            return s
+    return ""
+
+
+def get_news(query, limit=3, with_summary=True):
+    """Recent dated news via Google News RSS. Each item links to the original publisher.
+    De-dupes near-identical headlines and attaches a one-line publisher summary."""
     q = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
-    items = []
+    items, seen = [], set()
     try:
         with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
             root = ET.fromstring(r.read())
         for it in root.iter("item"):
-            title = (it.findtext("title") or "").strip()
+            title = clean_title((it.findtext("title") or "").strip())
             link = (it.findtext("link") or "").strip()
             pub = (it.findtext("pubDate") or "").strip()
             src_el = it.find("{http://news.google.com}source") or it.find("source")
             source = (src_el.text.strip() if src_el is not None and src_el.text else "Google News")
-            date = ""
             try:
                 date = datetime.datetime.strptime(pub[:25], "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
             except Exception:
                 date = pub[:16]
-            # strip trailing " - Source" that Google appends to titles
-            if " - " in title:
-                title = title.rsplit(" - ", 1)[0]
-            items.append({"date": date, "headline": title, "source": source, "url": link})
+            key = title.lower()[:55]
+            if not title or key in seen:
+                continue
+            seen.add(key)
+            summary = get_summary(link) if with_summary else ""
+            items.append({"date": date, "headline": title, "source": source,
+                          "url": link, "summary": summary})
             if len(items) >= limit:
                 break
     except Exception as e:

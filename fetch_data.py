@@ -55,6 +55,17 @@ PRIVATE = [
      "source": "https://www.google.com/search?q=Campus+AI+startup"},
 ]
 
+# --- Macro: broad news that can move these AI / space / data-center / crypto names ---
+# Each query is fetched separately and merged; the dashboard sorts newest-first,
+# keeps only the last 72 hours, and shows the top items.
+MACRO_QUERIES = [
+    "Federal Reserve interest rate decision",
+    "AI chip export controls Nvidia",
+    "AI regulation policy US",
+    "Nasdaq tech stocks IPO market",
+    "AI data center investment",
+]
+
 UA = {"User-Agent": "Mozilla/5.0 (FrontierWatch/1.0)"}
 
 
@@ -108,9 +119,25 @@ def get_news(query, limit=3):
     return items
 
 
+def get_macro(limit_each=4, total=12):
+    """Merge several macro feeds, dedupe by headline, newest-ish first."""
+    seen, out = set(), []
+    for q in MACRO_QUERIES:
+        for it in get_news(q, limit_each):
+            key = it["headline"].lower()[:60]
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append(it)
+    out.sort(key=lambda x: x.get("date", ""), reverse=True)
+    return out[:total]
+
+
 def main():
     data = {"updated": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "public": [], "private": []}
+            "macro": [], "public": [], "private": []}
+
+    data["macro"] = get_macro()
 
     for c in PUBLIC:
         entry = {"ticker": c["ticker"], "name": c["name"], "exchange": c["exchange"],
@@ -119,20 +146,20 @@ def main():
         q = get_quote(c["ticker"])
         if q:
             entry.update(q)
-        entry["news"] = get_news(c["name"] + " SpaceX stock", 2)
+        entry["news"] = get_news(c["name"] + " stock OR launch OR Starlink", 5)
         data["public"].append(entry)
 
     for c in PRIVATE:
         data["private"].append({
             "name": c["name"], "status": c["status"], "valuation": c["valuation"],
             "lastRound": c["lastRound"], "source": c["source"],
-            "news": get_news(c["query"], 3),
+            "news": get_news(c["query"], 5),
         })
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    print("Wrote data.json with", len(data["public"]), "public and",
-          len(data["private"]), "private companies.")
+    print("Wrote data.json:", len(data["macro"]), "macro,",
+          len(data["public"]), "public,", len(data["private"]), "private.")
 
 
 if __name__ == "__main__":

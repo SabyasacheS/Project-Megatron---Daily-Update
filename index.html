@@ -87,6 +87,9 @@
   .nitem a{color:var(--navy-700);text-decoration:none;font-weight:500}
   .nitem a:hover{color:var(--azure);text-decoration:underline}
   .nmeta{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-top:1px}
+  .nsum{font-size:12.5px;color:var(--muted);line-height:1.45;margin-top:3px}
+  .market-news .nsum{color:#9fb2d4}
+  .macro-item .nsum{margin-top:4px}
   .nitem.empty{font-size:12.5px;color:var(--muted)}
   .srclink{font-family:var(--mono);font-size:10.5px;color:var(--azure);text-decoration:none}
   .srclink:hover{text-decoration:underline}
@@ -139,7 +142,9 @@
 <footer>
   <div class="wrap foot-inner">
     <b>Not investment advice.</b> A personal briefing assembled from public sources for information only.
-    News shows only items from the last 72 hours.
+    News shows only items from the last 72 hours. Private companies have no
+    share price, ticker, or trading volume — for them this tracks the latest reported valuation, funding rounds,
+    and recent news, each linked to its original source. Figures marked "verify" or "seed" need confirmation.
   </div>
 </footer>
 
@@ -159,19 +164,28 @@ function parseDate(s){
   return isNaN(d) ? null : d;
 }
 
-// Keep only items from the last WINDOW_HRS, sort newest-first, cap to `limit`.
+// Trim a trailing " - Source" / " | Source" that sometimes leaks into headlines.
+function cleanHeadline(t){
+  if(!t) return t;
+  return t.replace(/\s+[-–—|]\s+[^-–—|]{1,45}$/,"").trim();
+}
+
+// Keep last WINDOW_HRS, clean headlines, drop duplicate stories, newest-first, cap to limit.
 function freshSorted(arr, limit){
   const now = Date.now();
   const cutoff = WINDOW_HRS * 3600 * 1000;
+  const seen = new Set();
   return (arr||[])
-    .map(n => ({...n, _d: parseDate(n.date)}))
+    .map(n => ({...n, headline: cleanHeadline(n.headline), _d: parseDate(n.date)}))
     .filter(n => n._d && (now - n._d.getTime()) <= cutoff && (n._d.getTime() - now) <= 36*3600*1000)
     .sort((a,b) => b._d - a._d)
+    .filter(n => { const k=(n.headline||"").toLowerCase().slice(0,55); if(seen.has(k))return false; seen.add(k); return true; })
     .slice(0, limit);
 }
 
 function newsItem(n){
   return `<div class="nitem"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a>`
+    + (n.summary ? `<div class="nsum">${n.summary}</div>` : "")
     + `<div class="nmeta">${n.date||""} · ${n.source||""}</div></div>`;
 }
 
@@ -181,7 +195,9 @@ function renderMacro(arr){
   document.getElementById("macro-list").innerHTML = items.length
     ? items.map(n => `<div class="macro-item"><span class="date">${n.date}</span>`
         + `<div><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a>`
-        + `<span class="src">${n.source||""}</span></div></div>`).join("")
+        + `<span class="src">${n.source||""}</span>`
+        + (n.summary ? `<div class="nsum">${n.summary}</div>` : "")
+        + `</div></div>`).join("")
     : `<div class="macro-empty">No macro items in the last 72 hours.</div>`;
 }
 

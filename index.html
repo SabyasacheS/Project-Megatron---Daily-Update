@@ -185,7 +185,6 @@ function freshSorted(arr, limit){
 
 function newsItem(n){
   return `<div class="nitem"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a>`
-    + (n.summary ? `<div class="nsum">${n.summary}</div>` : "")
     + `<div class="nmeta">${n.date||""} · ${n.source||""}</div></div>`;
 }
 

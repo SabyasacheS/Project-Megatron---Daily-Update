@@ -164,9 +164,8 @@ def get_news(query, limit=3, with_summary=True):
             if not title or key in seen:
                 continue
             seen.add(key)
-            summary, resolved = (get_summary(link) if with_summary else ("", link))
             items.append({"date": date, "headline": title, "source": source,
-                          "url": resolved or link, "summary": summary})
+                          "url": link})
             if len(items) >= limit:
                 break
     except Exception as e:

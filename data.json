@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-21T01:28:17Z",
+  "updated": "2026-07-22T01:27:27Z",
   "macro": [
+    {
+      "date": "2026-07-21",
+      "headline": "China considers tighter export controls on AI models and chips, FT reports",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzMyTnNJaWpKa01rLXVyQ3MzN05JT2JxTlp5LWZBaEh0YzZ3S2lrZmstbVN6MnlRTjc3NlJreWs4N2xYNndBTTVfOUYyQkRpZEVoMnRNNHM0RjVGdHg0X201cGZSRzMxeW5MLUd2VjBWSXFBZEV0ODg3ZzFVWXZjSzZwT1B4M3R1dHlQVGNlSTBmS2h6aDNvWmNhaE9obUtJcFpVWG13?oc=5"
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Semiconductor Manufacturing Processes Adhesive Tapes Market Growth Forecast to 2035 Driven by Advanced Packaging - News and Statistics",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOTRtdE5xcE5HdWhGVDVkZXI3cFdRWEZWQ09ncURPRXpMMElfUi0xWnN4OVBQRkhuQXdDWlJDdjJpcF9CaFU0TnBWQXlNSzN4WWJ0bGpna1dDdW15ZVRaYkVydUlOVTJkMmZnZmRaWFdYaWZaR2hRdTZnT1ZkVnNGakEzYU1CVWhaeFNXekpBSnNpdW92MjBKSGduMU1DNU1keVdRbmR3WjZMLW12aVo2ZHVrRmVXVGtSR09mU25zYl92eXZ0WVByelF4bzhfNnUwZ1FIQzZnMGsyX3gtOFNSczJEbXlzUVpHZ3c?oc=5"
+    },
     {
       "date": "2026-07-20",
       "headline": "How much energy do data centers and artificial intelligence use?",
@@ -20,22 +32,10 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1g1bEw4cTg3OFRTdGhlT3N3eF9NVklLM204aVQwbkowQ0hvcU1yOHhsZXZlcXZBTXY3Zl9xRTdjSHRCY1NtNnV0TndVRkI4anNtSzVyeEhOT2Vnd0NLaWNvNnlzRkdkMFlLTENvY0pNQTFVTE9JaUlvaXpkeFhmZ0VMQXBVdVpFZ1JPdjNubGVOelFUVUlCdmVKLUFDU25CR2U0MDJOU2QxVXJOSndOOW4td0U?oc=5"
     },
     {
-      "date": "2026-07-17",
-      "headline": "Nvidia Chips Keep Reaching China’s Military Despite U.S. Export Controls",
-      "source": "NH Journal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXJKTEpERU43ajF4Yi1XZG5tdlpBQ0lPeW4wZDRGLUJ1MFFYMTJ4Q3JodDdieXRVVHBsenlhdnl5ckV3elIzQy1KLWdhX2RnMjNwTDRKSTd5b3QxRmxHTThvTGVValZ2X25ma2I4VGRGY2c5aTNhOC10NGl6Z2NaQlFMbktlY1RqUUdST2R5U0x1aWxxb3hFaA?oc=5"
-    },
-    {
-      "date": "2026-07-16",
-      "headline": "Atlas Copco Orders Rise on Semiconductor Industry Demand",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVG5zTmNwRUk2OHZsTi1td3E0VG81bGZoV0tjQnBscFZNaHFCZjdiZEh5aFZtS1dsemQyMDhTc3FxaVlZYks4Nl8xMUoxdVl6WTBRWmtRWUZhNy1DU2wwTDd6WmtrMEstMC1icHpYNnRRZGU1a0tQQ3hGQXZock1pNENWZ2JDMU5YOWlpdkRRRzltMUczcGdVN093dXdsRVU?oc=5"
-    },
-    {
-      "date": "2026-07-07",
-      "headline": "SK Hynix—which supplies memory chips to Nvidia—is about to test Wall Street's appetite for the next wave of tech IPOs",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclFyQUZ2MHJrRkxjUVlZT1FGOHFiMDVFSFlLby1YV25FbzlYUmdRcXl6X1RMZXhPdzdDbTh2QllEck12M1dPYjZnaWE5cHp1YmFBTVo1dThVeFI1Zm1YWHY1UlZkMDhnTTQ1RnZqa0pYY3FnTm02QjhNTG5pTGpTQVh0NERWbHh5UHcxcnBB?oc=5"
+      "date": "2026-06-26",
+      "headline": "Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTl9mNUdBaC1Nd2hlTHYzNGtONnY5UE1WUUhfVlFyNEJFNFQwZ3hQV2pNVjZUdmozY0JKRS1wQWVlQk9iZlNpNVM0Y2I2ZFBSN0JKaU0xejFNU1RvSjRiNXhaX0NfaGF4cDZlRVZjT2lwZndpNkpDZDZzemYyR2ljeGtpTDBhSjNuSzNSRW55MXRSYmJhVGFWbFdtZUNudndocW40SmdJSzI0TGZoNFRjcTJDek9IMzVkU2ZHZ3ZONTRUVHlQWUt6VUMxcjAxVFJxLWFr?oc=5"
     },
     {
       "date": "2026-05-19",
@@ -49,28 +49,34 @@
       "ticker": "SPCX",
       "name": "SpaceX",
       "exchange": "Nasdaq",
-      "price": 119.85,
-      "previousClose": 123.99,
-      "change": -4.14,
-      "changePct": -3.339,
+      "price": 123.54,
+      "previousClose": 119.85,
+      "change": 3.69,
+      "changePct": 3.0788,
       "news": [
         {
-          "date": "2026-07-20",
-          "headline": "SpaceX Starship Flight 13 launch updates: New liftoff set for this week",
+          "date": "2026-07-22",
+          "headline": "SpaceX Is Down 20%: Here's Why I'm Still Not Buying",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdi1RRHBiSWV1cVY5dHR1djVPdzZabEQzYm5BbUhyN3FZaE10c1dpMVZQemZXR1Y3Q2xCMW9oNTBLREFDYm5KMTctWnFuM1hlQnpXQ214eUFDaU9ZYndtQmJ0VU5CTE5yTzRZWjEzWmFTNkhqeWNXQkF3WnU0UnJVQ3BnalJka1pkVy1ZOV81amx5Z2s?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "AT&T Stock Has a Big SpaceX Problem, and Earnings Won’t Solve It",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FU09SRFlVQ19XY1FpRzV6Qko3NENITWRlX1dsZlJPT09McnlVdmFWb0tMQWI0LW1vOEkyLS1mSEp6MXdyNEFiMUpUclVpYW5zMFRieXdGNm5FNW1SQkRpY25IUVloczdycF9hcGo0dVN4dHVORmc?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "SpaceX stock slides for a week straight. What happens next?",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nRmdteXBHZ2FSdGJrSGVCdHV1cFZWZVJ3d0Rfa0NYcDBpMkIzb3pXcmVlMmF4MnNGdGw1bjRSV1VLelRvY1c4M3gzMnMwZXBzeGJmLXdCR2l0Slh3a1A4SUVEdUFiaFNucC01cUZtRC1UVlU?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)",
           "source": "Space",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEVWTWtBQWZrWTg0U0dENzk4S196RjFfSlhnSll1VXBnOFlPVk5RRklxa0wtRVcxSUdjZ1JaS0E3Z2JhQVd5dzN6RUEwQzZGYTBjZ3QwMVY0NUxhcVJuVW0yNkFBdGJPcWdwUkpKdUVYdVVRRkE1S3k5eWZUWW9aQkQ5cXJZS1VDUXVKOFl3?oc=5"
-        },
-        {
-          "date": "2026-07-20",
-          "headline": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
-          "source": "NASA (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWhja3NvUzZkaEg1ZC1aa1VMTE9UdVJUcG93RDl5dGRkTWlUTFhoRVpweFdMTWxCMnhmZnFwSFpYQ015RnctSjFHQU1CcHowR3dvOFRqY3lRRmEtMXJaZnktYzNta29ybklFMkp5OUVDSHRKOHkzdGdFUExvcFZOUzFPUUl4Yk9jREJDclpjZEwxR29sM19wSld4aDZlWFU?oc=5"
-        },
-        {
-          "date": "2026-07-20",
-          "headline": "SpaceX suffers rare, last-second Falcon 9 rocket launch abort",
-          "source": "Spaceflight Now",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1lkN2NLZmVmUGozOVFsLWRWNWY5S1B3U1hTd1JDOE9FdUQtTkpEYzZNREI3REpFbjF2UnJzNjBrRDQ5cEV2SVlybTF5VnpmSmlBcG9UaTRiQ2R6TGNVOUpqRGpmV3lDdGV5b3gtbjlMb1F1dXZXWEtPbzlPRUVrLUNRTURzdDdXR0o0S2txN2JDVXZQNWRuQWVUcnRjbEJrREpiRFFGUjVXNGJPb0NJajA2MWtJVC15bkpBRHdsTVhwc2FLTWpiRU1fVlBQbUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNTFrVU04V2hLYzJRcDhScFI5bE9BRUljQW42ZElzWS00STNrNzEydE5EQ2xrYkRMcWJNS1VnZFBDSFJCSWpweGdZUkQ4U0xHdVR1UVFKX3VTdFRhS2ZOMmo0TjBzdE1GVnNmS091emdoYzlWSHdwODIzMlRIbDZIT05RNWZLbGkzTERUVS1GbFJpbkhGUGVzRVhtcXVWU0J3SmY1eUp1QVRSeTlDd3p6UUNtOXRONVZQTi1BNnhVR3NmUWY0?oc=5"
         },
         {
           "date": "2026-07-20",
@@ -83,12 +89,6 @@
           "headline": "SDA’s Third Tranche 1 Mission",
           "source": "SpaceX",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53N00wS3dudlltSGp4cGc4UDNvUGFGb1Z1bHlzNld5THFZYjF3dW5la0RrdGxwSWQyUWtKTFJ3WlpsWkdaTEpzUDd4R1Z4dlRGUDBFdQ?oc=5"
-        },
-        {
-          "date": "2026-07-12",
-          "headline": "Starship's Thirteenth Flight Test",
-          "source": "SpaceX",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41MGFNdXBjRXNHRjlCY21CWXJNYVBNdGwzdnE2RWlzeDJ3dGw1SG41MkQyS0ZrZklJekZRejIzRzREZmhkd3Fwc3J6RUxhTUNvMi1VWjF6TndQSkN1c0tN?oc=5"
         }
       ]
     }
@@ -102,40 +102,40 @@
       "source": "https://www.reuters.com/",
       "news": [
         {
-          "date": "2026-07-20",
-          "headline": "OpenAI is scared of open-weight models. Should the US be?",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVQ5WFh0T2YxcjlNUVlfN211RkE0VXRwQTdCR0pKdGZDQ1VBLW5EM0JIbFdGMkttbEtSeXRjR3FrQTFOazJ1dld2TDB4MnNDTl9QM1dEeDZzdGxTeHBNaFl2X09POG9PZm9YUFNaOWdCWjdza05DcElSZG01bVl4WGZ2a3pONmVDeE5NQ2NVbFRQTjdN?oc=5"
+          "date": "2026-07-22",
+          "headline": "CNBC Daily Open: AI race, potential tariffs and Middle East conflict continue to heat up",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVMtQV8zaGo5LUJZa0J2ZzllZTY5SEoxc0Z3MGI0U2V0M3ItaTVDbzc3VG15TlVPNFZzaExvTGtQckNjeS1NRkVKY3Q3eG1KaWJ5N1NHVzhRZzFKcG9USW1hYW5SOXhBMkpxQ3MzV19CZV9pMkxNTE5kTGVuN1Y1dlJZZ1Q4ZkdVY0JNdXA4TmtLMUpUdElydnpVOTVmeE9DRnAyUkl2N1HSAa4BQVVfeXFMTTBSQlVEaHRNUl84YlVMVVRRTGN5bXozalAxX1lrZEJvSUpEbks1SjcyWEkxQWM0aEgtOWhKcy1NU2lvN0VJVzQwLTlhNlBubjlxc250d2duaXhKQ3lpWU5oSklLMU5pOVZVNWVpaTF2WGhGaGdBZXM1WHpPM0drYkVlcVNCRVZfZTlHdmdZZzlrMWJQcGllUXIzcjNUaUd4WldXdkxHbUE3STNJZ3Vn?oc=5"
         },
         {
-          "date": "2026-07-20",
-          "headline": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
+          "date": "2026-07-21",
+          "headline": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5"
         },
         {
-          "date": "2026-07-20",
-          "headline": "Safety and alignment in an era of long-horizon models",
+          "date": "2026-07-21",
+          "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation",
           "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaXhxNTV2VUx4Mm9hcEpjUU9hSC1zcHZOc1R5VU91eDhlZkJxNkdvWlMzb0Q4WjlFbHA1NkZCUzAwUU41cTJqRGlnM3YzaE8zRTQwYTZMTG1QcHlGSExMTjVjRmhxVTlMQ0VPWXNnaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5"
         },
         {
-          "date": "2026-07-19",
-          "headline": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5"
+          "date": "2026-07-21",
+          "headline": "OpenAI appoints two new members to board of directors",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWdnOTVCTzNyZWFlNXhNNlozX0JjcVhQVmFMekdxNlgtbnV1c0hDRWo4QXBKMFhTclAwNFM5YUgwVFZLRndFNVZCdDdVVzRqUmtsX1FxanR3MFdtS2NnRGNWS0I5bzJudjduU25ZXzFBcE1MTHkzTjZ1STNTcEh2MW40ZE9NYmdKVjJmLW5JMWZfNHYw0gGaAUFVX3lxTFAwZ0EwWFhSNnBLUm8zZ2FFazdpM21UdnRQV0k2WFgxb3ZIZDVmQkFlNnZBRzFldVprXzlDSWdLcXhMSklqU3kwcmxrZkR2aEdKQmpRZ1ZXX1dUUVI0OXdRZ0NWYV9vVmRVejNPLWVNQUlqamVXOGU4ZlJLUGY3WEZLWWRzdk11S1pDMk9vQ0JsVjQ5MnY0TEk0bUE?oc=5"
         },
         {
-          "date": "2026-07-17",
-          "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGdRNWp4OWtaMElvZHp5SnBjVldEVzJMY3FjQmRCYl9iODhNc3pWZHZpQkNLdlZ2ejhnVEVKMzJMaEN4NTA0T0liRnhseGpzOV9kOUN4US1pSFBmdm9ydjN3TUt6UWZRZ0FoUzhxX3BYV1R0REVYZGlhc01RTlVPVEEyWEx0aS1YTkU1bFpUNzBzOWNrNHNlakpKcw?oc=5"
-        },
-        {
-          "date": "2026-07-15",
-          "headline": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "date": "2026-07-21",
+          "headline": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
           "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZEZJazE0TEktTWY0SkozVDBjUzRjVHB1RjZpNGpKRVZONV9mZnR1RmdHdHVuWUR1RWxmYjNRbVNHWFgyLTZSbzBuaHQ5ZTY2MFNoQTBrcmk2RUh4SF9VM21Od3RUVXluTHhTYQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeklNLU5rRmdhSnRjeU5rOE8ybTk1Y2M2ZllZNmVTNXVodjJ2MVFsbVlOOVFTNU5yc1R5ODlCSlN2WjhHS3FQQTIwOXZ6amZfSDQzcUloRDNIeF9IZ25RZGZGTml1enBHVFE0YUpUdy1vQlhncXhZ?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Introducing the ChatGPT for small business program",
+          "source": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wRGdxajhiVG1FbjR4eWZNV0VmMUhuZ0VtWi0zT28wMFd0VGZUZVhRZFpYSEM0Y2puWHFhWFc1bkhHcHE4V282NHZGRE9KTl9GTW50b1g0QWNJclJLcklKalh2LVhUcVEzT0NNTncxcXNuQmhIYlE4?oc=5"
         }
       ]
     },
@@ -148,9 +148,15 @@
       "news": [
         {
           "date": "2026-07-21",
-          "headline": "Anthropic’s landmark $1.5B copyright settlement is approved",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0VfZzJwUmpMQmtCVFRmc2p6NHlXdVEyUEMySm5SOExEVUhjMEJTM0lzUkVCZnJRMVBXNndQaGpUUDJ4bUhZRndxb2pJLVdueUVfcXNGVHN4T2RPajF5NmpKWVpoY1BGSjVweEp0bWJBY3l1RE1OMzdqSE5Gcnd0eVdiTkRaTkF1c2tHc1pOaGFac3JBNzZ3?oc=5"
+          "headline": "The Fed rang the alarm about Anthropic's Mythos AI model",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejZuVHE3NHBKYnY4N0VFS0U3M3JXd3pQeEJBemUyQ21BRTF6U3Vvc2JWVXdQQkdlUDVPYnN0OUZJRnpUNVh4NkhTUTRNT3NyTlhwaTJ1YmpBcm1PSUF5MUZhNjU0SnlLZ3VwdWR4X1MzalF1UDRjcWszR0daUmVtV01ibDQ1MWxBaVFfTWhJWmVpZ9IBlwFBVV95cUxPSmNOa05qbkpGTjB1YkFBZE5rNEZaMFcteW81SlRldGFvckpHRE0tdVI3RHlEa1FSWDVFSnRNbnNLSTBjQlRJSWpJZTZOSEhwU09lb1paM051X2k3ZzcyWXNPYTRrai1tRHdFSndVbS15MUlVWXNFQWtFZGNwM0ZIUVcxTmdPNUVWY2FrS0RWajJucGpDSk9v?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Claude for Investing Teams",
+          "source": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBleUV6and5RDlsRC1LNHMzd2xPaVVqamtRMEFocE1DcVJTaGhEeFBxMzlTYTN0Rm5oMTV2TTcwd2RMbUE5d1psUFdpOFIxdXBFbFRrakdpSWFPbW5PdVlHMTNwVmNVT2Y1aGdkSGtR?oc=5"
         },
         {
           "date": "2026-07-20",
@@ -166,21 +172,15 @@
         },
         {
           "date": "2026-07-20",
-          "headline": "Alibaba Says New AI Model Is Just Second to Anthropic’s Fable 5",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzB1S012cHg4eEkzckQ5QndPdG14Q0FPcUpyLUdGWUZGUldBTnhYWGltdnQ5bUdLOEluV05iYkd2cm44SEYyZEtqMlctbE9PNGMtUzI3MzhDdFVwRTM4MENFalE5aUx5cklkamVvX3dsWG1SSnZYakcxeEMyWWUyVFJCaks1Y0RDR2trUldGcG5JbHFwX3lkbGh1NV9WOFA4?oc=5"
+          "headline": "‘This is AI out of control’: Claude disobeyed Anthropic CEO in simulations",
+          "source": "TBIJ",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnJSbGZBUHBEa1E3Q0JsQThsQWFpUHZuSmpDMkg2RHpEYVNqMnVPWmhHa0N4VUVXVWlRQVpPVkdEbks5d19UTFVJZW5jazBVS0d5OXktaVFzMnd2SGFWUzM3Z3FGUWpnalpTTDZrcUlMTW41UUV4aXBlSDFNVVdMWmMwSkZsZ2xUV3ZKUDlWdVlmS19FbVZHWGV5dF9GRGNPRGpuVVJENDRKZw?oc=5"
         },
         {
           "date": "2026-07-20",
           "headline": "Apply for Anthropic’s AI for Science rare disease research grants",
           "source": "Anthropic",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5"
-        },
-        {
-          "date": "2026-07-14",
-          "headline": "Introducing Claude for Teachers",
-          "source": "Anthropic",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5"
         }
       ]
     },
@@ -192,34 +192,34 @@
       "source": "https://www.reuters.com/",
       "news": [
         {
+          "date": "2026-07-21",
+          "headline": "SkyPilot, from Databricks’ cofounder, raises $20M to be the Switzerland of AI compute",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcERYSWFFV25YYWhqdXdMRFlDR2VmZ1VKRVVEYTBZQjlpN0RadUFFRlJENzRfNkwwUkRVUnlNajVpT0psd1dJR0lxUDItaHFOaFNZeE9sQVBVRE1STlVnUEMtdXMwZzlkVFBLWDZjWThNb0pURU5kalZvYUpsVmZWQjN3a0NwRmw0aEthZGJObDJhQXR6SFdQeGNHSmQ0Nnp5Xy1NRVpzZ0luZEZlR0RCeU9QVQ?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Databricks’ 40% Valuation Bump Looks ‘Almost Quaint’ Next to Anthropic",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUcwajRlX3oyLUxYNk8wajJySGItR3JqTmx3Z0UzcEh2NEhmRVRJa0xHWjhZeEIyODZTNzBJVjJKNjRuR252dmRHUThnZkR6M2E2eUttdTA3dmxJbFBtNExEclNpVENBQzlkUVV1akctbHFyX3lkVFJES0QtTVdLVUVuZDJlUmVNYUxZbnNFWDJWUHhPUV8xMm45dDFTX3c?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Snowflake could 'rerate' after Databricks' new funding round, Jefferies says (SNOW:NYSE)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3AtU29TTEpSbm1vODd2UVltS2l4V3JqTDR5V1dYcVh0T05Hc0lZT1R4di1PbzhTYW5ab1ZvMHhvd2RMU0VKdnNWdnZ4RmdmdTF5cEcxNTR0WFNJT0pwRFh1VTRiVEEwR3NBV2VISUtjMTRiRDY4VTJxelViaFkyRGVmVVBuUXBhTTRIWWhTOEJPOHhxZHdWM2ktMUJIMnhPamdueEQwTjlDM1k0WFkw?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Databricks CEO said they are ’running out of GPUs everywhere’",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHRHQTdjRksta2pySmpFZ2FVc0pNMGp0MEVHbWhyeXV1T1ZzVWVONG1NcFdNZjdWNUw5STREVUlQaGotTlZHY0hOb0lRSVJ6TE51RmJSTUJTendlZVh2cG92cUY5VE1ZUm4xZ0xtYXZxeHBaWGRtaXlXMFpUWUpLLUtVQi01eUdMY09uSV9jWXByQTN3aGdrSzE5VFBRaUVOYVkzajVYUDJTTjdMNzl2Z0M2MGpsdFk?oc=5"
+        },
+        {
           "date": "2026-07-20",
-          "headline": "Databricks Announces Funding, at a $188 Billion Valuation",
-          "source": "FinSMEs",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjdodkRTOTNvZmxobXZSSldKWHh1WWpxTFdfQXNHR1k4WGlnaXlvaldUaS11SUF0TUpPa0pMQTNuTzJiN0tSYkFmbUJ5bkRYeWdNZ3lJdUxqZjFBZlRQZmNmc284YWRra1lwbmhST012RVkybXE1VndCWVRRekRYRmsxM2JyWUVaTXd6UkZfZmVObHZjeUZR?oc=5"
-        },
-        {
-          "date": "2026-07-17",
-          "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTZYXzU2Ulg4YjhrV0lhMl9vV2ExWm5TZXl5VDI0TEI2UDRmbXhqMmRWQTR3dEFNY1pEWi15dGlZY2JHczJQOGdPQzBLNHNyaW5EOUUxX3VVNWN0ZlYweUEzS1QyYTdHNTBvRTFYaDByMFhidFE5U2FXUm5uOTh4STZTYmFCZkh4LVA1UUl3VlNWY28xWkt0ZW1jNXljbjd0Wm9aRUJ2bUpZQU9FSUZ3?oc=5"
-        },
-        {
-          "date": "2026-07-17",
-          "headline": "Databricks CEO: We're hosting open source models like Kimi and running out of GPUs",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjEtOHl6Mk04bGhvUkpUM1dwOHNfd2pqZENkRllFUDF2MnBvdkc2REhlbmpJbkxoeS1EV0FsemFqZHppZ2NRMFZtbDAycC1rWHZydzNKSFZrUlJOMDRpclcxUVB4eXp2OEI2Q0VuYjk0Qm4wMUJQdkZBdWJPd3BoSnd5LS0xZUhuLWJTY3dnamZGTGdPVjlqVzdKVk5VdndaNlJEZnU4SzQ3VDkzY2xMdFM3RkdTSXRJRXVGNDRybm0?oc=5"
-        },
-        {
-          "date": "2026-07-17",
-          "headline": "Databricks Valued at $188 Billion as AI Demand Surges",
-          "source": "The Information",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFJJclVDeG1tZ1dNLW9nV2pzZlhyazlKZ0tiR292YW16ZmVSVXZCSWRHTFhiSzh4eDBiNVNuWTlJRDRGdjZNamh6YVZpUG9CRWNOREFqTlFQM3BOLXdLZi1sbS1fNWlhaGI5NmhvS19ZUy1nSFpnWnBTdFdLc1I5T0lDZzdNZDJnWUVBWWtkNmwxN1NCUmlqVGZac3EyYzA?oc=5"
-        },
-        {
-          "date": "2026-07-17",
-          "headline": "Databricks is Raising a Strategic Round of Funding at a $188 Billion Valuation",
+          "headline": "Branching databases like code: a CI/CD pattern for Lakebase, in production at Glaspoort",
           "source": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjU4RDl2RkctN0s4LUlqNEtzNDBEa2prLUdpZmNPN1N5LTFhQU5vS2cwSW9YdFdzdUgtVVdLdnVYdE5ELXF2X2pLSVZPMVVxSnlSOFlBQk1YU3REMkJKbzE0SEl5OXBpTTRQRmNNNU9abl9pZDd2cTZoTjFROG5RZ2lfQV9iajdhVHlfY1pxZUxPQzhOZFcyZTFrSGNfZnZnS3JiNlVadGNfc1hWZk9DelVsX0lDLXZ2eFlDc0hwX20?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1ZpTmpEcGlDYzllczc3aWtrUzNac1N5cEpCdnhMTWJWZEJ0M2VFV3pNcXlhQ1Y0WEt3TGZDazZnQ21mbkhsNXVHTVFiMlRQQWhKajhuQzZFTkt4ay10bFpjXzFwSVVBTXZGT1lLRVV0cUR0RnJkMlVZMkZVOUJabk92V2h4N1Q3Q1h3YndPWF9lV3FfSG5fS3Y2cElFYVpH?oc=5"
         },
         {
           "date": "2026-07-17",
@@ -243,22 +243,22 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbTNxTHVnMFRmVUFzbzdLYUNLcExSYWdVSnYtNE9VRDU1c1FCTVhkODNLa0NWVHMxb1RHaXhjeXlfRXVVamM1OVFTa2xBY1BYQzhybVlsWXdGckZxYmZQeTg4ZjRWOWxzMFM1NmhpNU52djlRc3ZMVGFJTl91TlhUV0xKZ09oRFJCN1FBcmVHRnloOGU3Qk5acHJaaG5xeXM?oc=5"
         },
         {
-          "date": "2026-06-27",
-          "headline": "You will never own the AI. You can still own what it cannot.",
-          "source": "calcalistech.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uQVhfYng0dFNTYzJJUklLU1I1anRqR0RrUGJsU3lPYktXQXdOQXNXX1BMR282eTVQcEZGY0kyc2hsa1JSV2RpUlNKVWtnUncyTDRBZUkzeUZ0WFMzUTRHUTlIRks0d281?oc=5"
-        },
-        {
-          "date": "2026-06-24",
-          "headline": "Ilya Sutskever's SSI: The No-Product Safety Bet Aga…",
+          "date": "2026-06-06",
+          "headline": "Ilya Sutskever's SSI: The $32B Bet on a Post-Scalin…",
           "source": "StartupHub.ai",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0czSlg5WWFiRzh4T1c0NW9hOTBsNnNSamZDT24wY0NYWWVhc1EzWlNEdTZleEwyQXk5ck02YzQ5S20xajBRT0Q4ajVVVGRteF9FYXZWb2JjMFplTTJrLXFyQWliMHNaa3JEbWRJeWs2dGJFMWhaY3ZiQlJmb2g1SGZBZm9TdnZIYjlQV3dZRUdTdVpaS0FIblpxNk1uTkpTNTVpbDVjdzVDeWpiYXVwR2JR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGVTbmp1TExwZlhSb0VoMGR1UGJld0U2dVplcWFYaGxsbnU3UENwX0NHSFpZZ1ZMUWsxUEdBYVE0LW5MTUlScnpROE5URGFuWTNMREFYZzlLUDYxZkNPMkhodFlweUxNV1dBVWc0TTc3SjlmVjZZb1JVVUstcWc5ZzQ2MUxfc2NES1NLYUY4V0tncW0zY0pmVmVIX0x2RF8yNTVnOTRib0h6QQ?oc=5"
         },
         {
           "date": "2026-05-07",
           "headline": "Safe Superintelligence is a case study in how venture capital prices silence",
           "source": "Startup Fortune",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckdmdmxSaDNiQmY5T3NjNTJELUhCVUh0V2hJQS1lVDgtNmNBQkd6WndrM3VLMFBQbkpKd1RQd01uWmlOUUdnSWtCMUVMcXhGaTkzNUpZMlRLYUFzYndoT2ZTbGtGRnplT3NrUUQxYk84Tkt2M3FzOTlCZUx2YzUtZGItOVVhU1J5alFpMm55S1FzUkVaTWJHSXNmMXBmakdBMlo3UWtDTQ?oc=5"
+        },
+        {
+          "date": "2026-02-05",
+          "headline": "Ilya Sutskever’s Safe Superintelligence engineer walks away to fix what AI breaks",
+          "source": "calcalistech.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TRmpJQ3hyY0lONU9FX3M3dE1ROUxFS0wtY1NsMUI5bkFzMkFLVVgxZGV6d0VHOV83ZnNnc3EtNmJyeWVKdEtoZ2tWM3Q0dGNFb25KeUZPLXRSeXFVUlR3aXotMmc0bDBn?oc=5"
         },
         {
           "date": "2024-06-19",
@@ -276,40 +276,40 @@
       "source": "https://www.google.com/search?q=Binance+news",
       "news": [
         {
-          "date": "2026-07-20",
-          "headline": "4009.70 | XAUT USDT",
+          "date": "2026-07-21",
+          "headline": "NIGHT/USDT",
           "source": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42VWpGMFh4Q0tvM0hYVm9IcEFUY1VETm45MlhSODJZSTFGclhYY2lqWWhydi1aTFlXOFdZbmMtZFVla25na0ZLaXdsdDU5LWtZTXFYUg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0OWpsdDJ0akV5ZnItVENnSkhQblowNlZmUGQzQTZEZVh4dVRyODJpZGhucHJnZVY3S0NObXlRSHlrUDY1QXd0ZDJ3SnhtX2FpTFlDNlpB?oc=5"
         },
         {
-          "date": "2026-07-20",
-          "headline": "Exclusive: Changpeng Zhao on Binance, His Prison Sentence, and Crypto's Next Chapter",
-          "source": "天下雜誌",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1V3kwa0M5WUV1a1NJOU8xam9HRTZKQ1VhdEZ5bGN0SUtBc1hONUZCMUhtLW13XzY4NXhzam81Zm45dGR3bnhQaG9tdjFhM1lyODdyNWhRaHFoZGlsekU4YnlFcTRFdnc?oc=5"
+          "date": "2026-07-21",
+          "headline": "XRP Whale Deposits to Binance Just Hit a 2-Month Low: What’s Going On?",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3RldVJvQnV5VVhqcFNadU8xemZyc1Y3OHlLR0J4TEl1NllWOHBobFVlbnJwSVFETmNxaVg5Tnp3TVI0Tzcwc1NCZEpVVnFqNGtSdEExT0RfTUFIckljNXVHVno3ZC1MR3RZaFNNMlJTVWNVVU4wM0JxTmIxbDJMX2RIRjh5aG44NUpSTG5MZ1p1aXNnTEM4dG9Rb1FOalBqRkNsSXMwUW9jeHJTVWYwTU12VS0wMzF2ZHVCRnVNTlJBUEtK?oc=5"
         },
         {
-          "date": "2026-07-20",
-          "headline": "What Does $2.3B Stablecoin Exodus From Binance and Bybit Mean for Bitcoin",
-          "source": "CryptoPotato",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOek5WOW9Rd0E1Q2dlR2NSd1RmMkdCcW9wODlUQ2xpUXhqRTdyWmR4dlV3dE1SaE1ybmM1N1pWcUNPbHI2SmZnZTBQUXZDRXp4SmZkN01XdGhGSHh4ODFWZkZ0RGk0bGotVGI0NEZpTVFTSzhNTFZUSlEwMlBveE8tbXFVcWlTX0d4SDAwUElGTzRZMzR6T3ZUQmF6eVFNcUE?oc=5"
+          "date": "2026-07-21",
+          "headline": "Binance Further Expands VIP Access with Updated Holder and OTC Criteria",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGlaR0lwVVVvMl9jOThkRnlHWHgzWWJxbkZhd2dMNEloeHFLSm1IT3JRaDRGZ3Q2OENYTkh2aXdtN2VNaDNpSHZHaFBobUwzM1BZdXlTSUJZT0ViblZFT1AtX2lqNXBHYXYtZUtVdUJmX0dhcmcwWmg5TFZyNTlSRjA3WkVnZjA4RDBMMU0wT3hRd2NTSmpud1dfeXpQQzZJODBkTklJLXM3a1VMNThMQ1ctUWhsQVhWbVQzWHA3NVlxTFB4dVE?oc=5"
         },
         {
-          "date": "2026-07-09",
-          "headline": "Binance maintains commitment to EU, seeking more licences in Asia",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0puYWdlUjdCX2NCbU1wTVZtcV91ekpvOGFWcDlObFE1OXdIYjZSaGczY3ZyRmRSbDRFcF9Pc2VOWV8xejlFR0poVWFjM3R5X29DRzhIcWtRRk1wUkFNanNyQkk5Z0ZmajFNMUtYZlNWN1dwTFdGN0xPZHRha1ZLelBIU1A3NjU1UFVjWHI3OVdYZE1qMXZCX3JsQzVoZWdGTUowUHJYN2g4WkRxZ25weThR?oc=5"
-        },
-        {
-          "date": "2026-06-28",
-          "headline": "CHANGELOG for Binance's API",
+          "date": "2026-07-21",
+          "headline": "Binance Alpha Trading Competition: Trade QAIT (QAIT) and Share $200K Worth of Rewards (2026-07-21)",
           "source": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxTzFSaG5zUmE3Z2J1T0FZb0Y0aVVXLWZrLWplTDNCMjJlcHVtM09UMEwyeXdVMXlrQkxidS0yMlFHNXB2QWdSU0hHM2VxbEJxM1A1eV90UkdiTDczUGhOV0FuNTFUajVzb0E4c1J5SQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDNrOGM0MXZ2Z2NDR0hXOVNwLVJlQl8xU2lQbDN0T0dhM2N3Q0otY29JOFIyQjQ3QWJsdUppNHdjTGprZTFoSEZwQ3E1bURyWUJJdmtkQmJCcXVoaEMwRndVeFh6RDNRRlh5RUlkN3J3Znl0dkduWV9fS3JiZHhSTmw4OTZCaXp4RFNoSGpOQ2E?oc=5"
         },
         {
-          "date": "2021-06-22",
-          "headline": "Careers at Binance",
+          "date": "2026-07-21",
+          "headline": "Notice of Removal of Spot Trading Pairs - 2026-07-24",
           "source": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zc05fUkZRRkNtX3VaN3BVT0IyX2wyelh5SVVSa0NjSU9OYTNxdjJpcFVmLTBwbWJCZEhZeWIwcWhIeFk1MlhFSmpR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVJFUWxLWGF5SkVHeDBzcG45MlFsMmh2LW1oV1c5TEF5MkJBN2laY2FXQzJDU1AyM2ZyVDJFSnZPS1pEN2o0TkZyVlpJR1AtcXl0WDR6VmVWWjF3NFk4dWgtbURHNFgwMkFzNlVpblNfYlcyamdrdnFDekJrRHJxMWNYMGJ5dk5FN2hoeG5VS2c?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-21)",
+          "source": "Binance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FrU3kwR01RQlI5LURsbl8tbGw4WUhQUnNTQjdFNG9QNlJ2TVFFS1hhZWVFcElpZDRvYTE2WXZMSDNxOGw2dk81OUdmOWxGSlQ5cFBCVXdZMG5YbnZJRVNKQnpQWEpaajNBRldYV3RZY2tvbXl0R0ljczJHaXVxUzl2OHVVTS1tUlVHalVPSl8?oc=5"
         }
       ]
     },
@@ -327,34 +327,34 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHBIWTlKNzROa0hPRUNGUGctdE1INXU5NTVpblJMaFprZlkzcWw4SGlJcTJUblF3YUtBeHZTTWEwQ0NTZGo3NGlJZnRyUUhVYmxIYmE5OTlub3E4d0pNWXYxVkZ1UTVVOWNiajNQeHZxTFZ3d1ZRU2RoRnVxWjM5SzdiWU9mSVlTRHFzWVJrUEZzUEtJa0JyRmFsU21IeFptYk4wNXdqRjR3d2hlb1JYOFM4VXpwUQ?oc=5"
         },
         {
-          "date": "2026-07-18",
+          "date": "2026-07-21",
           "headline": "DOJ says it's no longer illegal to download TikTok on federal devices",
           "source": "CBS News",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yeWtJYUFvWVNPel83clBKMVc5ZElzWDFmbENSY24yWUtGVklBdW9HRjVFV1UtdXVmWlBpeFlya0U0TVdZWTJJQVpiNTdrQTJxU2hyZGJmemNaTGdycm43U1owYWs1LXJTa21VaVFfY3FteUE?oc=5"
         },
         {
+          "date": "2026-07-19",
+          "headline": "TikTok Permitted On Federal Devices After Ownership Change",
+          "source": "NewsRadio WFLA",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHZGZ2VmXzRHaExQYm5nMWJEblp2SDM5Q0RvYUJjUmF5djdIa2FUYlhJX0YzTGM1bmNqZlNTS21UODhaaGljaWkzbktsNE14VU9fOTA1YVFZX1JNbWg0M3YyMVZxc1NvelY5bVlNMG5qQUZpQW81NzJpWFh3UWZwVEFvMTEyekNhRENOSlpJb2VRMlgxUXJmVWk0Nzhjdk5FcVFMb0FBNldxQQ?oc=5"
+        },
+        {
           "date": "2026-07-18",
-          "headline": "TikTok Is No Longer Banned On US Government Devices",
-          "source": "Engadget",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnFxMzU2TlZmZDJLb2pHbndDMDE0TFF3Z0M0d1pWY1N4TjBBYjhJSTFQU3YzbllFNDRSZUZnQnkwWUl1RWtGbDNqYkRfWjYwVlNzMkV1NzlrcWo3aDhUNjVvdnJoSU1iZWt3UDdSYmxMc01URnVfTjYwWm53dnJvN0pJUmEtZG8?oc=5"
+          "headline": "Federal employees can download TikTok on government devices after ByteDance's divestiture, DOJ says",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzlmV2w0M0RDbnNpaU9udDJ6NUExTEtQMjZpaHhseVBxXzctZTViZUdRUWRvVE9nYXVHWF9tUUp0SkI2TWhkOUJPbDJxZHhIQWZuLXkyaWNXX3FsUGpIdlg5LVJpcVpXZXpsR04yRmtPcHVBal94bU10emFXajhRZHAwYk9qVElOVVVRRW9URVRhMnQyUkF2RzBWQ3czNlA5VU5RZUh6LXVqLW1vcjhJMVlXbFYwZTN0bEttZkhn0gHDAUFVX3lxTE9QeXZ3b0tEZnlXNHpJd1oxOUgxZzVMQ0IxSjVnSmJUSU5RTnJUZGJsZVVoSmhtdUE0NFNQOWlOb3BQa3NEMF9JNjhDMHI3SmZ0bW5uRmNpS0twWkZLMVVXSVhRY0VUdndNazVhU0xXMEl5dXNPRWJNWUNFQUJwTl9SYU9MQ0kza0drdmlkMm54djdCamZCZDAzSDhNLWRKLUdINk81dXkwSmhxR21tZ0VXaDI2bXZnM2d4T2NXTkNTakZxTQ?oc=5"
         },
         {
           "date": "2026-07-17",
-          "headline": "Federal employees can download TikTok on government devices, DOJ says",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXlPRm9FWF9FVk1wWGdlOVBkZlpyWEEzejgxbnhEYVhwRFFOVlliX1N1Yjc2dTVTMUo3SmdqdTN1VFczaHFrUjFXM2wtQWUtclJPa1Q4TFJqMkZjdXBpMGRrRjI5Vl8xRS1QTmFIcko3UE9ZRklieW5YVkxtUjBWWFBKVUY1dndZaVFudEEwUXhKOS1obmZBV0JvOXhNMWV4YWRaV0E3WUcyTk0?oc=5"
+          "headline": "Newsroom",
+          "source": "Newsroom | TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PZ0xLQ01zZkJWN3hqVVNrR3pmdjM1VUNyTFFxTHhQMkpzMndTSDg4dVphcHl3RzdXNC0zODZyQnBOQnFwcEZJNHVpOUE?oc=5"
         },
         {
           "date": "2026-07-16",
           "headline": "TikTok, NBA and WNBA Announce Global Partnership",
           "source": "Newsroom | TikTok",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzNqVDkwQjA5QmE5QkxDQmJ2NjF6TFVLWVpBUTFrT240Qk84Nkh2Q2RjdlFMVGJwTGNTa21uQ1ZodFhaUGQ5LTE5SjQyZ1hoV3duVWs1Q1pXZGd0VVYtd29nQkM2bnBQVjJ5TzZ6S2RYS1BULXNkRFpUU1NDUXBnNXlmSVZuX200bDlF?oc=5"
-        },
-        {
-          "date": "2026-07-13",
-          "headline": "“iHeartRadio and TikTok LIVE Premiere with Madonna” Set New Viewing Record for the Biggest Ever Artist LIVE on July 2, with over 2.16m Unique Viewers",
-          "source": "Newsroom | TikTok",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWGlaUU9rOVRRZG11bTlwZGZxTUU4VVdlU1lkS1k4QUFFOU10MXE4OXNuWEJuQ2dqejFnTzQtbC14WFd3bzk1MVBIRWxlbXF6QkpYTXFRWHBwNE9tMG84eUR3TXI1S0JWNVZqTWl3Vi12SmVpaUZ2WGMxaTFJT3hzd3RyY1B6cWZ1SEpvN3RTa1lTNnh2WUtSd1U3ak44VHlFdThsOE5JYW1EcHhtMnJheEtkbmFsM3djZ1RRbGwxNnJTSEFEMlJxUk0tV1BsbTl3azRHN002OFFzU1pQXzVpMS0zcTNHaXk2a0hlUDY1b3pPUmJQUk9zRXBsRG9iWXdMcTg5WnUzVHo2b1d2VUMxVw?oc=5"
         }
       ]
     },
@@ -396,10 +396,10 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1B4c0tiWXU4SlprTldIdDV5SGIzLUh3ODJKN21pWlJoV1pkck0wbmlfMTUwNVcyNEdBS3FMMjBidUt6Y2V2TTdraDlhRjFZYWlsVjZqcHdMWmRMa1daZ1NGVE1EX053b0M1VTU4UnF5UzF5UEEyMDZDMHFDOVg0SjkyUmRrQ3BZa3hmZS1adDNGbDVXb0FIdE1BWF90X1BCZkl6NzNUMjdBMkxEVFE?oc=5"
         },
         {
-          "date": "2025-12-22",
-          "headline": "Search for Product Information, Documents, Resources, and more!",
+          "date": "2026-04-06",
+          "headline": "Questa FPGA Pro",
           "source": "Altera",
-          "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9zVWl1WnVGal9VbmUzVlRQMVhjanhmWjgtOHp4MWdJMWZpTkQyeWk2V0VhX0xrWjNDdEpvSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41SXVlUy1GUVk5RTdwOVFGaXhuTGZ4dnNUcEF6YzFlSHpVVUxhQmxUemVTdnRhQUoyLUZrdTVaLWNBdGQ3Mnkxdy04VzZvX3U3YTdodTYzUVpUS3RVTDdrcHM1Y3lHTHVDc3ZDbWxKYmVPcUU?oc=5"
         }
       ]
     },
@@ -411,28 +411,28 @@
       "source": "https://www.google.com/search?q=Vantage+Data+Centers",
       "news": [
         {
+          "date": "2026-07-21",
+          "headline": "Pfizer’s ex-comms leader joins Vantage Data Centers",
+          "source": "PRWeek",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMURQbWo3VWtJNGRnQUVFa1lzd3hEUHFEc19nazd6eFVsbk00ajBhWmxaZTRQNktHSDZtWjFuUFl4aFF1cEhIY0J2OE9HNjlnZ01LV3Z3UnNoeGpqSnF2N2pDc0cwMzlUVDlPV1RGUWNud2ZfOFp1MGs0a0NrRFBnbG5XZXJDSjZtcFVoTlBNVzRHdlU?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Vantage Data Centers Names Ed Harnaga Chief Marketing and Communications Officer",
+          "source": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmpWWnJrajhJaTJUZ3VPemc1WXFhT3RMdHVCWko1ZmEtTmNvRFBRTzE2dlQzQ2RvV0llV1laWS1OT1VkMGRnRlpJdk1sVG1Hby12VzZUSFEyUDlnRWRLdVBPN3hsNDBVZ1dYSExFekFSOXZSd0xwaXpNVEVpNUd2aE92ejlvUlJaM2VuNFJ2ZnB3b2h1bzhlUUVQTzhiTnlvYlozNzZyb0xueEZaSTRTc1Z0Nng0YzVKSVI4?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Vantage Data Centers Appoints Ed Harnaga as Chief Marketing and Communications Officer",
+          "source": "New Castle News",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQV3pxY0E1LUpZcmFzNUstUVhaZHN1VXlER05NTVE1ZEJDaWJDWGl4VGM5d1dqTVRTT2E0UkQya2pyTkFsXzdxbFJ4b042ZGRVR19wTkFLc3MwQXJvYUxCYWZCWURoaTNHUk1jTTZvWlhuSDhyZjRheFFBV3d5bHJ5NVFnd2RYSnZEcGR2bVdYSmxsbmlaa2doUkpLaS03ME5CdUpHYkUtUlY3T2o1bEt6NW42dTVkM0RIY2ZEYVNOb0lDdXFkRHdNYmhxVEtYeFhqeFdFanpuamhUWEJKbHJpcHkzS2lVdFR1VFB5RUpQV1ZoRXZmQmJSRENfYjBXT2FiMndOWnVwa2U0UDQ?oc=5"
+        },
+        {
           "date": "2026-07-20",
           "headline": "Virginia couldn't stop Sterling data center's 24-hour diesel generator use, regulator says",
           "source": "WUSA9",
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVTk1ck5TV25uTXdtcnpJMy01MWJ1d2ZINlBETnZSZnl0QU9TclJ4b0xVaTRxNktkdHFaelU4dnN3NWtncWkwQ1c1NE4zRmtfOUpITFdLZTRoanF2Y2ZQaVRqWm5DNE1CMHh6QUFoNVhBWTRGYUlfc0FxeUJUUXplWjNadG80MGpEemdzQkU3Q3dIYktKd1RHV2c0Z3RwQ2RDb2t1eU1pWk1jRGJKVm5uRmg1V09Yc2hValN3TndHLXczdWNMOElhNVJRaXZvNk9OREdJYzBrNnhkWXQ2ck5IbEJVa2Nwc3ZJSFBGeXFOUl9vd1h4SFZGdTV1YmlaZw?oc=5"
-        },
-        {
-          "date": "2026-07-13",
-          "headline": "A $15-Billion OpenAI-Oracle Data Center Made Wisconsin Farmers Millionaires. Some Wish They’d Held Out",
-          "source": "inc.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbExxVm1UNUoycDlqOUNvc0F1aHNFRkNvNkMxNFRvbWM1elloQ1dZcngwOFEtLTgyNk5WVlBLeEhsRlhRcXFWNFFoTEpHUFYxN0NaR0hoRVV2VW1MNUJHLVdiY1B6YTB0aG9rOW5YTW9kOXdZbGx4cVJsbU1zaC1jelI4SXdQMWRxVXZoMUhLWGtfb2xHZFNyX1Zyak9PN3diRUthS1ZFall4U0ZLcDlRRTFKODBKOGEtcHVuV2RxZnRJYVE?oc=5"
-        },
-        {
-          "date": "2026-07-10",
-          "headline": "Groups sue Wisconsin DNR over environmental review of Port Washington data centers",
-          "source": "WPR",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTBxbUktNlpfTnZVbkJBamFySDFXeVdwRGNZNzZTSkFqN25yQzc2bDVRQ2ExSWFZblJzTVR3cmtjb2dNcExIQ2JMOVdYUnpnZUZIbklyQmZEN015N0tySWFHSjNLUnhMV2VPY1h3ZDhyZVZya0JfS0c4bmpPX0VkLVpTMXU4dGN2MzhpblVlcG1PdjVSR1pYTmYwVkI?oc=5"
-        },
-        {
-          "date": "2026-07-01",
-          "headline": "Vantage hosts open house for proposed data center in southern Wyoming",
-          "source": "WyomingNews.com",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORmJYeTVVZEk5MHVleUVSQ2xfZFFFXzZVbExGYlRwT29qdlpuS0VNVjh2cks3M0loMUxPUEtVd1lseThlSVBMY0RHMHU0ZTYyQ2hMNDY2eE03MGtQeVhxRXFPc2pFMUFBQzdyMGRIX2Etc1RLeDdic1NyUlhuSEpQNjNKUGlCZVVzMHp5V0FnY1RPczhaTk8wMUxacmJoTkJNMlZRc1BSUzZyZGJTOGZSQVFILUU3QWl5TFJ4REgyNjdEQjNBZTBabExKcTVNZU9tei1Vc3lhZDIwOGFjREZCeDBuWkVnNjMzRm1FNzNTUzZTdXp1N0E?oc=5"
         },
         {
           "date": "2026-06-29",
@@ -456,10 +456,10 @@
       "source": "https://www.datacenterdynamics.com/en/news/khazna-data-centers-bags-26bn-bank-financing/",
       "news": [
         {
-          "date": "2026-07-01",
-          "headline": "AI Initiatives Bolster Middle East's Demand for AI-Ready Data Centers",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkJaQlg5eXFpRDBhaWxLeTNrLWF3SEQ0ZWdfZGRQYmJ4MmVCR0xTNkZ0OWZCLW1ObHJRMzdzOWdGcVQ5LUVsSlpnSlhrb0xSZ3piZ2U0X3VRbHlCZDBvY21tc0MtQnJOaGFzdDVZVTMyc3BDSWxOaUMtT3AxRUNrR3FQdDdMSlRwY29jNm15YnktWUdUWHJxbkVXVWg1Qkxv?oc=5"
+          "date": "2026-05-05",
+          "headline": "Building hyperscale data centre capacity for the Middle East with Khazna",
+          "source": "Turner & Townsend",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkhwdXM0WXVvdFJzX1V5TkxqYWF6d1V4Z2JIZkhadkRvRlJoM051ZWt5aEVISUF6UVVoTFNyd1ZFbWdBQ3pvQXdONjgyMERTeUQtcm1BOGQ5MHZNRldMWHZzUXU2V0xZNXZxVjFvRng4dTNhalBYLVBnQzN2a3RLNlNfNjhVV2xNcDBGVTBOU1RJYmhCN1RiNXFxTV94MktHSXM3VkhnYmxQVUF6OUFSZEdWZGRKTGZkekM1YTVQa1RwWXk4R0E?oc=5"
         },
         {
           "date": "2026-04-04",
@@ -501,28 +501,28 @@
       "source": "https://www.google.com/search?q=Campus+AI+startup",
       "news": [
         {
-          "date": "2026-07-20",
-          "headline": "Hut 8 Fully Commercializes 1 GW Beacon Point AI Data Center Campus with Second 352 MW IT Lease, Bringing Campus-Level Base-Term Contract Value to $19.6 Billion",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYzZ0WlZvdF9Gai0xZkI4NWtEQUZCSThnd3FnLTdrcnhLcUpzSXJ3UXpwWkc4OTVqX3Y0UmhwY2tISl9yaGpqdmJtMGVpY3l1QXo3MFJFWTB3Wk9zaTNxUXNMdXJmZjNsU1M4REQ5eVhSOW5QODZyMWRQZm9GMTZaNEhsZVI1MjA0TWZvLUlWaVVvXzJtOUtXTzdZdkZiWFRrS0Q0czUzQklVNVdGQUtOb05fNWgzdU92czJBSURMTklhUFJob18wcjZjZndzRmFkYjFIWWJqampXVWRFWDRQUE9FX2ZiVzJiODNab1BETG4tcDdWTWJnNVB2bUM2VU4xU2JHSmx6MWVSQVdWQXVLNmlTMGd3b1ZqWUhkdEd0aDFCc2JNZzFESUU1ZWFkeF84Y25mNzkzX3o?oc=5"
+          "date": "2026-07-21",
+          "headline": "Miami’s AI Fundamentals helps give an introduction to an evolving technology",
+          "source": "Miami University",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWN6NWxpZ09tRFQ1Rm5HbTRjaWlleGMtOTd4aXBSZXRTSkl4cDU1bDVucWwyZVZGTVlRN3ZhRzZGR3B1bFBIcWlHT1pQbXE0RXRLNE1PVkJsVjhNX1FpQVdlck1hbXpMVkt5b2ZjaTBJQVFqcWtYOXNtamJ4TENtQTdwTm5tTWRsYVl1QTBmTTFWeEVGN3hVV3dZeHdibkFHV2p2QnNhbXltMzE0TTdkWVpIOA?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "UNC Charlotte Launches Student AI Fellows Program To Tackle Campus Problems",
+          "source": "Kiss 95.1 Charlotte",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEVEcmJsZ3VxX050N3FOcUl2emlISUlPZF9KMDlhengyN2syOWR6Nmljd1dJazEzZWkxYlM3eGpmNkRWLUl1Z2FGUlYwRTNSNVAxRTR2bFVFelBZX2gwT3JYOTkxMzdVcmFINmJFa25tRjZvaU9wd0RUQVV2ZTJqUnZ1cEl1Vzd6QTBpc2lSYm5OeDVTN3ZKNzRmRzh5MUtncUtkWEY2bDMtdlE?oc=5"
+        },
+        {
+          "date": "2026-07-21",
+          "headline": "Spain’s $3.4B AI Campus Skips the Queue with On-Site Generation",
+          "source": "Data Center Knowledge",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlRPTlNmYnFEUmtjamRIV09rY19IdGxPekNRLWZ5OGY0dkNtQVEtcVp0OHphQXRnM2psQzhoOXZaTFQyalVGNFBfNTZyN0JCdnZKSTZkOG5FS3cyUUFIUElMZGRNNURmZjVjbXhaSlp1ZGh4V0lKOWRqZ2tRRTJrUk4tWG1OZUE1RWRoNEhUYXdaam93dlFGNUVIakVNZ01YUnJXUE5WbEI?oc=5"
         },
         {
           "date": "2026-07-20",
-          "headline": "Hut 8 signs $9.8 billion AI data center lease, fully commercializes Texas campus",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkgyZFlrU2hqY2tJUEdEc0JxWkpWVC1aSkl0aTg2UFlqV1VHUWkwUW51QjZXRkMzY1VEN211ZkpDRUZaS3ZGLXZZLVctU3lLWGp2UXlKb1lnblNQVV9sQkcxNEJBenJpYUY2cGt4NGdUeVZ0Q0JVN0NqUUM1cl85OVlEbGRmWjNId19KRVQ3Y2VmTl9yMW9tcFJVekt5NXhYakpxdXdaTTFZbnNubDBNUkdfWEVqYUpoblNISURBcG9yUQ?oc=5"
-        },
-        {
-          "date": "2026-07-20",
-          "headline": "The new college virtue isn't about if you cheat, but how well",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGxrUkgwWFhyZFVpT3p6a3VvNVI2N2xIVVpUVnJrMk5zUWZ5U0JGUE0tSlZuOUE5cmZqU3B3NEU2U0VFY040WV9VWEJ6SThuN0tBY0xOc0l1WWVIZVNtZS1pUzllYW1rd2JsWm40N0FWcEtOQWJ3VFl5R2JSZi1LejRWZkFmZEhsVnNlbGlyZEhwbEs4OHNtbUx2aFRlTTVxaGwxRjl5SlA0bDA0WG01WHhoekhhV3RULUJnODMxNVVqRGlCTFRN?oc=5"
-        },
-        {
-          "date": "2026-07-20",
-          "headline": "Hut 8 fully commercializes 1 GW Beacon Point campus with second AI lease",
-          "source": "Blockspace Media",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYk9OOUhubWxla196M1pITTBSdzRuZnVnR1kxNHlpYVBZZ0hFT0I1eGZ3c2IwMWd4SHAtN2lELWI2NzdIelRYUGlCUFpjUUtfSm9mZHU4UkJBZXJ3bGx1eXd6N3lHMGgzYkhOMk85UW5MOWRTT1dxVk1yOXdUREhWTm1ocDRxY1U2SHc?oc=5"
+          "headline": "Student AI Fellows: Piloting solutions to complex campus challenges with large language models",
+          "source": "Inside UNC Charlotte",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMXU0U244T0k2QWdQcmNCNlJULU02OEc5RFFFWEZlUmN5SHpWR1RhX3E5dlg1b2JzdVRaZUFLVUQxdDZlT2t4MXF5bXppUTBaS2RuRU92dTFJOWxrSFZaTTNRWlQ1ZWFjdHZjYUxsalI2Q1RUbDljM0lYZkhHYUI4T3p4S1VNWGx5V25QQVdsT2hsM0F0SkNqZ0IyMXJPWXA3Snl4OW1jNENBdkVvSjNUemJEdFJCNU9MSkFJTFlLdmQ2RXRpa0hRbHZjc3lkUmM?oc=5"
         }
       ]
     }

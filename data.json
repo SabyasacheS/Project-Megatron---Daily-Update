@@ -1,96 +1,16 @@
 {
-  "updated": "2026-08-20T00:35:26Z",
-  "macro": [
-    {
-      "date": "2026-08-19",
-      "headline": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "How Trump and AI Data Centers Are Boosting Nuclear Power",
-      "source": "EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHlPNnRFRUJ1Qnh5azFRSVRfdmx2YjNXakw0UUFQTTJhM2VLMTlRcERENlRycTFVRWgzNTNZUlpvRklJWFBvSW1BZU5XeUtzTG8zLU5wTWJHOHk1NndIYWJwWjZpWWoxYVBWdFZCVnZVUWR3Q3M4NlI2cTB0Z2N4T2Z6aWIwck03Y09RZmlwYmg?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "SEC Proposes Regulation Crypto Assets",
-      "source": "SEC.gov",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pdVNsNDdwX0NiVFZKbFdJTDMtRzAxUTQ3WmtsTi1SWlhHRHNESGUtbGc1Q0FMaDFhaFBrWG1GTE55T1ZPRExObXZSejY4VDJnN1cxV2Y3QXE0Q2tGVjlkXzBqWXZycXpuUGVOenJyc2Q?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "The working capital squeeze behind the semiconductor surge",
-      "source": "CFO.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHZfZlRhQlAwZFg2S2JWWUUxUk5FbUtUb3FUcDVFLWdla09Ud1RrWW55dnJtZWlaRnh4R3RoTldYNVJzTDFjeWowYWdiR2VWS1ZoTnFlV0ExVm9kS3ZpOXRBSlpxV1FWSWJCaHAzY01kNDlRRk9kcWoyVVQtbC1fbVJZeG9FdDg5QnBoaHVFcVVkNUVFY0twaW9jQVJ1NzVYamdhSkRUaUJyak1icF9qTw?oc=5"
-    },
-    {
-      "date": "2026-07-31",
-      "headline": "Inside Europe's lessons on AI safety as U.S. rules loom",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGpnMG9VbE51MkJvRTF5UDVaSzZPdm5yVXdFTUJaWVE3NEJXNmFJQ2c2TTg1R29pYUdNZ09SUFg3UGxDZV9XTzhjZG9rMllSWm8zaENucF9RX2tySFptbXZsNWZxbU1xUnhTRktiejdBZlpQQUdNNUxkZHRVcl9CVHFFRjVMeU42?oc=5"
-    },
-    {
-      "date": "2026-06-11",
-      "headline": "Can the market bear 3 giant IPOs?",
-      "source": "marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1JSLW1TR3hmTXlvWUFxN3puMGRyTjVxRjdWbU5CMTQ4eWVDNUttM0ZsazlETU5MblNnZldvLVpJMWloTG5CVHpxQ0VVZkp3RDlzdUxqUWJsX1JWZGIzdnp3MmlxdHRTSWlIV0ZQYXFfc3k2OGNXekF3UEUzVDREbjFEZw?oc=5"
-    }
-  ],
+  "updated": "2026-08-21T00:37:58Z",
+  "macro": [],
   "public": [
     {
       "ticker": "SPCX",
       "name": "SpaceX",
       "exchange": "Nasdaq",
-      "price": 139.65,
-      "previousClose": 143.34,
-      "change": -3.69,
-      "changePct": -2.5743,
-      "news": [
-        {
-          "date": "2026-08-19",
-          "headline": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RdE5kd1RsQmt4X0pvTUNLUHZic2xXRElFem40ZTE5NEFUUF9Hc0pfOUp0dWNHMzZScHcwSHRrZVVWNWpqWlpWOTI1ZzRDR2t4RkVwajdnVQ?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "SpaceX Starship the talk of remote Australian island as Elon Musk’s engineers sent to retrieve it",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzhKWERpYzg4VE9Yamc1aGlfT2hzSTFQNDBNX0p1M1hEVVZEVTB2ZzRNZzNRcUhXaEJOcUJUUzQ4Q1U2VlkzdENyNTZ3RU1KWVc2cU02a0o3LUtGNU5PaGx5NFdsSGZvUzlaeUUwc195LV9TV2FRT0JEQ25sN2VZV3BpWWRfcDE0TXZveHQ3Q3h3MEJFT01tZ0hIaG1yU0FGWVhpS2dkN2NwZw?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "SpaceX stock in focus after China rocket milestone, share unlock ahead",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUXM4WkxxZjl3eTRnM2JvTC14MDd3OVNFMDhDYUd5QWNwTThkOU1YaE1wVnVpUWROTTMzMXk5VF8yMTFhbXRkZC1XRmZ5NXVjbURqYXpJbXJVck1EVEVZMjVPeGtyZFRzM0MwcTZ4bWE2eE1WSngtRXc1NDlqeGRHSDZybDBKWjhJY1FlVFVOT1ZxWndZMmtyMTY2Qkp3UmxGY25RcGh5SEV1aC1aUG5wSjR4VVNWcDNQWnNRSUZhSVpvb3l1YmVPZHp0NHoyUQ?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
-          "source": "Ars Technica",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0gtbWFXNlM5MThxRi1TUW5WYURCQV9aQ1IzVTFuUGtKd19rQ25KU2w0XzV0OU9oUDV6RGdUNGNjem11UlQzdG0zM1JQVkJQMGxNd3Vzb0lraU50MThXZGUyeUZFU3owN2hxZS1vYmRyX3lCT2xjVFFRSmRzRWNOUGpaUFphQWhWb3N0LUdxaElnY09ISGQ0ZTBvN1hlUl9NTnRqbWVFeGttX25oMDd5OWIyVQ?oc=5"
-        },
-        {
-          "date": "2026-08-15",
-          "headline": "USSF-366 Mission",
-          "source": "SpaceX",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uVXc3djI0YUVwMnV0VTRGMm45Z2cxT3dZYUl5SjVkV3NWUGJDdnp6eXpTTzNWVUkxSXRZYjBnOVBaUTFkakNXLXBQQjJyV2ow?oc=5"
-        },
-        {
-          "date": "2026-08-15",
-          "headline": "Globalstar 2-R Launch 1 Mission",
-          "source": "SpaceX",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03ZlVUeWlzTER4MEZqQVN4OG1CUWdSUS1UX2RvVlVMWG5IRS1aYmU0YXpRTDE3VUYweFZHTl9xNXdJNjNLYllueDhibWZjc003cV9XQ3pUTF9IakstX19Xb3ZB?oc=5"
-        }
-      ]
+      "price": 134,
+      "previousClose": 139.65,
+      "change": -5.65,
+      "changePct": -4.0458,
+      "news": []
     }
   ],
   "private": [
@@ -100,44 +20,7 @@
       "valuation": "~$852B (private, mid-2026)",
       "lastRound": "IPO targeted Q4 2026 / 2027",
       "source": "https://www.reuters.com/",
-      "news": [
-        {
-          "date": "2026-08-19",
-          "headline": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "Why I Wouldn't Bother With the Anthropic or OpenAI IPOs",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTklyTzRDdzJzX2RvU3FtZUFCcThTN0dmaERRa1RydmM4UGJFeGgzMEIwVmVqZl9BRzl5WTMtdXVRODVJeHlheWJndWdqRGJiU05DZFpPdjREbkRnekNwVC1PQ0lGNmFZejZNYW5rN0E2SG5jM3VqdGNlbW1QdmtVNU5VeTRFNE5pNGI5dFpucVc4SGw1ejYwblgtOUlvLW9qbHc?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "Offering Zero Data Retention for frontier models",
-          "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "ChatGPT Ads expands across Europe",
-          "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
-          "source": "wsj.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "OpenAI to rewrite its safety rules post-Hugging Face",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mVk1mMDFYc2NQb2szZnlHYlBIcXhrUTJLaEZsMVpXZHdhZ0t6Q0xVMWR1blFTbFhLa1FvY3NvVkt2VjFfU2JUUVB5MngxTFg3d01ka3h2MmEtbGp6MEFwbVVSSEwtZ0NjbUdwdXBOd0g5ZXljaktpSDNDVjJRVjA?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Anthropic",
@@ -145,44 +28,7 @@
       "valuation": "~$900B target",
       "lastRound": "Raising ~$30B+; IPO as early as Oct 2026",
       "source": "https://www.ft.com/",
-      "news": [
-        {
-          "date": "2026-08-19",
-          "headline": "Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic Deal",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0hWZktsTEJtWklDQmI0N1BRV2RHY3c5NHVEVWFOZWVKUkhjZExVazNWaDBmaWFGd3REcVROZEZlVjFNS1FWdDRueVl0Sk1Ga2M1VERzRXU2UUdoVEFLeWFTRE44UVNOWl9zcG1zTHVaX18xQ1RybFlHSDdyVlh1RHlJVjZnd0FIYi1SbG56eXlSU3BOZzI3cGJHZ3AyWVh1ZEtEVDFYNml0S3I1Q2hZalVKN1Q2ZmNGVnFIbzgyR1NqRllqR0E?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "Why I Wouldn't Bother With the Anthropic or OpenAI IPOs",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTklyTzRDdzJzX2RvU3FtZUFCcThTN0dmaERRa1RydmM4UGJFeGgzMEIwVmVqZl9BRzl5WTMtdXVRODVJeHlheWJndWdqRGJiU05DZFpPdjREbkRnekNwVC1PQ0lGNmFZejZNYW5rN0E2SG5jM3VqdGNlbW1QdmtVNU5VeTRFNE5pNGI5dFpucVc4SGw1ejYwblgtOUlvLW9qbHc?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-          "source": "WIRED",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
-          "source": "wsj.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "How Claude is accelerating protein design and analytical chemistry",
-          "source": "Anthropic",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Autonomous de novo protein binder design with Claude",
-          "source": "www-cdn.anthropic.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaMW9CZHNKUG5GQXRVaXN5NFVwbXBVbXluUDAzcjJjZnNSVlJraXY4UVdhUlYxS2V2Slp4cExzcFl4WmFLTjdmVXFleWhtc1pqT1BkOG9kTXZRUm9oVk5zTFBMV2U2d3kzSHlSWldSd3JhZWQ4elZVb3ViV2F6aE0?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Databricks",
@@ -190,44 +36,7 @@
       "valuation": "~$134B",
       "lastRound": "No S-1 filed yet",
       "source": "https://www.reuters.com/",
-      "news": [
-        {
-          "date": "2026-08-18",
-          "headline": "Advancing Analytics Secures Strategic Investment from Databricks Ventures",
-          "source": "HPCwire",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnVqdGNzeFBhYXl0MzFkRkowejZOZmlyanhJWXdSU0NDVkVpOW80a1RQOENJbWg2Y2Z2MDRYSFA5U1U4YkZ6bEtVRmFMenZmVWlrU3loVnA3ZFhsUzBoUmVhT1JpX1FXWTNld3lPSnBycEo3VThMMGs4RmlfLS1aRThaSWpiQVR5SkpFQ05sZmstdWMzdmFuS2xBNGFkWllFN2E2WXRYTHRETndVUVQ4YzFSRTRYUEZYQ0VERnZEdWw?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
-          "source": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnhfYmRRVVF6ajYweWpVUlZBa3FxeGFfSkhZN0ExUUVJSHFNb01QVE9zcnFrSDBXX1RTQ1p5cXhla2xRN3htaXJjQWh4RDZ2ZWJkQnVaRG5yM283OGtDSzFOWWQ1Tl9NSkNNUEJzSXFmVk1rTGhzeTBBLW9WRTQ3cEswQVdUWXc?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Databricks Document Intelligence: pushing the frontier for complex document extraction",
-          "source": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzBvRVhIUERqUy1RSmJhc0JRTExyZ0Y0eUNpR0ktdGVuczdiLVNZZkczVmhtb2wxTGU4c2Zhb2RmYktMM1NCdzRnazNfM1VwNlhCM19vNlh4Q3gyQ0hHZmU2cVRnT0hZT2FNUDBPX3dLelRDWjdCZnZGeE1LRjB6QjhYcFpzdE44cW5USG0yMURKTGlEMnhvRklDRHh6RzRHX2tsUWhTdGNXTkJoREE?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "Andreessen Horowitz Focus of DOJ Antitrust Probe Over Databricks, Fivetran Board Seats",
-          "source": "The Information",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTNDTmhOd1lrdzJqUDZTeE1SQVMzVWx5RzNTa0VxNU5VNWI5OFdRcTZJUV9mZ3FxVnI4WWpBVTUtekRIdE5BWTBvZWpkZkoyOElOazBWZVVtcjlyb211SWhzeG5WTnkyMjhsNDJtV3QwLVZaeU1rVW9IQktONjlpUEtuZG4tck9Sd0xMbmYxeENiZ1MwMEc4aVNrSkI0QmVFWFB3ZUZ5WDVfY04zb3g0Rkpjdi1fMngyekE?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "Private Markets: Databricks secures $5B as Kalshi targets $40B valuation",
-          "source": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjBrdXFCdEwxN1QtdVJOV1MtSDVwZ2VILVlVVHJRa2VvdFFhekFGTXlLM2FoN3gxNlRQbDg4TUhWN3V6X1FfLU9kX0RoclpsT2xuN1hhMTIxUmp3cl9SaEh0dDA3aDdOTVZfNzloNmZidGJWb3dHT3ZzVHFDdnc5XzJxdll3bVFLME1OcXZ2S2dCaVdybGhkOEZFdXJwWVhNVUhWRlFjRU9QYUMyOUVVRDNXa205UDh3T29Z?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "How Databricks Feature Store serves features with sub-second freshness",
-          "source": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSU1BRWE1Y0t1M2pGNUxwQkREanpIcWc0ZVU1QjNlUlVvdTAtaFlpM3ZHR3VvekRyUGpHZ2o2TzFtU2ZMc3piUTVCWktRaHBGb2NOa3dqcEhBLVZ2SUthYlpZRUMwYkttdFBieG9ISnc0UTlURUFIUWJRcHVMNEh3bS15TVFTdFFlSHVvUl92SjFfaUZGcmkwaG1XMlRyZw?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Safe Superintelligence (SSI)",
@@ -235,38 +44,7 @@
       "valuation": "Verify latest",
       "lastRound": "Verify latest",
       "source": "https://www.google.com/search?q=Safe+Superintelligence+funding",
-      "news": [
-        {
-          "date": "2026-08-14",
-          "headline": "Ilya Sutskever's SSI First Model After $8 Billion Raised 2026",
-          "source": "StartupHub.ai",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHhwY0pIeWZ2ZExteHkxMVlrQjk1VjIwMkljT1NZcmlNbHJ1azR6OGFtOFhoOExWb1BrMW9hTjZINkhDWFVKVUYxRXNkczROcVhOV0dwdzZ1ZG5xd1VDQTI3MUpONFAxekhoMFRwZ3RWY2JiTl84bFRSQXJKY25lMVg2aldaTEdxbUktZkxzYWI5bkVUUERjYVV5YVlZSVk?oc=5"
-        },
-        {
-          "date": "2026-07-27",
-          "headline": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
-          "source": "nvidianews.nvidia.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3gwdE5oOS1qX1RMNVc5bVJXU1hzZVV5U2hoM0JIMDFRYUZrdC00ZUZpR0FDelZ3b3JfRFJJVUNZZjFzdTBrb3Y3bTBmb3pWbWNMem1IZXBnVTdaWkZlREdZeGFVc0xnXzNXZXExLUZJRDlZOG1ZMC1LaXFMYjNmNUx2amMyM1RWb3R6bUZVd19DcnI4UUlSc251RHlWM3VCdlhYMkliWjR3UnBodDRZTl8yTUdoVnZieGhzZHBsWTFoZ3FScnZLUQ?oc=5"
-        },
-        {
-          "date": "2026-07-27",
-          "headline": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEpWM0dmdzBOcXF0V09UNldRRlJyWFVJdXZFRmt5cFBuc0QweWhoMm1TR3hZU0ttNFBnUVdtN2h5WkNabHJmdmZxc3FhNVhXRS1mQ2txMVNjNHdYVTA5dE15SE1zeGdoMjJMWE5lTEN4cHRDWTBJZmtObUlYSUZFbEZKT3BVTUlab1BxVEFHV2NWVmJCcUlXRUR5c2UzdXItZW5rTV9YcllVODJsTlB1eVcyMjdiOVV2VWhB?oc=5"
-        },
-        {
-          "date": "2026-07-27",
-          "headline": "Ilya Sutskever's Safe Superintelligence raises $5 billion from Nvidia despite not yet releasing a product",
-          "source": "calcalistech.com",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PRXRNUXhxclpEelRnQjUzN3liaURDT1VBSURkMFpQTG5ibUwyMVdfS2dNNllVREowSGdsbHhuZ0drMnhYSlFVdFdUT3JZMHR6TndGRGJTeXRvX2FNcnJ3bEE5ZVRWNlU?oc=5"
-        },
-        {
-          "date": "2024-06-19",
-          "headline": "Safe Superintelligence Inc.",
-          "source": "Safe Superintelligence Inc.",
-          "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE5MSVRZY0p4OWthbFFtM3d2NGdxbGMzaXJheGhWODNjRi1McVdyalhpLWR3?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Binance",
@@ -274,44 +52,7 @@
       "valuation": "Not publicly listed",
       "lastRound": "No public equity",
       "source": "https://www.google.com/search?q=Binance+news",
-      "news": [
-        {
-          "date": "2026-08-19",
-          "headline": "Africa’s crypto boom is accelerating. Binance’s Larry Cooke speaks on what regulation means for the continent",
-          "source": "Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUjQtRlhidmw5U3hCRG0yekpfUm53aDY0enlRanVQYkZXMkpPM2ItLV9kcGliM0JtdW9CWFlRU0tDV01VUFJmSlotbklzNG5jN1kxeWxLU0lBS1VuQ0tLNHpGMFB4YTAwaHUwNnEwdXFfQzVWak9SM1JQMHlFOVU1dHYtcGZHZDZXc0xna2dNYTlENC1MZFJNR1lwb3FqYjNFcnhCVmljTlAtZm5Wa3VZbnpKc0NFcTFPc3lwSW95a2p6NVlKVHV1aTYtZW43c1ZrWkpCNzdn?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)",
-          "source": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHFYWGFPeEN4el9MMDh3QnQzbUR1dVRKS2xETG1QNU1pV0h0VFJLVmVTQ1RPb3B3SDdlRG5yVnRJY1JHdDM0SzQzaW9JbUY1NlhEcUMyamZxMmlEZm91SHRJbGRnX2UxSXZxQS1KQXFuOGZaNjNiTWpHWm5NbjY4S2RfTF9qTEJDdUxOUDJpYXc?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Notice of Removal of Spot Trading Pairs - 2026-08-21",
-          "source": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzFNcm9WMkVGWmtDQUR3RUdNcHpoVDVfNlhBWGh6WUxSWm53ZXhLdEZ0aF9HQzFjQTdha3cwZXpleVVLa2dHbEY2LXJzLXNkOHRzTDlZWEdDUXJ4d1l5SENrVDNmUmlDem4ybkotbl9OMm8tSHJOWDZRVkczSzhMQVF1SWN2WEl0dXBMSk1VaVg?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "EXCLUSIVE: Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHFHaFRyb1A4VHA4VkZIbzJjUk5MMTViS19zR2pfWFp1b0dacEVlckI0bE9qVUY5X3FIamdodWhhNFdFMEhVTUw5TE9udjB4U3ROLWpIVWFtUVd5eUEybTBmQ3JwbkY4UXJBTG1oTnBQSUZ0TnotQjQ3cUZNWE1NWnBZTTl0QUcySUE4am1UR0V1QUJyMGlJeEk0VWV1X2o3dnhZR3QyZ1JTeXNHNnpOdklWYzRGcnhNWVZmRzY5TlU5Z0hYSUViLXN3?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "Binance Provided Russia With Customer Data Tied to Ukraine Military Donations",
-          "source": "UNITED24 Media",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnF3MVk0WXlfcnpGb2UxNU9XdV9ZcXItLXZuR1pZX2lYUlNiVVAyLTVKemM5RXh3SFlVZV9NWUNhendGRTVWX0RydGF6Tm0tNjBDRFlVUkpxdm4xdk5MVUpaXzQ1SzVmZFhtYjVQUlVvZDNMR1ZuNUwxaHc1RGQ2b184alpmd3FLRVF6Rm5tNjhqVy1BV0t0N3ZtbE1NQTNiZUxUSFFyTlQ1OGt1ZmtYanFXZ0VFUQ?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "Binance gave Russia client data used in Ukraine donation case",
-          "source": "CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEV1eDB0TThkRjNyVUhwRU90bjBBSGdnQzR5THJyZ1Q0bGNjQWJaaTZZY0ZhRTJqZWhIcjc5ME1mejNJdnZjb2NMdzJCRk1XV1k0VXZuZnlTZnNNQkpyVTg0a2R6b1ZfNDMxUVFyQVJEM25KWC12VTdzUmE4QzBVVV8xRE5jMktTQjY2VTFDaG5YREpaUWIzYi03cjJVenprT2RCMWVmV3d5RHdTRl9YLUJka3FSX0E?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "TikTok / ByteDance",
@@ -319,44 +60,7 @@
       "valuation": "Verify latest",
       "lastRound": "Watch US-ownership developments",
       "source": "https://www.google.com/search?q=ByteDance+valuation",
-      "news": [
-        {
-          "date": "2026-08-19",
-          "headline": "Social media giant lays off 75 Bellevue workers",
-          "source": "The Seattle Times",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi1nMXJyaVpfa0U4Q05SSXNMbk5PbTMzS3ZMZGZ0Q0JFUzBSVkxfbUhZQzFmaVFfZ3A0ZkhFa3VLQTg5akdZcXgtc053bmpYM193ejNJRHp2c0l1VUpYbDY1dHdqSUd1UG95N01oMk5SSUdpbWlFdk45NnpsUF9NQUVKM09wdXVaTGZjeWFZek1qRi1TRzhwYkhsVlpwblhpOXY4RlZneGtUeU9wVm9mYjFvdU5YQQ?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "TikTok App Code Suggests Exploration of Peer-to-Peer Payment Feature",
-          "source": "PYMNTS.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVo5Q1NUdVJITjZJYmNQZlZ5NUJGR2NDMjNsQWVRQXNLTTBwOXlPZm1zWXRINmo1N3c5b1AzRWp3dDZsc2xTX1Nmc1NtYWV1WmJ2eXljdzZoS0R1OGsycGtpcHZLMElaOTJ4clo2OVUyR2NOWDVDbVR4T0lrZkE4THNjcEg5WjJtTVhLTUF0QUpxVzZrZXFVUmtkLXBPeXRtWWhDRUg3MnRoSE5JR05FR19QWmQ?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "Motion Picture Association Inks AI IP Protection Deal With ByteDance",
-          "source": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzllaWxyLWtoMkR4UWt1YWwxQXNZdlp0TDRsUkhrY0FWcmpQaXVHcTNncndrTjUyb2w5MXh3SlM0TEhRNVJKY3liVUxzN3lxa0UxQ05WcHNvM2h5VHh4Ri1nOUIyQkdlT05yVlY5dWxYWkp6U3laTGFVeUJSc19GYXBWbEgxa0hPclowb0ZwN2k0RHd5bThBY2hvU0J6SzhHd25Yd195Yw?oc=5"
-        },
-        {
-          "date": "2026-08-16",
-          "headline": "MPA and ByteDance Announce Global Agreement to Protect Intellectual Property on AI Video and Image Generation Models",
-          "source": "Newsroom | TikTok",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1k5dEp4VkxkWWFuc2EtLWJtSk1xQWpnQWhOZ1hncXpES0NaVXNmQzNqVkVueGNGVEM0Z215czFJWHVZU0JjenluNXdCRzNyTHlhMEhUQVllWHhRYUtDSmlvZjFON1piSXBvNkFtQzVfSFJVQ0VlbWVWaVdINGZoNzFPVFVMQk5fVU1sYzdLMmQ4T2d4LTJ3S25HRWJrX1N6R015NVN4Sm9RQkFuTHhLMTQ3SUNsY21WMWhiOW1IVl82b2Z0WUpDZjNZYkZfdlAyZ0RSNXBQTk15Z2s3d0lzNkFlOXhsTDg?oc=5"
-        },
-        {
-          "date": "2026-08-05",
-          "headline": "The Walt Disney Company and TikTok Announce a First-of-its-Kind Global Short-Form Content-Sharing Deal",
-          "source": "Newsroom | TikTok",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0Nfcl9iNk1QcGVlcEtVRmtkQW9OOEdQcEZEenpOT0lmZnFzV3FfeEEwczFEbV9RZXFGcjJhSFhldVN3T0lPS0kzU0VDbHVMYkdXQXRiR1NFRm1rSUJOWTE0aTVtWmtYTGFGRXZaVkEzYWN0WDdYZWlPUDlXRWpRaTNpanR5NDd3VVl3RmtwVVZrWDFLeDZvRnRNNjRKMHBJVHNIcktOSjhFZGNOTlNlRGtTTlI1MXBVUlNyVzVLVWZ3bTdQWFFKSmdvNk9DYnM4ZTZGTw?oc=5"
-        },
-        {
-          "date": "2026-07-27",
-          "headline": "TikTok celebrates Tyla's highly anticipated new album A*POP with exclusive in-app experience",
-          "source": "Newsroom | TikTok",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTnMzMFQ3ZzZoNkJHRndKakZNTjNYTTF4V2djSEpaNnpBNldOR3hlNGFxYVdFR2RwTmctdmlrY2hzRlBzOFVQNmhSem1LVWVDLVBUcDA0V0dGaE9JOTZGUjJvU1Ric1c2WERZQUxocC04dmhpN0R5MWd1NmRjdTV5TVJSR2xwMnNiZUtyWDlpRXN4TnR3TXRJTkpWa0U4ZjZnZkxhYWNtUTdPbkN6SlViWHQ5bU5ob1h4NFRreWgwWnhzOW5T?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Altera",
@@ -364,44 +68,7 @@
       "valuation": "$8.75B (2025 deal)",
       "lastRound": "Silver Lake 51% / Intel 49%, Sep 2025",
       "source": "https://www.intc.com/",
-      "news": [
-        {
-          "date": "2026-08-18",
-          "headline": "Intel Buys Altera to Fulfill Moore's Law Promise",
-          "source": "ecommercetimes.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnByQWhtQkc2d0Z5VnZ4QzljMFlVSWt2ZnM5cVRSMWpWMTdUdlAwN1BOV2dTS3AtTExJUjZuWWZsLUZ3VEl3UkhjYi1IWjl4YUk3dERpQmpyTkp1VTlaQnNzVm8wN1NZNHpyMEhLQ0w1ek1DMUMtem5oTU9oR25fMUE0Ml9RZmltU2lnOTJ3d09yMUdYM3Z3NkZ2U1lRMjl5ejBaUGpoQQ?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Altera Broadens DDR5 Support Across Agilex FPGA Portfolio",
-          "source": "EE Times India",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclB5cnRTY0hNUEU5c3R2MERVcTd6OTFRZmY2NGJvNG03Z3NrU1B0SmFZMG1rX1hSelN1ckRZVlEtQkRpaG9TaTRVby04bUFZcTdfY25zUGJBaWJRYXBnN1FKOGt6Uk9mTFBDaU5NeElnOFRfSTRVMjU0cnktWE04UURwak52MC1xRVM1dFlR?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Know-How: Licensing Guide",
-          "source": "Altera Community",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3otUzNLT0htckMwVDV0MG1fYlExWGdHMXUzbmQwOTd0bnZHNVBSc2xWWUZ5M3FBZVVzSTZjNzhkbmhKOHFLelBvbGxVNDVRbjZvcU1qOFFyQl9rOGlfLUM1cl8wMWJFZEpkWmxMY2xSN05uNnBhaUF0elV3NVhpV3hxeHB4bTVfRDRoWlhsRQ?oc=5"
-        },
-        {
-          "date": "2026-08-14",
-          "headline": "Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs",
-          "source": "embedded.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZFlVMmtrTFdSSUd6WlAxNTQ5X2NLdlloYkxXeExHUWZySjRwYnFNNHEzU1V5UmNLbExsVV8zcjVJbGt0WHdveUlkcVlrUkI2dFFINzRrLVNjWXFCLUxERnlMTzlXc0ZQb0Z4c3MxZl80dS1IMHA0Vk5SWDhCajQwX2pxUDNub0ZHMDA5cQ?oc=5"
-        },
-        {
-          "date": "2026-08-10",
-          "headline": "Altera Expands DDR5 Memory Support Across Agilex FPGA Portfolio",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjB6Z196WjVxVHJaa2ZCbTU3MEh6dm92NTE2UVlHQlEtMDJqTFR3bVVXVGQ4cVZxb1VaQXlhNlA3d2tqRnc5M3RTZHE2SGNMb2JKRjA4blEyWHRrc1VSaUV2bWRNTzJjVVBrZlZJZzJya0pvSFd3YXhDWjU1dk1kX2dGcEhJRmUxUUQwbmx1cmp5UWNfSkZ0Wkx3aEZrT2RBQ1FHV0FpQnZlWTNwTWdyX294aDJLcG5mVFM4dA?oc=5"
-        },
-        {
-          "date": "2026-05-04",
-          "headline": "Quartus® Prime Pro Edition Design Software Version 26.1 for Windows",
-          "source": "Altera",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2hKbW5sWVZLSnpzMUwwTW1ZZ2dvd0I2a3Z5ZU5hMEg2Ty1QTmRSalpDR0tRUXhuWWxQY05ZQklwcUR3NGhMRG4yUXV6ZEZrZkdfUXQtdldYdDdxZUZ4YldRNnFUWTExVnJGTjlmNjFYVlllbEVzcHZWTzRNQ3luSzVncnRUQjhwOU1LeFVxRm9lUUpFMG9icXVjX2lmWmwtYXJPSnNBSnRIQWxkMlFDcElWcFVvZFRySlE?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Vantage Data Centers (N. America)",
@@ -409,44 +76,7 @@
       "valuation": "Verify latest",
       "lastRound": "$10B+ incremental funding (2023)",
       "source": "https://www.google.com/search?q=Vantage+Data+Centers",
-      "news": [
-        {
-          "date": "2026-08-19",
-          "headline": "Top 10: Data Centre Companies in the UK",
-          "source": "Data Centre Magazine",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXA5YWE0b3FKbGVQNUktcHRTTTZTMlgyYlFiT0hvd2g2aHVmODRtMzdMcDZicC04NEp0elRXcncwT2RmTlN3d3QzeXFPdmFrWGlXMEVJaUtndVlzZVBKSW91QVNpN1hEWXB0VUxJemlaX0RuWDdoSWhBLTg1aFNRYQ?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "PJM Eyes Incentives for Data Centers to Supply Their Own Power",
-          "source": "LoudounNow.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0NoMTVtaDBqTXZJWnk5Z2lCUjVxY185M2JGUXlmdXBBQVVYLTNzbDR3ZThtZXRpTnBwTUZHQURqNjRURnE2VEVXWTZUVVphMGJLamFWaTQ5YUhmUVlTUWRUQXdqMjd3OEJjWUVGUkxadUluZUpRT1hadGthM3F1YXRTSjh6cUFhS1g2MnBSaVBydVUzMDVhZ25ZS2tvZHJuRkZCbnEyWnJGYktibFB1TUIzbjJCNEhod29nRk1CS1FyVDBxY1NiNDU2Y0h4UENFNmpsaXdYMm5pSjV5?oc=5"
-        },
-        {
-          "date": "2026-08-17",
-          "headline": "Oracle drops Wisconsin suit over financial requirements tied to data centers",
-          "source": "WPR",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUJQdTEzVzYzc1JjdDhsbU4yaG9HeHpFTlFQR1RnZEE4SlkxVFp1N1RYcVZFU19WNjJiWVA0WllIWFBPcko0dk5ENkJjSy1CMGtkb09nbmpkUlZWZFJiTGNaLXFEXzFtV1JubUwzdC1wN1A0Y1BwMlR3Tm5xdDBfbHhOdGg1SWlWTDA4azhTV3RnUQ?oc=5"
-        },
-        {
-          "date": "2026-08-13",
-          "headline": "EXCLUSIVE: Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0VjUkhVRzNvSkZTWi0tb09rZ3hmX3UwM1dBd0RIR09fcVNOSVhDZGZBTEdwbkFfdFpYWXM4NUZUSHcySjVpeWRncE85SnFKbVlRSXdNOVA4X2t1V29kSmdTSDZna0RfQWxSbkFiX2lmNjJwRFhUYkI5WVZMcURhUE0yUnhvLUxxaWZjNzI0aWdwVnR0UmtkR3lzMWN6Mk5iRUZ4RXo3ZnR0Z2FpNURlOXBreGF3OGF5QkYzQ01Jd1NkM2NqU0VvX2RoSQ?oc=5"
-        },
-        {
-          "date": "2026-08-13",
-          "headline": "Vantage Data Centers and Nebius Expand UK AI Infrastructure with First Deployment in South Wales AI Growth Zone",
-          "source": "Vantage Data Centers",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaE1WeFUycW1uX0JEQ1FjMWZqU0pjOEdxTHUwSmw2T3I1a1RTaUZVcXd3Q01iUVZsRWRxZ2YwYTlCckgwVWh3Q2djbHJGeGJYcEY2ajhoUmU5TmlfM1hFTk0yM1Jtb3VhYnZPV1NYY3NCQTVYb1RuU1hSa203eU5rNHpaRlZEZnVTTlRfR2dmSHNxajhUdXM0SWd5bXNaMlpSN0U0SUZpcmxHR3I1S0NjR0l6VFNCd0ZLbDVVWVZFU2V0VENaOVc0MDVGb1JOU3Ewc1lqSUttdw?oc=5"
-        },
-        {
-          "date": "2026-08-11",
-          "headline": "Port Washington’s Historic 1860 Light Station Restoration Receives $60,000 Community Investment from Vantage Data Centers, Oracle and OpenAI",
-          "source": "Vantage Data Centers",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQakk5SUllUEhKUDYwbEtTN2xyQl8yeksyWlpzYU9MekpRNXZLbjMxZlN2QTFwdm5zbVRqd0lzZDIxczdCT0xrejRVUVhTbmpCX0V3VDd5bXFXNGJKWXd1VHJIcmRLUDg1dktYT0tHTGlDQXFfVWMtcVRhRmMyR2ZVeFpmeUFzbm9rOGdkVnc0Q2VaOWtWcUt6cTBsQ3lycnd2aGRTSFFHeXJnRWlMakl3dTZadzdsWlJxX3dsNkY1WmhxWktleHI1SGVQaG5pclVVRVBIRDVPTkl0a0xTQ1FicDZ5cVY5aEt0XzhKckZlS3BHZEFVcHVtYQ?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Khazna Data Centers",
@@ -454,44 +84,7 @@
       "valuation": "Verify latest (G42-backed)",
       "lastRound": "$2.62B financing facility (2025)",
       "source": "https://www.datacenterdynamics.com/en/news/khazna-data-centers-bags-26bn-bank-financing/",
-      "news": [
-        {
-          "date": "2026-04-04",
-          "headline": "This Week's Top Five Stories in the Data Centre Industry",
-          "source": "Data Centre Magazine",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOE10VG02dDhNQWptTUx5VmdWNVdieUNjeXpsRS1MdHotcnhzNm9aaUJQVFo4dUctenk2MldES2gwVjMyMUlIYVE3WGZla2hFdkVPVzd4UEVQallnaHlxVmw5azNOczlWZHBnOElXeGRNbi1kMm5rbFJMVXhVNGd2c2xTM2k0ejlsS0dHb0diamJ0QkJSaHRxRl9ZaElJTkxUTUN5TFFfMA?oc=5"
-        },
-        {
-          "date": "2026-02-17",
-          "headline": "Khazna Data Centers Launches Thuraya Graduate Program to Build Next-Gen Data Center Talent",
-          "source": "techafricanews.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbExaLWtqZ25pdUwtNmZ4YUl6OGFmU3VqMWpWWTI2c1RYaWIzS3pDYmg3TUpDUkQ5X1pBZURzckQzUjVUVVhTUlN1NngwcExWU1NybktORnZBeFVCZEgyaXAzSUl3RUF2eUpUeXRLLXhnQXVBX0t6YV9LMDh3cThjUWRINkt6NWJIdVB6X3JfUWpmaVZjQmNTVFpCYVZNZUhYSzkwVkhveTRGM3BJQTZTZ0N4RGhEMmFnZ2pSZGdicVdFZ3VXQ1lKYg?oc=5"
-        },
-        {
-          "date": "2026-02-06",
-          "headline": "UAE launches AI efficiency pilot across Khazna data centers in partnership with Phaidra and Agility",
-          "source": "Data Center Dynamics",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcXowNndJOGhzNzVXb2NhSm82Rm9xcTFmV016NEtrWlo1Z2tCODNNV00zUUVnNkVfT3NtcnE3QkRwckJhSU5YYXEzLUNLVFVqWVE5c3NxT2NOWlNpQm8ycTV0TDZoY3NseUpJTEYxVmNDclkyUlVobkJwaG5fRFVFRG9aLWRNTTY5MEhiUTZHLW14WUJpZ055OXB3Vng3OUFtd2U0bzFnNERqVXA3VjdPcEZhZHVWck9qTW5oaExnbWpvOF9fTVlvWGl6V3pYRm81ZGdLdkZGSUY2LWc?oc=5"
-        },
-        {
-          "date": "2025-10-27",
-          "headline": "Coverage Initiation: Khazna set to build out the largest AI-ready hyperscale facility in UAE",
-          "source": "S&P Global",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU01fR1NUNU5XUW1RampadEtFOHp2SnZ0LU5yY3BGOC1maUVSRzhkLWZJX09HM3pENWIyQlZzcjZwcWlHWldJVDF0dzhPN2Z6d1E3UzF5Z20tcVN3b3NIRVRxVDc4V3RDTlAzRFEzSXRKUm1NVENQRHBtb1NXQndBWWd0U21DUWoyYks4NDduVUNmZlF1a3piaEc5NDFzU1JQbzFITXFUUHpjbTQ3TngycmxWWE9DbXRpU1ZmMjRqUVpqdmxndFlMQlQ2WTJNYTJ5dktxdXJtc0ZhQVo5anA0N2xocWZxMzVQa3dTLUljSU4xWC1TYmpzMnRkMXJsa1k?oc=5"
-        },
-        {
-          "date": "2025-10-07",
-          "headline": "Khazna Report",
-          "source": "Khazna Data Centers",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WT3F1T2prTmtHa0Q5N0h6ZWJkZjJVTkVoX205WUZBdnJJSzJGQ0twa0dnbndfWXZpVUxpRHp1U1NzdWptZUQ0S0ptbTFMbjZ4Vy1OS1BnZw?oc=5"
-        },
-        {
-          "date": "2025-10-06",
-          "headline": "Data Center Provider in the UAE - Khazna Data Centers",
-          "source": "Khazna Data Centers",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9hVXU5SjZ2QURhTE9KbjNySzB0Y2x0VUl1TGxCOXhsX3hKejdSMkJGMHZwSm5hQlpteDc4X1F1RU4xRDVC?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "name": "Campus AI",
@@ -499,32 +92,7 @@
       "valuation": "Verify latest",
       "lastRound": "Verify latest",
       "source": "https://www.google.com/search?q=Campus+AI+startup",
-      "news": [
-        {
-          "date": "2026-08-19",
-          "headline": "Epic unveils new AI system, Ergo, as thousands meet at Verona campus",
-          "source": "The Cap Times",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdlYtOG9mQjRPVVV1MXZVcDJ6bmxSaVkwVHhSRHlheWt6SHB1aEdsdUlPUUpzM25iS0RJRk9zYUNHUTRxTDZmUXpKb2ZON0dJdklLVXZXal9TSFg4MUdzelA0d1RMR0g5aks2cERHYVBnTTVHaVRmMXlIaUJ0NHRmYjNJZVdfSmFKT1FZYUdCNDdWejZCNmF4Q0VieGpZQ3dtZHdON3ZhYXBzZ0VXbE9YQlNBRUlJTmp2ZUhYQmdVS3lraS1IaERVTkJEZm55OU9RVEVDN0F3bVF6VmxwOHI2TnEyNA?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "10 ways Marquette Business is leading AI integration",
-          "source": "Marquette Today",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2VaRzA3dHlHLUVtM2VIdVFyNGNIdndWSC1QX29xSkpvU0RJVm91S1E3c2lZaDRTVS1OcHhuQ1FsVDQ5ZWN2X2h5NlpEbkI3bnIwWjcwMEdsSkZvS3JZZHlYVmFZRDFGdWkxSk9sdDhpT2VzVUszZzNSa3F2eFFWZ2FKOFhBSTBjbFBiLWdwLThYNW8?oc=5"
-        },
-        {
-          "date": "2026-08-19",
-          "headline": "College professor shares why she believes AI can help 'strengthen thinking'",
-          "source": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0N4TW5OcFBTSnpMVzVxTE9EQzIzSzhIOWFHdTJiajFUY2lXN3dGcU5ocThweDMxVy0xR2JlakdVWWpXR2VWSXhnRmVQVVhZbFBzVjAtYk15WF9GNXJZNEFxTm5seWQteC00bVo4RGpDRm9ZaHU0aDF1ZDU1em1PbHF1bWxEWmhjcTA1a2ZKcC1ETUc4bWdCRDFrVkVkQTVEQ1BuX0NvN3p5a2lNNV9KUWNKdjlJd2o4Smc?oc=5"
-        },
-        {
-          "date": "2026-08-18",
-          "headline": "Saint Xavier University Debuts Bold AI-Learning Platform Campus Wide For 2026-2027 Academic Year",
-          "source": "Patch",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdHFNUjBaaVcwRmVDYVNEWkgzSmxNcHlOamI0d0dJSEpCbDlYb3VaaWUtMjczU0RJWUdCOERJUmcyU1J5QU1WTE1EVGxLVEtuMF80TjJzTjdib19DUE12RmdZSkttaUliSlVuallUTHJlYUlzMGRNSlNMaGpvcnEza3MzYlBIWFRYeS1nN0JwWUljQUx3S0t4T1FYVUpvanNxOGpNVEkxR29UdTN0M1MtYU1XeFhGZ9IB7AFBVV95cUxONFpVZVNGT0NzaEpWMXYyUGxjdzRMVWFTSTBrNDFvNG9lTGgwTXllWm9PRlZCc0lmZ3hlQzFfdm44UjlVVFZkVmtYVTlnYTJ1dUU0YnU5NDdtajVPNHJuSGZDWHRpY19RaTN3Si11Y1lRQ3c1SVhmWlNHSTNXNHRXQ3pmQWkwcE83MVRESllnQUo2cVpJdGttaTlFMzhRV0JTMW5Db3RIcF93UkhKUFNXaEpKNTh3MHV6c01DeDYyVTNFWXNsbEdZUHVEaF9oOGtsZk5Kdjc3Vzk5cjlzSi1qanFIRnFfRkppX3hjeg?oc=5"
-        }
-      ]
+      "news": []
     }
   ]
 }

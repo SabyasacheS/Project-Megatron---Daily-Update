@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-22T03:55:18Z",
+  "updated": "2026-11-23T04:36:09Z",
   "macro": [
+    {
+      "date": "2026-11-22",
+      "headline": "A ‘mismatch in timing’: Data center power demand is growing 19% a year. The grid is growing 2%",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pZnBhS29uX2hUdC1qZFNPNm95bXYyR3FKTTI3MDlpekltUFNUN2dNMW9walJCbTVLeXluQ0NIaHBhOE83d014UzR6cmN6VnFmMUNwUFFVM01nMzFvQWlwTVp3Ri1pdGllU1I2VXhteUxkbUFpSUE?oc=5"
+    },
+    {
+      "date": "2026-11-22",
+      "headline": "Regulation Crypto Assets: What issuers need to know | United States",
+      "source": "Norton Rose Fulbright",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnNxZGgyZkZiQU4zVlJFX0VERGQxaGRIUS0wVTEyNTVCVnJIamdRWXlORFFsWDZPM0EzM0NhQWVCbEpPdndpOEF5U1BYYzEyVURvN1BNNkp2Y0FRcTVUcWRxbjQ2dG9hbklXeU9UNlA2N2d1TW9RR2RYWGdIdmRyQ0xadGdESElLaERUOExrNzlUdXV0UlpOR1BaUWQ?oc=5"
+    },
+    {
+      "date": "2026-11-22",
+      "headline": "Capacitance Manometers Market To 2035: Semiconductor Fab Expansion Drives Growth - News and Statistics",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQk92clpSVzFNUHZDVEtIMmQ2bkxWVHhXQWdfYnRnRjZzRTU1X3VhWjlwQVlud3BvNXRVR2tLZFAwNWFxbnpIZW01NjdWT1NqUUVPVy1oS1RfMmhhTE5DY1JXbGs0TkJoOV8xUE4waTFZbndlVFRmVm16VWl4cVdxTHlwc28zRXVSNzgwbnhXUEZmLXVMdVg1d1JSd3Q0eHpLaWlrYXQ0YTJ6cDA3R2xEZFhlejlhSUpaVkE?oc=5"
+    },
     {
       "date": "2026-11-21",
       "headline": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
@@ -8,22 +26,10 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGhFLVdNQVNlbl9tSXFrRmI4LS1VQmhxamhUS0F0WjhFMmoydGtBbG5Lc1AzbklUekQ0NDdvWDM0Q2Nfd2dOUTZEdE9MVnZCUVJtc1p3M0R4M2VjVS1zNUdXWWF1R2ZnNmpQU2lJSXNQQlM5WUk3cF92bDB3c3F5N3d6ZEEySktWeVRmSkE4SXR3R3JUaXhObmhjdmgzSEgxNTV6d3N0M2k5UU9uSDBsRXZiNzIxRWJsQmfSAb8BQVVfeXFMUElMcEVVRXcweUZhTloxWGJFdlN0UWx2ZDBBSm5DRzhiejNJZlgtWWV2eUpiQ0diajZlZ3BrbmZEMTJRZnU2eVBJWkwxdGNzTkprSElzTk05VXhKREVDcnYwN0t4aXl2V2VFbHZ4SWNuWEVvUXA5bEE1dm94UWU3aTBQT0phSEEydHdEMWYzSkNvbWtlbHVlajJRblRfUUc3eFBXTFZmd2VYQWh2RjMwZzM3N2ZYQ0l3OWhqS29mQm8?oc=5"
     },
     {
-      "date": "2026-11-21",
-      "headline": "Trump Threatens Major Tax on Overseas AI Data Centers",
-      "source": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSGwtdVhtZ0FzQXdMdzN1MWpkcWp5X1NRRTNfOVJtVk1KZzFYTEVLNm8tcU9vcWF0N2NnN3JGSmFCTExPQjYxRm02Nl9mMGRra0dGOWFFalBkamhLcHBHYzBUSTc5dm0wOEVSTGR5WEowU3YwOW1JemxOWHpnOHRNUWNJRlZLblI0bjJoRjhKX0pRTzA?oc=5"
-    },
-    {
-      "date": "2026-11-21",
-      "headline": "AI Glasses Emerge as New Semiconductor Battleground as Low-Power DRAM Demand Quadruples",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QQWZxc01IRUhxaDlNdG5KSWZ0N3hXWVBZVGtsSkZDYzZhOXplV1lGNmFGUldsQ1FZYkJsa09BRmVfa1diUU9lMlhpRlFZX0xLUnB1RlNmZldfaEtaVjFuYUNTTE1WbmwzQldJM1pMZ2hMOTNiS3c?oc=5"
-    },
-    {
       "date": "2026-11-20",
-      "headline": "Fed's Cook says rate hikes needed to lower high inflation",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5"
+      "headline": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5"
     },
     {
       "date": "2026-11-20",
@@ -36,12 +42,6 @@
       "headline": "US pushes looser approach to AI regulation, while EU pushes new law",
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEtDUkt0MmpsaVJwUzhNX0NWMkxid2hUN2M5TlpFUmVGakw0VXRhdzFacU5DOVRqc2N1c2kxQThmTkphOHFOQ2VuSUJXZ1psRHc5VllISEVkRkptSXRhUzl1Mmo3QjFUb0NWZmo0UGE3X3dzdE5semlwQkxBY0dzdWItbWF1S0MtN1JZUXNzWDFsR0FpWS1oM2dtUWJzMXl5SC1yMU1qNkZPUdIBrwFBVV95cUxNUE1ES3VydkJuZWU2WXc0dW5VUm1UMlBILXhPa1lFaEJpNHQ3ellYbmdDZWNLM2dkUktkdlM0Xzh6bjVCOFpwM0hGamZNUl96SF9fRktLZXdReTdRV2NLS3oxU3lPUDR3aWhEZ3JNdXlKT3V1ZnRtU3dxZF9GcHNrODhVOFpMelktWWtvb1BWTWs1cG1LZ0FwNndVT2VEaFpQV0sxTkxDd1FKcmN2MVZN?oc=5"
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "SEC Proposes New Regulation Crypto Assets",
-      "source": "SEC.gov",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWowOURzMFZSU0tQa2o5T3o2ZFlYbFlucm96dEJacHdTcWFBa2dXRjBSQ3JzYlY0WGVRUV9HaGJOdzdVSTVIYnFSY0VabDlVUE84Y005RHlDRl9zb1RIZFR2UG80bUdPNGJxTG9HOWtJOHFLTk1oUnRVQ25hSjI0cEp5VUpPX1VoRkpOWF9xcW5PTHVLbEVEdA?oc=5"
     }
   ],
   "public": [
@@ -55,10 +55,28 @@
       "changePct": -7.6862,
       "news": [
         {
+          "date": "2026-11-23",
+          "headline": "Elon Musk Says 2027 AI Cash Crunch Will Be ‘Nuts’ — Analysts Still See SpaceX Emerging As The Biggest AI Hyperscaler",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajVmOVlwUDIzNmZ0QXN1SjRWNU1RaDNieEdPZ3JGRHUwV1NkcDRQOE9uY1MxTmVFY1I2MWJ1SHhjbmZQZHJfYURpTDJ3d2dBZWJUV3FXYS1wbjRvSUp3M0hrQWpWZzdCNm4xTFpuNUZLdHg2VzBLU0F0VldsQkFqUndrWndoRU0xeTM0NDZvYw?oc=5"
+        },
+        {
+          "date": "2026-11-22",
+          "headline": "Elon Musk's SpaceX is betting $74 billion on AI data centers. Texas and Arizona want to know who pays for the power",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5"
+        },
+        {
+          "date": "2026-11-22",
+          "headline": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5"
+        },
+        {
           "date": "2026-11-21",
-          "headline": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
-          "source": "Space",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVFVrdHE3QlZ1OHpJZXFMdDgwTjZVdFZyNjFmNVcydnlUODZlTDFIek5hNGpJMXBLUEhsREVTaGF6T0pueFRWZWZvVzAzTG81TjJncTVtZHI3c0pBLW1zbHI5ME9IZTdHX3VJY0xLUFN1UnktVEpPWUtuRlY5TXo2M09yWFZVYlB2aTFsczlZczZqUGF5WUszMS1oYkY4Y3NOX0k5NkdXZnJSNkcyczM4MkZuN3dTOVA5NlZZOEF0OFVQLUtQc1p1UTZGaG9qWTV4SnpSS3RWNzZrdU1l?oc=5"
+          "headline": "NROL-136 Mission",
+          "source": "SpaceX",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkUUh0cUxWZWp0UjJtQTBpZ0NudTh3OWRHUTdLaGNJdmZtOEUtSjcyZlJiZ0dfNUVkbUo0eE41VGhJdFhZZkNaRHJQamoyOUlr?oc=5"
         },
         {
           "date": "2026-11-20",
@@ -67,28 +85,10 @@
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NVVhZRExTWWpGYWVac3VkQ3Bsa2dpNndVUnV3NzFmV08zbFNlTUhodUNHcFQwYU1tdDRfT3RwX2Ntd1EtU096ME80cXhHSUhyRGU3SWpVMS1lb01NRkNWNWJwcWJCVUJ5Vk8yOGE2VTZxamVNZjVMeVhCOA?oc=5"
         },
         {
-          "date": "2026-11-20",
-          "headline": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business",
-          "source": "Ars Technica",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnBEUUZScjJieG11V0NBZTNFaUhydDdleGtWemhHWW1mM1ZUNnAyekdXWi14MjFZQXNHeFQwX3lXcllVV0Z6Z1N3YzQzbko5VW03emFIR0kxS2RlLXZNX0RXSmcwZ1BVNWV6bUZ5RmNJZlN1UWxMOGVpUGp2MTVGR1hFM3phd0s2cklJbXd6b1gtS3dfeG42Um9Tcml6MEk2MzNGaVVuYjRPZTBxY1E?oc=5"
-        },
-        {
-          "date": "2026-11-20",
-          "headline": "Dems crash Elon Musk’s Texas honeymoon",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQW5DbF9GWDJrVDMwVEJpcHJOMDRSd2FicnFhZjI4Unh4WVdKTnRRSUt6Rl9TV2ZVSDNUT1hGN3RYQVRyWU5FZmRuTlJrWXJJc19zdWxoWXUwVWEzM3psYnNMbnJMMXFWbFluWTMzZExWODF5T1NyQ05wOGJCM0kwNW9oZnpxQ2tMN2dOaElWMnV4bWd6WGc?oc=5"
-        },
-        {
-          "date": "2026-11-14",
-          "headline": "Starship Flight 15",
+          "date": "2023-04-14",
+          "headline": "Jobs",
           "source": "SpaceX",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vNXBfdXhzTnJReWZSYkJuczA4ejRpc3NlRE1VcEZlcWFUQTlIWjJGbENNSXIzVmhqVTFRQW9ZbjZLbW9hR2NHWlB6UFJMdkxDbUh5NFZUS3F5cnBjbG5Z?oc=5"
-        },
-        {
-          "date": "2026-11-12",
-          "headline": "NROL-136 Mission",
-          "source": "SpaceX",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkUUh0cUxWZWp0UjJtQTBpZ0NudTh3OWRHUTdLaGNJdmZtOEUtSjcyZlJiZ0dfNUVkbUo0eE41VGhJdFhZZkNaRHJQamoyOUlr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WUWdZa2U3S3JDYm1qZUVfOHlfdnlsdDQ4eXlQX24wYVQzRk5GY2E4TUx6NFpZQm44M0RUM3hrR2JYY2FOaUV5Z1lmSQ?oc=5"
         }
       ]
     }
@@ -102,40 +102,40 @@
       "source": "https://www.reuters.com/",
       "news": [
         {
-          "date": "2026-11-21",
-          "headline": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
-          "source": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teVBVYVBpX09MbkhFa0tJUWR1QkNhMUFROUR0WUFLRnd6TnhCYTh6RURoUlNRckVWQ1loZEQ1bE1NeFBpWmpKOUdHeG5oQ1VEMUY4LW0ybGVaRzYtcU9wai0zaVlub2ZKcjh1enZIdXJKZWZDdk1XNzk3NFdPWUk?oc=5"
+          "date": "2026-11-23",
+          "headline": "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXZRS2dTVkZ5UVNWRGZtOHBqU25Qc3Fqb2lTbjRSMDFWTVVFM2NNZVVPNll3TlUzdzNZeFJfRXFRWFVzTkQtektkdENjUWtqZkUyblhuLVJpRkhJOEc4V3pUZEdlcjN0alRMMGlWUFF4NDNwTTJnSjJXbE9lWXE2YkhVaWc0Mk05dUxyVXVSMUZZTllMZW5BaFB1RkFzNDhpNjBudw?oc=5"
         },
         {
-          "date": "2026-11-20",
-          "headline": "OpenAI Models Deliver Up To 14% PPA Gains On AMD Flagship GPU Designs, With Some Changes Already Sent To Manufacturing",
-          "source": "Wccftech",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1dGc0wwcjc3X09sdEFPR0VkSG5jT3JZUnpJNWFIbGRDR1ZEQnJJZ01XLTlXYVBUY0liZmJKWXdwdTZjUERLSVFMX055dHEzR1IyREJjU1UzX3gtTFlMWHA4bHdOQzJmay0zUzlidE00NFVjUFAydEpfUXE4c3E0cUI0Zk9TV1duNVJ2Zm5laWNQTldmRWdRQTJtZUxJUHM4ZzY3ckIxazNsaDdjcVo1bUI0UW9panRHWUNveFZ5VHl3MkY3VnozbUgyYS1QWWtlZDNXUdIB2gFBVV95cUxPQ1BpX2llOUpDRkxGSW9ydnVVdkV1ZVpraXh0NldadXZaU2cwYzVWQkJKVUVIal9oYk4xVmF1SG5kYjNiQ2YteHlTc21DWVljMUhub2JoRTBBOGcxYjdJcFROR1pUaE1vZFBVdjQwUGpqd3RjYjV4TXFsazN4UTNJY3ZuQkZXcXhrNTVZeUtSZjVtYXQ1a28zWjFTdnhZVzlZeVhYRkU0UzVjanNVWjdhUG1FaTBOM0lJRFVMa1hIbXJfWEE1UmdBREZiTkxlSmVTS21WS0dDVFBIdw?oc=5"
-        },
-        {
-          "date": "2026-11-20",
-          "headline": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+          "date": "2026-11-22",
+          "headline": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
           "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5"
+        },
+        {
+          "date": "2026-11-22",
+          "headline": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGxIY24yOU1LOUlMeVhETGlMMUZaVjN6SHZzSkduYTluS1RkZzVxUktHR2dFRndlZEUxdjBmQXlpdzRkMjhIVDRaTXlsTUUzbzFud0Y3R1ZaUzhxS3dlYUVaNlgzSDB6cVNNMTNzNGRSNHYwaGp0MkdTNmptYzZxRG1GeVRmVzdaRjNkWkU1b21UTWROUGJrUWJ5UksyeGtPZG1PSQ?oc=5"
+        },
+        {
+          "date": "2026-11-22",
+          "headline": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5"
+        },
+        {
+          "date": "2026-11-22",
+          "headline": "Perplexity and Intelligence",
+          "source": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5"
         },
         {
           "date": "2026-11-20",
           "headline": "Combatting adversarial distillation",
           "source": "OpenAI",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5"
-        },
-        {
-          "date": "2026-11-20",
-          "headline": "Can AI help scientists identify promising drug candidates?",
-          "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?oc=5"
-        },
-        {
-          "date": "2026-11-20",
-          "headline": "Time awareness and async input for personal agents",
-          "source": "OpenAI Developers",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0VNWnFnbENzSHJLc3l2Z2xuQXhqQktUX09OVnAtNFBUOE9KR0FXb015a3M3OEY5UDAtS2JDTWZVTWdIOE0wOHF0SmJtYUhHNVBXWHZHWmxkZjFqeU1CbDhnVjlETjFXdG9qSXdDVFdoZEkwNG1TYXF0RXV4WmlUcDVvbmVxQVZtTWJJUWVB?oc=5"
         }
       ]
     },
@@ -147,28 +147,28 @@
       "source": "https://www.ft.com/",
       "news": [
         {
-          "date": "2026-11-22",
-          "headline": "Elon Musk Says Anthropic 'Extremely Likely' to Expand SpaceX Compute Deal, Could Seek 10 Gigawatts More: 'That’s a Big Number'",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkU0N25PUzUwTWlsM1NUeFFaZXphS19wdDBNbWNFNjBmRzNheDRKRkxRb1N1ajBSeDdSeGVISmNUbHV3WThYZEF2ZEVwb2ZoMzlfNGJHQVhVX051Q1dIMk5ycTFoRUIwMTZ1Z2FPbE1lRENRWHU4cFlVeGphM2ljYWpaaUhNR0xDT0paZmJQMXFTZVFBcWw3cFQzbjZJcXM?oc=5"
-        },
-        {
-          "date": "2026-11-22",
-          "headline": "Who Is Leopold Aschenbrenner? His Fund’s $5 Billion Anthropic Stake",
-          "source": "The Profile | Polina Pompliano",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13cFROSnVkUnBjaW5mdzFUN2NPZWJrWDZKQXpSLUM4R0tpTEFtX182MGNpVU41NkhRYUJ3UjhjTEEwWEVJeEgtT0MxSVhUajBIdTFDR1dpd3Fvbzk1RDd4akh0Z3ctU3k0OFhLNEdB?oc=5"
+          "date": "2026-11-21",
+          "headline": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0p4QVlqUGxNcEQwUVJFWkU2cnBwOGRoMjk0ZDRSaFlNZzZMdmt5d3p0QzZzeDZXZks1TGhyN1JPNDI0clRKSHMtSWpOdHNMeUMyNHU5YlpJY0NITnJ4MUhJeTByWmtKdU9QdlZIZGtvYmJlZW1oTjVKZ25WRGowQVRXSWp1cDZYLTRONXRoVkRSc3ZjdDNvWE5jLUhnY2lHd202LXd5Umk3ZlQt?oc=5"
         },
         {
           "date": "2026-11-21",
-          "headline": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5"
+          "headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xNEdGZ2NVWW5vN181WS00bHpZZ29jQjd6TVZEb0FvREdoTHJwV2ZYYVZBMTBTbTFhQjRIX3ZEOVhVdVFaNGt2aGRtZnRoWXljaHg3ZmdfRGREeHVWaGE3RC1sWGFVYTRkNXVqaGtB?oc=5"
         },
         {
           "date": "2026-11-20",
-          "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
-          "source": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5"
+          "headline": "Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5"
+        },
+        {
+          "date": "2026-11-20",
+          "headline": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2R1UU5HMEVNTGhtYWxQaTNBMjVRZnZxZjJVU0U1MVk0U2dIRHh6akhYNV9tNWxXYjNmeU16UzdqZDM3bUpDS1BxOEd2b3oySzVMako4Z25JMmNFUVd5ZlFWNTZ4WmJ6d2NXT0R5Z1JsNVNGMi04MGowVF9CQkl4dEEtXzJNYWRDeHA3Rk1hV250dEZWQjNRLW5RZHZPQ0ZMMlNLSDdkejFKTklvZW1ZNDZZalFOQQ?oc=5"
         },
         {
           "date": "2026-11-20",
@@ -199,6 +199,12 @@
         },
         {
           "date": "2026-11-20",
+          "headline": "Interactive Databricks Reference Architectures Across 70 Industries",
+          "source": "Databricks",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZIazNoTjlMMUJmclRmWlNxQUZOa1NZckdPVERCRjgzZV9YVGo5N3ZERktYM0hGQnR3YnJMVlp0U0Q0czc5dnd5bUFjR3p3LV9zN0sxUnZERmxGLWFsRXF3Y25qb2NqbzNQb1pKNllQYlZNQVN4TEx4N1JGV25rVkwxVVFUSTdKV3hFekRVcjBEN1dUQU44ZWZ1ZUNxLTky?oc=5"
+        },
+        {
+          "date": "2026-11-20",
           "headline": "Databricks in early talks to raise funds at $225 billion valuation, WSJ reports",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRS1RakZnNDMzSzNQMW5Yb3BfckxrRE5DQnlYWFRpVkRKUGc2SmtEU241dGtTYjIzY3ZvUktrOWVHbkFxanJ2M21sc2dxaFFTdDljaTZtaV9yWUN4LThySTQtdmpBUEZfQjF3a29WVjJGRnRjdXdGa1R0Y2kyclZRNkhLMEtnVnppczRZOGRfdi04emFPWTNtVXdpYmRvUXFkdzVYUUhIYjZrWXNzVllsNE1JNzdxd0U2ZEhGSnVwMzBfQQ?oc=5"
@@ -211,21 +217,15 @@
         },
         {
           "date": "2026-11-20",
-          "headline": "Interactive Databricks Reference Architectures Across 70 Industries",
-          "source": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZIazNoTjlMMUJmclRmWlNxQUZOa1NZckdPVERCRjgzZV9YVGo5N3ZERktYM0hGQnR3YnJMVlp0U0Q0czc5dnd5bUFjR3p3LV9zN0sxUnZERmxGLWFsRXF3Y25qb2NqbzNQb1pKNllQYlZNQVN4TEx4N1JGV25rVkwxVVFUSTdKV3hFekRVcjBEN1dUQU44ZWZ1ZUNxLTky?oc=5"
-        },
-        {
-          "date": "2026-11-20",
           "headline": "PostgreSQL 19 is available on Lakebase",
           "source": "Databricks",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85TVFDSEdmVi1pTkNDdG9iU3p6ci1CaTBHX3hwd01hYndwMkNnQ2NEczVndUdsd2pvSXNXazZQMURla2RadzBDU1BLR1AyWG10cVZlUmxySU8wMVBZYmFBTUJ6V1ctVzlxdkNZdVVhY1ppUQ?oc=5"
         },
         {
           "date": "2026-11-19",
-          "headline": "Introducing CustomerLake Conversions: Improve advertising performance with first-party customer context",
+          "headline": "Bulk migrate your dashboards to AI/BI with Genie Code",
           "source": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qTGVCODN4WEFVcmpsZmZPQUZpQ0lxOExzeUdrUmpVeWtudWhNMVZOdVFQR3gxUUlvdG1JUXFBeWZkTnpVT3hrZTl6YjdDTHJqNXRoY29QQXBwVHoxYnhyaVFYa2tRNTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb3ZGT0NPcXF3YnExR2hPcGhXOTRsNzJvblpKcE82ZE1MSGhacjN1b1dJejhrSE9BNlB6WkItbVpWY3M4dW9UZXJ0LUNQQUMyWFc5WUM2NVo4dy1NelRYLTF1Qmc0aXFnUWlSekRlWkNPWkdvdTlGZWNBbVdaTlhCQUx3?oc=5"
         }
       ]
     },
@@ -249,16 +249,16 @@
           "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9HMzhFTFphekdjVVBKQlExMHRNM2JWcjB0MVpVeklTTDRrWGtpNEJZSkZ1MWxYTl9JZDVYbk9zWDNwQQ?oc=5"
         },
         {
+          "date": "2026-11-19",
+          "headline": "Nick Bostrom on Superintelligence, Longer Lives, and Deep Utopia｜a16z",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85eTJteUlHejY0dTNCbTJlNk1CY0FrRG5IRmxhVEtsNEpwZG5KMk4xdXJTbVhZeE82Q3JsTXFNT2ZMdFlHdnlvM3lHYW1oYndsVHRPMjlwbHlVcVJ3MF9z?oc=5"
+        },
+        {
           "date": "2026-10-21",
           "headline": "Safe Superintelligence: Ilya, NVIDIA and a US$32bn AI Bet",
           "source": "AI Magazine",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVFdWwydHJ2VUk0ZU4yUmhLdnM0a0IwLV9CNVAwYkJFTEtscGdoZ2h0OUJGREY2Q3ZaWGxGbkpGM0xXZnZTemp6cDI0VXR4cHMxMDlYay1QOE1RcFNBRHVKTVdlSVR0S245TmhPUmtGOEFJQ1BXSndSU2hoQ2xmazAyYzJ3LVZQUVgtZm5vUQ?oc=5"
-        },
-        {
-          "date": "2026-07-27",
-          "headline": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
-          "source": "NVIDIA Newsroom",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3gwdE5oOS1qX1RMNVc5bVJXU1hzZVV5U2hoM0JIMDFRYUZrdC00ZUZpR0FDelZ3b3JfRFJJVUNZZjFzdTBrb3Y3bTBmb3pWbWNMem1IZXBnVTdaWkZlREdZeGFVc0xnXzNXZXExLUZJRDlZOG1ZMC1LaXFMYjNmNUx2amMyM1RWb3R6bUZVd19DcnI4UUlSc251RHlWM3VCdlhYMkliWjR3UnBodDRZTl8yTUdoVnZieGhzZHBsWTFoZ3FScnZLUQ?oc=5"
         },
         {
           "date": "2024-06-19",
@@ -276,16 +276,22 @@
       "source": "https://www.google.com/search?q=Binance+news",
       "news": [
         {
-          "date": "2026-11-21",
-          "headline": "$81.23 Million HYPE Long Faces Liquidation Risk as Whale Adds $5 Million in USDC",
+          "date": "2026-11-22",
+          "headline": "Binance Bitcoin funding turns negative, and one analyst sees a possible reversal",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRXR6SllaV2xiY3lTQ2xmUldFVk9SMlNTUHg1WUM2WkhWT21ENmFlaVdRVDVZUVNoNTVHdFZVRXpfWTFha2p1cGNJV001emhoMjc0d05oWmw5S05HaHBTNHZncFIxVDlqa0JwSEgzYTdHZjlSbmg2Zi1GcnhDd3lIVU5IQmZBTW01Q0wyLTR3aGczU25meklkY1ZoWEkyTHYtSllpcUEzVjhmLWlyTW5hQThLakJBT2ZKNEYzcm9oZU1zdW5JYlpxQ0IzbEdRbUhYbXl6WUtSSG4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlNlc2Q2N2pwRXpZRnhOWXJxVGFsbHN4QnhhVUIwTFdQcFEwd3FVMnZSVE9JSWd6SERBNGpPeklmR09VMlVLbzhOVzZrNXMwUXpDRlhXSG9lNkRlZ2Z6RkRZUUNZSEpTX3pVNHJwS19FdVBCZ3BTUUVnb0dQWFduX2ptSkNuTVlJX3FRRW9WRG9jNFd0X1BYcUhRQ0JlR2ZETkJNemJQMldzX2FMcEZsMmlnenZYSlFNaUxhWXcwQkl2aGFSQkZWUEpLVVlMSnpjTkt0Tm5Ec05DY3Vq?oc=5"
         },
         {
           "date": "2026-11-20",
           "headline": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
           "source": "The Block",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSndDVWk0NjdkRDZvb1d2QURSZ1FnOUVVWEpaVWV1Uzg3d2VoWVVOdUtVOGQ3elR3eExRZFdCTUY2XzFOR1Z2Y01rMk9aLUxOQi1adzdlTFVQcnNpWjVFQWotdUhNR3JZZDRSY1BGSTZkbWV0bUNjemxyNFA1Q3I1MElrMVFhdndpUFh2T0I4SEpfdTNkYmlMREVDV0Vrd2M4SHlVWlpXRjBvd29aS1VNNW52bFc4OEpZT2xEYXhobjR3bEt0MU84Ujhhek4?oc=5"
+        },
+        {
+          "date": "2026-11-20",
+          "headline": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
+          "source": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHBKWmhqM2c0OVdhM2Q2ZWNhTWowaW4zNEJoS1NFSkFkMWpSOFpUTmRodVpvaVBPR0ltTThrLVd3ZFotdW80cmpyQkpuSTVDMmlYRlo2TFMzb0lEYlFUN3pZc0dvRHRlMy1Xdkg2WC1YZ1hkcl9CNTJUS1FHUFBqSXRONnBTQncyX25N?oc=5"
         },
         {
           "date": "2026-11-20",
@@ -304,12 +310,6 @@
           "headline": "Binance Futures Will End Last Price Protected Period on USDⓈ-Margined SNDKUSDT Perpetual Contract (2026-11-20)",
           "source": "Binance",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3dhWFdpVXJMYUYwbUlTaU5RXzI0YVc1YlN4M1dTeXF6Zklsb2FoNV9YTTJOdzBqX21JU3g1TFJjYnIyak12UU9nUWg1TFUwb2RjdEtiUkM1c2NCZ1VDWGkyOGZHb056UnFwVC03SGZMUUR5aUU3eTIwR2stRmJTODJBQzdIdmNTaDl1dWkzdDM?oc=5"
-        },
-        {
-          "date": "2026-11-20",
-          "headline": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-20)",
-          "source": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlYzQnlvdUpVWURnTVcxbXVNVWdyQ0tEMi1zQ3VmZTk4MXQzd052UXlGb0g0eU5FNTdBeVN2Z3I0RndqUTM1ak5YTWFraVM3b1RJSS1KZzFQU0xDekwtVG9XRm1wQmNHTHJ5SkxQeVBEc0JUNVpsSUV6U2ZnVkZmZ0RLM1JNLWFTOG5WOFR2bzE?oc=5"
         }
       ]
     },
@@ -321,16 +321,16 @@
       "source": "https://www.google.com/search?q=ByteDance+valuation",
       "news": [
         {
+          "date": "2026-11-22",
+          "headline": "ByteDance and TikTok Lobbying 2026: Spend, Firms, Timeline",
+          "source": "Everything-PR",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zVEtXOFpMVEJGQzRtX0otek5YU2h6c2FXVThwNFAxQVFLX1VkNFdjZ3dNQkRRdWJRcGI5Zm1ZYTRPY09oNmR4WWhBNHhPQ1ZsYnVIVThNbFdNY3h3VG10NQ?oc=5"
+        },
+        {
           "date": "2026-11-21",
           "headline": "TikTok Cleared to Challenge Patent After U.S. Ownership Shift",
           "source": "Law Commentary",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjdWVDhLeVp6c3l6RS00SXp1dm5TUGRORW1SYzhxRzFQMnp5UXNPYl95OHYxbm9CUzdYYURGM0FhcV9vNi1EeV95TVpCa0p3QlFvRFlteGU2cmtWR2hOblFTQnJRcGlOSElveVdITmM2eEw3OTlWdm1ZOEZIeEtxNg?oc=5"
-        },
-        {
-          "date": "2026-11-20",
-          "headline": "Microsoft’s $500 Million ByteDance Deal Puts OpenAI Partnership To The Test",
-          "source": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHJGRmE0NWF0algwZVNqZk93am1NaVVma2wySjQ4RXhLVm02eXNpUnZVY0lJaTBaRU84YXlMbVhLck5WT0dCLXdvYW9ITExwbFFwR3N5amh1d3ZvZS01aVNoQVVWdE5tVGFkZmxxakFid2pCallTa0o1aWEyOFdRYlpZQVRqT1c0T0tpVDZuUTFmZkZ2V3E3T1Y3c08tZTFQSmpKNG0yX1pETGlfcFE1RmlETXdHYXJQNlYyaVdtMHpnR3VScFJ0aGZQMnFNTUhkZGtuYnZ2VEZPbnh3X2dReQ?oc=5"
         },
         {
           "date": "2026-11-19",
@@ -373,21 +373,15 @@
         },
         {
           "date": "2026-11-16",
-          "headline": "Altera Agilex 9 Direct RF FPGA Anchors a QPU-to-GPU Quantum Controller Design With OQC and NVIDIA NVQLink",
-          "source": "StorageReview.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3NvRmY3dWY3VDlHSmI4RVVOTlZ3bDdQbDdjX2VSeGxxNjFjYkRXUkloRDgteUxIU2VYRU5GbE02UTFaRW5ra1Y0ZENMZnpHR2d5VE5hZEJOV0Z1elM5SWRMdjlfQ0w4UXFxV3NkVTR4eXQ1TnQ4czNHMVRJV1N1YXcxeHJUbTVJVkRQVXJCX0VJQmJ5NWZUeEJGd2pZLUJ0VDc3UHBR0gGrAUFVX3lxTE9iZ2h3aTB2d0pTd3NlcWxiSjJsclFpZDRMckVfbjJFZmY3SHBiSFBpOVpPYjJBU3hzUEprVFhQVFNjVENFckRvdHYwRHN5WDBrb29TQy1JTVZpTUNZS1AwWk00bk05UXVuUVdCZnhrbVd0b0lSRmV6aUY5VmlfcllzWEpSTzJkM3BTRnRxemNpMTlZdm1GSUpKcmlIYldhN1RaMUVNV0tJeXJrNA?oc=5"
+          "headline": "Altera, OQC and NVIDIA Unveil FPGA Quantum Controller With NVQLink at SC26",
+          "source": "CASRAI",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFItb2pFSXBsZkNra0RlcEQzVmxaVEtrM0R2OVNhcGhsUG5nVFFvS2oxVkFtbzRiRmd5RTd3enVTWGZLdTJvdHJiaDA0aTB3ZUUwSlRHY2JHakdUMDlNZFkzMk5aX0FJR3Q5Q2ZVQjZqa3A0c1hjdFlsU2hwdGlZbVpWMnRDU1lfTlM0?oc=5"
         },
         {
           "date": "2026-10-28",
           "headline": "Altera Unveils a New Agilex FPGA Portfolio and Agentic AI Developer Tool - News",
           "source": "All About Circuits",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGQ0ZEI0dHRWVlZwV2JDc1A3QmFBYlM4MW95QzluRzRwSjBGWUF5bkFHYWFnTlptQ0o1MFBqaHFRYmk1U1c5UjloVnZRcEZYbzA3a1phWEU3eWktMEJyOWVMQ2YyaXFrbnpmUGFRYW84TFBMdnZsOEZFalRKby1UcWg2ZTZvbjlCUm1oTEUtbDZibWZyWnZwZlA1aVM4eVhSNklZdzg5NUJXNkdRX2xqRA?oc=5"
-        },
-        {
-          "date": "2026-10-28",
-          "headline": "Questa FPGA Pro 26.3",
-          "source": "Altera",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyWnpZakpERGFNQlB5ZEdKaHhKVzR4RFFkYzVkT3hYNHNkNFg4YVh4SWEteklFem9HZ1RDOWg1SGdiT0I3dmZsRXhXaDIzem00eXdjc05NdUJiS1RGSzdoZmhfdmgxb21GVi1KOGxackcyekVYWUtQSkt3?oc=5"
         },
         {
           "date": "2026-10-21",
@@ -400,6 +394,12 @@
           "headline": "Search for example designs, resources, and technical documentation.",
           "source": "Altera",
           "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9zVWl1WnVGal9VbmUzVlRQMVhjanhmWjgtOHp4MWdJMWZpTkQyeWk2V0VhX0xrWjNDdEpvSQ?oc=5"
+        },
+        {
+          "date": "2025-11-03",
+          "headline": "Quartus® Prime Standard Edition Design Software Version 25.1 for Windows",
+          "source": "Altera",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXcybENDaEZzcF9OTW5VRGRYMHh0RE16SmR6VkdIMGMydHItUE5DU2Z2cDE0YVdXNDVWZmlMdEE1U3hhLVN1NHJPZGZreGZOWldRdG5nSVdOTEp5UWFxazJNdTRibzk0WEp5SEtTa1FtR2w2WllDbFhVaWZCS1dxU1djMDRBMUJwTFF6dm1XLVo5ZHA0TFRIekRzN3hBeGZCVW9FOHZRNGJ4M0xBc1NET3k5SzI2YVlHbGJ6ZUhXX3M?oc=5"
         }
       ]
     },
@@ -412,15 +412,15 @@
       "news": [
         {
           "date": "2026-11-20",
-          "headline": "Data Centers: The Newest Logistics Demand Engine",
-          "source": "Cushman & Wakefield",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2FZVUphQXVnakpYM1RsOG15VDVPNjBCRUd1UUhVckZSbkVhbURFVERFVXJwQ0Z2MVV4Q0UzbW11dXpjT2ZhOEEzalp1LUhNZWF5U01meGlKZm14RHp6QlNMNlRDbFJiZXZwaUlTcHU3b1NyLUwxWUdndlVFYXNPNl9sMEFWaWV6Z0tsbl9TbVM0VlIzVURIUDh0Wm9QZ01ibDdGcXNUQmFpdw?oc=5"
+          "headline": "Vantage, Oracle donate $27M for new Port Washington community center",
+          "source": "Milwaukee Journal Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcllZWnRhTC1HMkNObExLamVRVHJnY0x4TTNtdWV2NVEwNzlhR1NMMVZYWDYzWmFKdUptSmo5WkJ1NkxJWXBkMnBnV3hPc2dxQ3pyU3Q2WDhiMUstbUdnTEhqYjJGUDRrc1MxSVYySUJtWmVMYTI3U2dBZjVBOGZvcGk3a1IzWFY4dmJyaVFzR09fTlRmcE5tTFFnNVdraXJ4ck43UEpLOTV6WkdadXc0dllEd3g2a21DYkE4RUlyNUFsR1VacVR0aElVaWFoU0dsaUhsc1N0a1NLVzFUZjg1MzlGTUpEVng0SDNTbENLbWNKM1JiVG1ZaDhKUE56eEk?oc=5"
         },
         {
           "date": "2026-11-20",
-          "headline": "$27M gift from Oracle, Vantage to fund 'unbelievable space' in Port Washington",
-          "source": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE9vS29EZTRUUlNnblY3SkEtLVQ3VG9acGpHQVp3ZGlfYVk2YmgtakFaX3IwRVZ0UlhWdXZqZWt0OS00T3d0MG1yUVl6ajNBb2Y2Z0dfN3licWNWc2NtbjZINE56UXRQQTFiVVhwMmNOVFd1ZmtPMGNhRUR5NG1pbndiRmNVSXgzNHY2YmpDYzUybENHN2c?oc=5"
+          "headline": "Data Centers: The Newest Logistics Demand Engine",
+          "source": "Cushman & Wakefield",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2FZVUphQXVnakpYM1RsOG15VDVPNjBCRUd1UUhVckZSbkVhbURFVERFVXJwQ0Z2MVV4Q0UzbW11dXpjT2ZhOEEzalp1LUhNZWF5U01meGlKZm14RHp6QlNMNlRDbFJiZXZwaUlTcHU3b1NyLUwxWUdndlVFYXNPNl9sMEFWaWV6Z0tsbl9TbVM0VlIzVURIUDh0Wm9QZ01ibDdGcXNUQmFpdw?oc=5"
         },
         {
           "date": "2026-11-18",
@@ -501,28 +501,28 @@
       "source": "https://www.google.com/search?q=Campus+AI+startup",
       "news": [
         {
-          "date": "2026-11-21",
-          "headline": "Central State University Opens AI, Food Safety Labs in Greene County",
-          "source": "Hoodline",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGk2RXF1NkMxWmpydDItalFpWER2VzhnaUplR1MwTjBvdGJBOUg4NXc4bTFzeTFJdS1QSTZNQkVoNURYU3dUSDBIRVM2ZEhSaldwMEg1V01GYVBuRHV2d1k0WW1BdXd2MDAwNHNzRWxkdFRvNEFla3lQVk5CaTBjQjVsVUFFRWRWVUprcG83aEU5UkZnYTA3VmZmbTZ6d1AyZ3pQY1hwNkh3MG1qdjhLbDZqVlRudUhwODlB?oc=5"
+          "date": "2026-11-22",
+          "headline": "CMU says it tops an AI-ready campus index. @conitzer brings the tsunami joke",
+          "source": "Digg",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ScVhDNUJJUE94VjZ0WlZEY255bTZTdjJ0TnZ6YkFTdFFkckRvN3NoTzZVV0RXTGpWaUE3WFRsaFdodw?oc=5"
+        },
+        {
+          "date": "2026-11-22",
+          "headline": "New course introduces students to AI at Western Nevada College",
+          "source": "Nevada Appeal",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWljUXlEQ2pkcTdaaXcxZGZVLThvVHoxaHU4Y1J3TlI2aXl4bEF5ZjFIUzNHdXJvOVk2U0ZsRWNsN3pHUDhGRmpSd1ZnM0p1SjFyX2dYbmExckJNZWhFZXlzU0Zid3cyWmFJeUVtRzlrVHZQQTFEYXJ4OFBORHJnT2MxVnJnMkIxbndEUVFucUt5ZlhXVFY0NHBBYnlsV21DYVprcl9qeEwyd21UVmc?oc=5"
+        },
+        {
+          "date": "2026-11-20",
+          "headline": "UC signs deal with OpenAI to expand AI access, lower costs",
+          "source": "Daily Bruin",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW9aOVU5UFRyZUtEMzFCQm9sU2N3ZEtLTlNiY3ZkRG54SWxpNTFBWDNsQ1BNaDk5ZkxFbFpKMlJjTG1fM1c2MDBTNURZZDVJOFdnZjdaQkxOY1htRnprM2llSF83ZkxHT0xRRXNVTU1zcXpmcTI2QlZFdzdFRG8xZTRLSmwzWm8tUG1vTkJuVll4S0RlVHc?oc=5"
         },
         {
           "date": "2026-11-20",
           "headline": "The Anti-A.I. Campus Movement Is Growing",
           "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDB3MzlxNHBqS2FkU3R3MHkyZlAya3E0WnQtTkpkYUpnc1dzUXd4VjZVcEpLcmhQLTZmTTExMW9kUlFoRnhtMjBYT0NDTGc1QlZzV2JSclFvdm9kMmFYZnBOcVpYZ3hxSEJTSU5ndkRBMkI0WTVWV0huckNjWWRLMTlHWnY?oc=5"
-        },
-        {
-          "date": "2026-11-19",
-          "headline": "An Anti-A.I. Campus Movement",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlZKZHNGX2ZzTFk3M3UyRnlnd2RodnZCYVIxWjcwQVpDR0doakxrT3Q4Ykk3NXI4Q2FLRE0ycFZqa0RvVF9nQVhQV3dtMFd6aWJldE1jWjRlZmtacGRlNkQzeGRCbjY2V0hmbklZNlE3S2FWZU5SN2Q2X3lfeW9DUw?oc=5"
-        },
-        {
-          "date": "2026-11-17",
-          "headline": "Inside CMU’s Top-Ranked 'AI-Ready Campus'",
-          "source": "Carnegie Mellon University",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFhIX2h6U0pfejFIWl9yaGNMY2ZUbG52TGlqcU1DT1pkZVdiaHdmUU9leGhNTFZSWS0zQk1Gd0RiNXg1bmpoMmNrZWQyTDdjRkNJX0lwb2dJc0d4bS10TThJU0tKRVZoWHFzWnFOT2tqeGthWGlXOFR3eFA2TndpU0EyQUJ2czUyOHhBejVWWmJZNmRRUDVmTWtR?oc=5"
         }
       ]
     }
